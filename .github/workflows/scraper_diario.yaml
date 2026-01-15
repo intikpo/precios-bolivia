@@ -14,7 +14,7 @@ jobs:
       - name: Checkout código
         uses: actions/checkout@v4
         with:
-          ref: master
+          ref: main
       
       - name: Configurar Python
         uses: actions/setup-python@v5
