@@ -218,7 +218,3 @@ $RECYCLE.BIN/
 
 # carperta de pruebas
 pruebas/
-
-# Ignorar todos los archivos dentro de data/raw
-data/raw/
-data/processed/
