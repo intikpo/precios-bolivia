@@ -5,10 +5,20 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-def export_data(data: list, source: str, output_dir: Path, format: str) -> str:
+def export_data(data: list, 
+                source: str, 
+                output_dir: Path, 
+                format: str, 
+                remove_duplicates: bool = False) -> str:
     """
     Exportar datos a un archivo
-    format: csv, pkl o parquet
+    Args:
+        data: datos
+        source: fuente de datos 
+        output_dir: DATA_DIR
+        format: csv, pkl o parquet
+        remove_duplicates: Indica si se eliminan duplicados
+
     """
     if not data:
         logger.warning(f"No hay datos para guardar de {source}")
@@ -24,6 +34,13 @@ def export_data(data: list, source: str, output_dir: Path, format: str) -> str:
     filename = f"{fecha}.{ext}"
     filepath = output_dir / source / mes / filename
     filepath.parent.mkdir(parents=True, exist_ok=True)
+
+    # Eliminamos duplicados considerando solo IdProducto
+    if remove_duplicates:
+        # Ordenamos, asegurando que "PrecioOriginal <> 0" esté arriba
+        df = df.sort_values(by=['IdProducto', 'PrecioOriginal'], ascending=[True, False])
+        # eliminamos duplicados, y donde "PrecioOriginal = 0"
+        df = df.drop_duplicates(subset=['IdProducto'], keep='first')
     
     # Guardar
     if format == 'csv':

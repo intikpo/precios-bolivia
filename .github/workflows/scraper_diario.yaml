@@ -1,4 +1,4 @@
-name: Scraping Diario Hipermaxi
+name: Scraping Diario
 
 on:
   schedule:

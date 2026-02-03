@@ -4,9 +4,10 @@ import logging
 import pandas as pd
 from typing import List, Dict
 from pathlib import Path
-from ..config import TIMEOUT, REQUEST_DELAY
-from ..config import DATA_DIR
-from ..utils.auth import get_authenticated_session
+from src.config import TIMEOUT, REQUEST_DELAY
+from src.config import DATA_DIR
+from src.utils.auth import get_authenticated_session
+from src.utils.products import productos_unicos
 
 logger = logging.getLogger(__name__)
 
@@ -164,47 +165,6 @@ def get_productos(session: requests.Session, headers: dict, base_url: str,
     
     return productos
 
-def productos_unicos(data):
-    """
-    Obtenemos listado de productos id y descripción.
-    Guardamos en un archivo productos.csv.
-    """
-    # guardamos los datos como DF y ordenamos
-    df = pd.DataFrame(data)
-    df_nuevo = df[['IdProducto', 'Descripcion']].copy()
-    df_nuevo['IdProducto'] = pd.to_numeric(df_nuevo['IdProducto'], errors='coerce')
-    df_nuevo = df_nuevo.drop_duplicates(subset=['IdProducto'], keep='first')
-    df_nuevo = df_nuevo.sort_values(by='IdProducto')
-    
-    # Verificar si el archivo existe
-    filename = 'hipermaxi/productos.csv'
-    filepath = DATA_DIR / filename
-    filepath = Path(filepath)
-    
-    if filepath.exists():
-        # Cargar datos antiguos
-        df_antiguo = pd.read_csv(filepath)
-        
-        # Identificar productos nuevos
-        nuevos = df_nuevo[~df_nuevo['IdProducto'].isin(df_antiguo['IdProducto'])]
-        
-        if len(nuevos) > 0:
-            # Hay productos nuevos, combinar y guardar
-            df_combinado = pd.concat([df_antiguo, nuevos]).drop_duplicates(
-                subset='IdProducto', 
-                keep='last'
-            )
-            df_combinado.to_csv(filepath, index=False)
-            logger.info(f"{len(nuevos)} productos nuevos agregados. Archivo actualizado.")
-        else:
-            logger.info("No hay productos nuevos. Archivo sin cambios.")
-    else:
-        # Primera vez, creamos archivo
-        logger.info("No existe el archivo. Creando archivo nuevo...")
-        filepath.parent.mkdir(parents=True, exist_ok=True)
-        df_nuevo.to_csv(filepath, index=False)
-        logger.info(f"Archivo creado con {len(df_nuevo)} productos en: {filepath}")
-    
 def scrape_hipermaxi(config: dict) -> List[Dict]:
     """Ejecuta el scraping completo de Hipermaxi"""
     logger.info("="*20)
@@ -286,7 +246,7 @@ def scrape_hipermaxi(config: dict) -> List[Dict]:
         time.sleep(REQUEST_DELAY)
     
     # Guardamos lista de productos únicos con id y descripción
-    productos_unicos(all_productos_raw)
+    productos_unicos(all_productos_raw, source='hipermaxi')
     
     logger.info(f"\n{'='*20}")
     logger.info(f"RESUMEN HIPERMAXI")

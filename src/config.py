@@ -14,6 +14,10 @@ SCRAPERS_CONFIG = {
         'web_url': 'https://hipermaxi.com',
         'tipo_servicio_filter': [1]  # 1=Supermercado, 2=Farmacia
     },
+    'farmacorp': {
+        'enabled': True,
+        'base_url': 'https://farmacorp.com',
+    },
     # Agregar otros aquí
     # 'comercio1': {'enabled': True, 'base_url': '...'},
 }

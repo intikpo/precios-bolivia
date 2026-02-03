@@ -2,6 +2,7 @@ import logging
 import warnings
 from src.config import SCRAPERS_CONFIG, DATA_DIR
 from src.scrapers.hipermaxi import scrape_hipermaxi
+from src.scrapers.farmacorp import scrape_farmacorp
 from src.utils.storage import export_data
 
 # Configurar logging
@@ -27,14 +28,26 @@ def main():
             data = scrape_hipermaxi(SCRAPERS_CONFIG['hipermaxi'])
             
             if data:
-                export_data(data, 'hipermaxi', DATA_DIR, 'csv')
+                export_data(data, 'hipermaxi', DATA_DIR, 'csv', False)
             else:
                 logger.error("No se obtuvieron datos de Hipermaxi")
                 
         except Exception as e:
             logger.error(f"Error en scraper Hipermaxi: {e}", exc_info=True)
     
-    
+    # Scraper Farmacorp
+    if SCRAPERS_CONFIG['farmacorp']['enabled']:
+        try:
+            data = scrape_farmacorp(SCRAPERS_CONFIG['farmacorp'])
+            
+            if data:
+                export_data(data, 'farmacorp', DATA_DIR, 'csv', True)
+            else:
+                logger.error("No se obtuvieron datos de Farmacorp")
+                
+        except Exception as e:
+            logger.error(f"Error en scraper Farmacorp: {e}", exc_info=True)
+
     logger.info("\n" + "="*20)
     logger.info("SCRAPING COMPLETADO")
 
