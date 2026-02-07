@@ -4239,6 +4239,8 @@
 70330144125,Bic Boligrafo Cristal X 4 Unid Dura+
 70330147768,Bic Boligrafo Cristal X 4 Unid Color Intenso
 70330201187,Bic Boligrafo Round Stic X 12 Unid Rojo
+70330201194,Bic Boligrafo Round Stic X 12 Unid Negro
+70330421837,Pijama Bic Evolution Lápiz Hb #2 X 12 Unidades
 70330422315,Bic Lapiz Evolution Pijama Hb2 X 3 Unid
 70330713406,Afeitadora Bic Comfort 2 Women Rosa X 2 Unidades
 70330717510,Bic Afeitadora Confort 3 Advance Normal X 2 Unidades
@@ -9490,6 +9492,8 @@
 7771620230162,Néctar Frut-All Light Manzana X 1 L
 7771620230186,Néctar Frut-All Light Durazno X 1 L
 7771620430180,Bebida Energizante Black Premium Light X 330Ml
+7771620430296,Bebida Energizante Black Nitro Sport Mora Azul X 330Ml
+7771620430302,Bebida Energizante Black Nitro Sport Frutos Rojos X 330Ml
 7771620590013,Limonada Con Gas La Cabaña Original X 2 L
 7771620590020,Limonada La Cabaña Con Gas X 500Ml
 7771620590181,Limonada Con Gas La Cabaña Cero Azúcar X 2 L
@@ -9578,10 +9582,13 @@
 7771712000420,Chocolate Para Ti Sabor A Pistacho X 50G
 7771712000468,Chocolate Para Ti Con Uvas Pasas X 50G
 7771712000482,Chocolate Para Ti Con Maní X 50G
+7771712000499,Chocolate Para Ti Con Coco X 100G
+7771712000505,Chocolate Para Ti Con Coco X 50G
 7771712000529,Chocolate Para Ti Con Amaranto X 50G
 7771712000567,Marshmallows Para Ti Con Chocolate X 60G
 7771712000598,Chocolate Para Ti Con Sabores X 100G
 7771712000628,Chocolate Para Ti Con Frutas X 100G
+7771712000673,Chocolate Para Ti Con Almendra X 100G
 7771712000680,Chocolate Para Ti Con Almendra X 50G
 7771712001038,Para Ti Chocolate Amargo Intenso X 100G
 7771712001076,Para Ti Grageas De Chocolate Con Arroz X 50G
@@ -10245,7 +10252,7 @@
 7775005001200,Destapa Cañerías Archer Líquido Ayuda Plomero X 2 L
 7775005001224,Detergente Líquido Archer Ropa De Bebé Delicada X 2 L
 7775005001293,Detergente Líquido Archer Ropa De Color X 2 L
-7775005001309,Archer Detergente Liquido Ropa Blanca X 2Lt
+7775005001309,Detergente Líquido Archer Ropa Blanca X 2 L
 7775005002054,Desinfectante Archer Concentrado Germikill X 200G
 7775005002122,Lustra Mueble Archer Crema Con Silicona X 220Ml
 7775005005871,Antigrasa Archer Poder Limón X 860Ml
@@ -11289,6 +11296,9 @@
 7798035310197,Maximitom Mitomicina20mg Iv X Ampolla
 7798035310241,Varimer 50Mg X 25 Comp Mercaptopurina <Onc>
 7798035310357,Maxidauno 20Mg Iv X 1 Fco/Amp Daunorubicina
+7798050061401,Densulin R 100Ui Insulina Sc (Frio) X 1 Ampolla
+7798050061418,Densulin N 100Ui Insulina Sc (Frio) X 1 Ampolla
+7798050064297,Densulent 100Ui 3Ml Insulina Glargina (Frio) X Lapicera Prellenada
 7798051850691,Espontal Tamsulosina 0.4 Mg X Cápsula De Liberación Prolongada
 7798051853500,Dutaflox Dutasteride 0.5Mg X Comprimido
 77980755,Repelente Off Family Crema Con Aloe X 60G
@@ -12245,6 +12255,7 @@
 7840213266038,Fortinil 1000Mg Im-Iv  Citicolina X 1 Ampolla 5Ml
 7840213267462,Fortinil 1000Mg Bebibles Citicolina X 10 Ampollas
 7840213268803,Sedalium 2 Mg Clonazepam X Comprimido
+7840213300466,Diabefarm Duo 25 Empagliflozina/Linagliptina X Comprimido
 7840213301432,Rybeglix Semaglutida 1.34Mg/Ml Subcutánea X Ampolla /1.5Ml
 7840213301449,Rybeglix Semaglutida 1.34Mg/Ml Subcutánea X Ampolla /3Ml
 7840274000091,Broncopulmin Jbe X 100Ml Clenbuterol Ambroxol
@@ -12722,6 +12733,10 @@
 7891150099906,Serum Capilar Sedal Luminous Uv X 110Ml
 7891150099920,Masacara Capilar Sedal Luminous Uv X 300G
 7891151029438,Gomutcho Gomitas Sabores Surtidos X 31G
+7891151029452,Gomitas Gomutcho De Yogurt Frutal Surtido X 31G
+7891151029896,Gomitas Gomutcho Bolsa Gusanos Ácidos X 64G
+7891151029926,Gomitas Gomutcho Bolsa Ositos X 64G
+7891151030182,Gomitas Gomutcho Bolsa Conitos X 64G
 7891151031141,Freegells Gum Chicle Sabor Menta Verde X 8G
 7891151031165,Freegells Gum Chicle Sabor Hierbabuena X 8G
 7891151031189,Freegells Gum Chicle Sabor Frutilla-Fresa X 8G
@@ -12734,10 +12749,13 @@
 7891151036993,Freegells Gum Chicle Sin Azucar Tutti-Frutti X 8G
 7891151038560,My Toffee Diet Caramelos Leche X 52G
 7891151039536,Freegells Choc Pastillas Sabor Menta Chocolate X 27.6G
+7891151039598,Pastilla Freegells Sabor Menta Frutilla Chocolate X 27.6G
+7891151039659,Pastilla Freegells Sabor Cream Frutilla X 27.6G
 7891151039673,Freegells Vitamina C Caramelo Citrus X 27.9G
 7891151039734,Freegells Pastillas Sabor Cereza Mentol X 27.9G
 7891151039758,Freegells Pastillas Eucalipto Mentol X 27.9G
 7891151039772,Freegells Pastillas Extra Fuerte Sabor Mentol X 27.9G
+7891151039895,Pastilla Freegells Vitamina C Propóleo Miel Y Limon X 27.9G
 7891151040709,Caramelo Freegells Miel Mentol X 27.9G
 7891151041003,Go Jelly Gomitas Maticables Moras X 70G
 7891151041010,Go Jelly Gomitas Banana X 70G
@@ -13405,6 +13423,7 @@
 8030436009577,Lápiz De Ojos Astra Kohl Black Nro. 01 Kajal Black X 1.10G
 8033011160106,Sideral Forte Int X 20 Cap Hierro Vitamina C
 80333011160212,Sideral Folic 30Mg X 20 Sobres Hierro Vitaminas
+8033661806133,Hyalone 60Mg/4Ml X1 Jer Prell Acido Hialuronico
 8034140140014,Sideral Oro Int Hierro Vitaminas X 20 Sobres
 8034140140038,Sideral Gocce Int Gotas Hierro Sucrosomial X 30Ml
 80471,Evra Norelgestromin 6Mg Y Etinil Estradiol 0.6Mg X 3 Parches
@@ -14872,6 +14891,7 @@
 98915,Nivea Roll On Pearl And Beauty X 50Ml
 98916,Desodorante Nivea Spray Pearl And Beauty X 150 Ml
 99176369226,Cepillo Colgate Triple Accion Medio 3 Unidades X Paquete
+99176480310,Colgate Cr Dental X75ml Total Prev Activa
 ALC-01-0001,Glucosa 10% Env X 1000Ml Generico
 ALC-01-0002,Glucosa 10% Env X 500Ml Generico
 ALF-03-0002,Carbocitrato De Calcio 500Mg X Sobre
