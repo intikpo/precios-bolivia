@@ -1939,6 +1939,7 @@
 356232,Gastrozac 40Mg Pantoprazol X Tableta
 356233,Dipin 20Mg Nifedipino X Tableta
 356234,Betasol Clobetasol Propinato 0.0005 Crema X 25G
+356235,Zepatid 7.5Mg/0.5Ml X Jer Prell Tirzepatida (Frio)
 356239,Leflox Levofloxacino 500Mg X Tableta
 356244,Foxat Meloxicam 15Mg X Tableta
 356247,Aguja Para Cateter Celsite Aguja22x15mm Pediatrico
@@ -7334,6 +7335,7 @@
 7730969306150,Cirbia Er Acido Valproico 500Mg X Tableta
 7730969306334,Fisiogel Crema Facial Fps20 X 40Ml
 7730969306341,Crema Liquida Fisiogel Hidratante Piel Seca / Sencible X 400Ml
+7730969306402,Megatadina 10 Mg Rupatadina X Comprimido
 7730969306501,Vessone Vilazodona 10Mg X Comprimido
 7730969306518,Vessone Vilazodona 20Mg X Comprimido
 7730969306525,Vessone 40Mg Vilazodona X Comprimido
@@ -8340,6 +8342,8 @@
 7770108047445,Termetik 10Mg Metoclopramida  Im-Iv X Ampolla
 7770108047469,Vitamin D3 2000Ui X Capsula Blanda
 7770108047476,Zinc 50Mg X Tableta Recubierta
+7770108047506,Terbol 5000Mg Colageno Hidrolizado + 1000Mg Vitamina C  X Sobre Efervescente
+7770108047520,Terbol 10Mg Zinc + 1000Mg Vitamica C X Sobre Efervescente
 7770108071112,Solución Hidroalcohólica Clorex 2% Clorhexidina X 400Ml
 7770108071525,Buclorex Spray Bucal X 15Ml Menta
 7770108071532,Buclorex Spray Bucal X 15Ml Cherry
@@ -8352,6 +8356,7 @@
 7770108072089,Man Dingo 20Mg X 50 Sobres 2 Comp Tadalafilo
 7770108072140,Hidratante Hydrolit Elixir Electro Mandarina X Sobres
 7770108072201,Flatulen Simeticona 3% Gotas Sandia X 15Ml
+7770108072324,Viralplus 800Mg Favipiravir X Comprimido
 7770108080565,Kalenda Bifonazol 50Mg Y Gentamicina 5Mg X Ovulo
 7770108080589,Multigyn Miconazol 100Mg Y Tinidazol 150Mg X Ovulo
 7770108080596,Ifamet N Metronidazol 500Mg Y Nistatina 100000Ui X Ovulo
@@ -8447,6 +8452,7 @@
 7770108087335,Histadryn Nf Forte Levocetirizina 5Mg/5Ml Jarabe X 100Ml
 7770108087342,Tussinol Infantil Jarabe X 100Ml
 7770108087366,Afungil Fd Secnidazol / Itraconazol X 3 Comprimidos
+7770108087397,Redutem 500Mg/5Ml Metamizol Jarabe X 60Ml
 7770108087403,Tamifen 250Mg/5Ml Paracetamol Jarabe X 100Ml
 7770108087410,Ginbi Suplemento Ginkgo Biloba Y Vitamina B12 X Capsula
 7770108091370,Clindacne Gel Clindamicina Fosfato 0.01 X 15G
@@ -12462,6 +12468,12 @@
 7840653008250,Emetan Ag Domperidona / Simeticona Gotas X 40Ml
 7840653008458,Mucofar Acetilcisteina 600Mg X Sobre
 7840653009103,Procops 100Mg Sildenafilo X Comprimido
+7840653009523,T.G. 2.5Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
+7840653009530,T.G. 5Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
+7840653009547,T.G. 7.5Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
+7840653009554,T.G. 10Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
+7840653009561,T.G. 12.5Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
+7840653009578,T.G. 15Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
 7841134000343,Citol Tdt Colirio X 10Ml
 7841134007830,Colirio Oftalday Hialuronato De Sodio 0.1% X 10 Ml
 7841134009742,Alergiol Forte Nf Olopatadina 0.2% Colirio X 5Ml
@@ -12492,6 +12504,8 @@
 7841141005010,Prebictal 25Mg Pregabalina X Capsula
 7841141005027,Apitena 2.5 Mg Apixabán X Comprimido
 7841141005034,Apitena 5 Mg Apixabán X Comprimido
+7841141005140,Vozama 10Mg Vonoprazan X Comprimido
+7841141005157,Vozama 20Mg Vonoprazan X Comprimido
 7841141005324,Tialgin Paracetamol 1G X Comprimido
 7841503000172,Galletas Mazzei Crackers Saladas Clásicas X 110G
 7841503000448,Galletas Aventura Mini Chips Dulces Sabor Vainilla X 35G
@@ -14788,6 +14802,7 @@
 8906139190662,Multivitamínico Vital-Mina Kids Gotas Vitaminas/Minerales X 15Ml
 8906139190679,Multivitamínico Vital-Mina Jarabe Multivitaminas / Minerales X 100Ml
 8906139191287,Pirexia Paracetamol 1 G X Sobres
+8906142160966,Dologal Tram Tramadol Acetaminofeno X Comprimido
 8906148530800,Bucosin-Dol Mp Miel Limon Benzocaína / Mentol X Pastilla
 8906148530817,Bucosin-Dol Mp Naranja Benzocaína / Mentol X Pastilla
 8906148530862,Antigripal Mp X Capsula
