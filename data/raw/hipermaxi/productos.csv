@@ -32,6 +32,7 @@
 100098,Detergente Polvo Bolivar Suavizante 2 kg
 100099,Detergente Polvo Bolivar Floral 700 gr
 100109,Bebida Energetica Gatorade Frutas Tropicales 500 ml CBN
+100145,Galleta Milano Double Chocolate 213 gr
 100148,Detergente Polvo Bolivar Limon 700 gr
 100149,Detergente Polvo Bolivar Floral 2 kg
 100153,Mermelada Orieta Ciruela 500 gr
@@ -1118,6 +1119,8 @@
 111512,Protector Solar Sunlees Fps 500 120 gr
 111559,Limpiador de Acero 3M Inoxidable Multiuso 600 gr
 111561,Extracto de Tomate Norte 140 gr
+111562,Lengua de Cabeza un
+111570,Riñones 2 un
 111585,Shampoo Pantene Fuerza Reconstruccion 400 ml
 111586,Acondicionador Pantene Fuerza Reconstruccion 400 ml
 111588,Cepillo Dental Oral-B Limpieza Profunda 2 un
@@ -1177,6 +1180,7 @@
 112255,Silpancho Hipermaxi kg
 112277,Quitamanchas Vanish Ropa Blanca 120 gr
 112290,Ambientador Todo Brillo Bebe 250 cm
+112292,Ambientador Aerosol Todo Brillo Vainilla 360 cm
 112293,Ambientador Aerosol Todo Brillo Lavanda 360 cm
 112294,Ambientador Aerosol Todo Brillo Manzana Canela 360 cm
 112296,Ambientador Aerosol Todo Brillo Floral 360 ml
@@ -1265,6 +1269,7 @@
 113072,Ambientador Aerosol Automatico Todo Brillo Manzana Canela
 113073,Ambientador Repuesto Aerosol Todo Brillo Citrico 250 ml
 113074,Ambientador Repuesto Aerosol Todo Brillo Bebe 250 cm
+113075,Ambientador Repuesto Aerosol Todo Brillo Floral 250 cc
 113076,Ambientador Repuesto Aerosol Todo Brillo Lavanda 250 cm
 113077,Ambientador Repuesto Aerosol Todo Brillo Brisa Marina 250 cm
 113078,Ambientador Repuesto Aerosol Todo Brillo Brisa Manzana Canela 250 cm
@@ -2006,6 +2011,7 @@
 131831,Desodorante Aerosol Old Spice Adventure 150 ml
 131832,Desodorante Aerosol Old Spice Antitraspirante Adventure 150 ml
 131857,Salsa Soya Sakura 500 ml
+131908,Sandwich Mixto Hipermaxi Jamon Pollo 2 un
 131941,Crema de Peinar Herbal Essences Prolongalos 300 ml
 131970,Costilla de Chancho kg
 13200,Vaso de Cristal Tequilero
@@ -2107,7 +2113,6 @@
 14071,Frejol Carioca Cocinero 1 kg
 14072,Frejol Negro Cocinero 1 kg
 14074,Mani Cocinero Pelado 1 kg
-14077,Pack Jugo del Valle Durazno 6 un 300 ml
 14078,Garbanzo Cocinero 1 kg
 140805,Queque Naranja Mediano Hipermaxi 1 un
 14084,Aceite Becoco Mct Premium 500 ml
@@ -2144,6 +2149,9 @@
 14172,Curry Amercan Spice Powder 2 oz
 14173,Frutos Secos Porvenir Mix 160 gr
 14175,Almendra Porvenir Uvas Pasas 170 gr
+14177,Papa Mexibol Frita 400 gr
+14178,Papa Mexibol Frita 200 gr
+14179,Chipilo Mexicobol 200 gr
 14188,Vino Concepcion Salvaje Cabernet 750 ml
 14189,Jugo Del Valle Durazno Six Pack 200 ml
 14190,Jugo Del Valle Manzana Six Pack 200 ml
@@ -2351,6 +2359,7 @@
 150536,Pan de Panchito Hipermaxi 14 un
 15054,Aperitivo Cynar Negro 750 ml
 150544,Chorizo Parrillero Ahumado Colonia Pirai kg
+150560,Pan de Leche Hipermaxi 8 un
 150561,Yogurt Delizia Bebible Mora 2 L
 15058,Agua Cielo Sin Gas 1.2 L
 15059,Choclo Cajamar Conserva 280 gr
@@ -2364,12 +2373,10 @@
 150709,Tartaletas Charlotte Pequeñas 30 un
 15072,Sazonador McFood Pescado 85 gr
 15075,Te Frutte Manzana 20 Sobres
-150753,Mortadela Monserrat Olemburgo kg
 150759,Mortadela Jamonada Pollo Monserrat kg
 150765,Galleta Davied de Coco 8 un
 150768,Mortadela Jamonada Monserrat kg
 15077,Miel de Abeja El Chaqueñito 500 gr
-150776,Alfajores Davied Diseños 6 un 400 gr
 150777,Postre Quiero Mas Ingrid Davieds
 150779,Brownie Davieds
 15078,Miel de Abeja El Chaqueñito 1000 gr
@@ -2405,6 +2412,7 @@
 151199,Mortadela de Pollo Familiar Hipermaxi kg
 151212,Tortillas Tortitacos de Trigo Integral 360 gr
 151269,Pan Molde Best Choice Blanco 700 gr
+151273,Pan de Hamburguesa Best Choice 10 un
 151296,Cebolla en Cubos 1 kg
 151302,Filete Trucha Mariposa Titikaka 500 gr
 151321,SALAMI STICK AL VACIO SANTA FE  UNID.
@@ -2468,7 +2476,6 @@
 153312,Waffle Wanda Congelado Original 5 un
 15334,Salsa Mix McCormick Garlic Alfredo 35 gr
 153462,Semola Agromix 500 gr
-153532,Vino Catena Zapata Malbec Nic 750 ml
 153535,Vino Catena Zapata Cabernet Sauvignon 750 ml
 153605,Pulverizador Guarany 1 un
 153613,Lavandina 2 L
@@ -2525,6 +2532,7 @@
 15579,Mermelada Candyfrut Frutilla 320 gr
 155790,Mascarilla Hair Food Cacao 350 ml
 155800,Limpiador de Vidrio Resplandor Recarga 940 ml
+155803,Lavandina Maxibrill 5 L
 155809,Pañales Mi Bebe TriPack XG
 155810,Pañales Mi Bebe TriPack XXG
 155812,Canasta Liquida Pato Citrus Repuesto 50 ml
@@ -2672,7 +2680,10 @@
 16684,Licor Crema Baileys Original 750 ml + Taza
 16712,Suplemento Nutricena Manzana Canela 50 gr
 167197,Salsa Divella Pomodoro 680 gr
+1672,Papa La Exquisita Rallada 150 gr
 16720,Suplemento Nutricena Vainilla Arandano 50 gr
+1673,Chipilo La Exquisita Salado 150 gr
+1674,Chipilo La Exquisita Dulce 150 gr
 168270,Milanesa de Pollo Hipermaxi kg
 1686,Encendedor de Carbón Brasafast 1 un
 16873,Four Loko Sandia 473 ml
@@ -2754,7 +2765,6 @@
 17232,Galleta La Suprema Crackers 220 gr
 17233,Galleta La Suprema Crackers 500 gr
 17237,Bombon Costa Vizzio 182 gr
-17238,Cerelac Nestle 5 Cereales Leche 1 kg
 17241,Fideo Lazzaroni Tangliatela 400 gr
 17242,Agua Villa Santa Alcalina 7 L
 17243,Agua Villa Santa Con Gas 600 ml
@@ -2967,7 +2977,6 @@
 17823,Vino El Viejo Toro Tinto 1125 ml
 17824,Sangria Dos Hermanos 4 L
 17831,Salsa B&R Nacho Guacamole 320 gr
-17832,Salsa B&R Nacho Pico de Gallo 320 gr
 17833,Salsa B&R Nacho De Porotos 320 gr
 17837,Alimento Pedigree Rodeo Adulto Carne 70 gr
 17838,Alimento Pedigree Rodeo Adulto Pollo 70 gr
@@ -3148,6 +3157,7 @@
 200226,Almendra Nativa Española 50 gr
 200254,Gaseosa Crush Strawberry 355 ml
 200278,Salsa Soya Okubo Picante 250 ml
+200311,Galleta Pepperigde Milano 170 gr
 200345,Fideo Okinawa Cortado Surtido 400 gr
 200400,Fideo Barilla Spaguetti 454 gr
 200435,Cereal Gramix Corn Flakes 200 gr
@@ -3208,6 +3218,7 @@
 202167,Salsa McCormick de Ajo 148 ml
 202170,Salsa Mc Cormick Teriyaki 148 ml
 202175,Salsa McCormick Inglesa 148 ml
+202218,Agua Pura Vida Sin Gas Galon 5 L
 202273,Arroz Emocoes Tipo 1 1 kg
 202276,Arroz Emocoes Tipo 1 5 kg
 20246,Te Nutrinat Bio Slim 14 Sobres
@@ -3236,6 +3247,7 @@
 203580,Vino Familia Gascon Malbec 750 ml
 203581,Vino Familia Gascon Syrah 750 ml
 203582,Vino Familia Gascon Tempranillo 750 ml
+203707,Chipilo Ralf Salado 180 gr
 203710,Nacho Nax Salado 200 gr
 203912,Limpiador de Piso Todo Brillo Manzana Canela 1800 ml
 204028,Paprika America Spice con Pimenton 56 gr
@@ -3269,7 +3281,6 @@
 204812,Vinagre Doña Filo Banana 750 ml
 204817,Vinagre Dona Filo de Arroz 750 ml
 20487,Vinagre Doña Filo Manzana 750 ml
-204872,Mermelada La Vieja Fabrica Dietetico Fresa 280 gr
 20488,VINO TRAPICHE SV MALBEC AMBROSIA 750 ML
 20489,Vino Trapiche Gran Medalla Malbec 750 ml
 204991,Ajo McCormick Mix 90 gr
@@ -3757,7 +3768,6 @@
 223615,Pañal Tena Pants Nocturno M
 223616,Pañal Tena Pants Nocturno L
 223617,Detergente Polvo Todo Brillo Gold 1800 gr
-223618,Detergente Polvo Todo Brillo Gold 650 gr
 223619,Detergente Polvo Todo Brillo Gold 4800 gr
 223620,Desodorante Aerosol Rexona Active 250 ml
 223621,Desodorante Aerosol Rexona Clinical Women 150 ml
@@ -3923,6 +3933,7 @@
 223964,Jabon Liquido Girandosol Coco Vainilla 5 L
 223965,Detergente Polvo Girandosol Hipoalergenico 4 kg
 223966,Detergente Polvo Girandosol Floral 4 kg
+223967,Jabon Liquido Girandosol Hipoalergenico 3 L
 223975,Jabon Liquido Girandosol Hidrata Fibras 3 L
 223976,Serum Revitalift Retinol Noche 30 ml
 223977,Crema de Peinar Sedal Celula Madres 300 ml
@@ -4230,6 +4241,7 @@
 227785,Cafe 3 Corazones Tradicional 250 gr
 227786,Cafe 3 Corazones Extra Fuerte 250 gr
 227791,Cafe 3 Corazones Capuccino Clasico 200 gr
+22780,Salame Especial Santa Fe Grande
 227819,Mermelada Candy Alimenta Piña 200 gr
 227820,Vino Casillero del Diablo Chardonay 750 ml
 227838,Te Supremo La Rendidora 20 Sobres
@@ -4238,7 +4250,6 @@
 227919,Extracto de Tomate Cajamar 140 gr
 227930,Queso Edam San Javier 1 kg
 227951,Huevos Aranjuez Medianos 12 un
-22799,Pate de Higado Chica Santa Fe kg
 228000,PANO GAROTEK BORDADO SURTIDO
 228011,CREMA GOICOECHEA SERUM PIEL EXTRA SECA 4
 228012,CREMA GOICOECHEA SERUM PIEL DESHID 400ML
@@ -4478,7 +4489,6 @@
 228352,CREMA SKALA  BOMBA VITAMINAS 1 KG
 228353,CREMA SKALA BOMBA BIOTINA 1 KG
 228356,PAPEL TOALLA CLIN  INTERFOLIADO 250 HJS
-228357,PAPEL HIG QUALITE 12 ROLLOS H-SIMPLE
 228358,ACONDIC CARISSA DP ALOE VERA 800ML
 228359,Detergente Polvo Todo Brillo Limon 9.5 kg
 228360,Esmalte de Uñas Vogue Efecto Gel Grafiti 14 ml
@@ -4843,6 +4853,7 @@
 239240,Limpiador Antigrasa Archer Limon con Gatillo 860 ml
 239259,Limpiador Antigrasa Archer Limon 860 ml
 24001,Vape Umo Grape Ice 18000 Puffs
+24002,Papaya Deshidratada Nativa 20 gr
 24005,Gelatina Four Loko Shot 248 gr
 24007,Cereal Kelloggs Corn Flakes 200 gr
 240101,Mermelada Roxi Locoto 260 gr
@@ -5450,7 +5461,6 @@
 25246,Cafe Coroicafe Molido 250 gr
 25247,Cafe Coroicafe Grano 250 gr
 25249,Vino Chakana Nuna Blnaco Blend 750 ml
-25250,Vino Antigal Uno Chardonnay 750 ml
 25252,MARSMALLOWS CRISMELOS TWISTER 240G
 25254,GOMITA FINI MORAS 15G
 25255,GOMITA FINI BANANAS 15G
@@ -5478,6 +5488,7 @@
 25289,ROMERO TIERRA NUESTRA ENTERO FCO 20G
 25290,Cafe Mestizo 21 Molido 250 gr
 25292,TE CON CANELA MIKI 50 SAQ
+25294,Vinagre Gallo 250 ml
 25295,Aceite de Oliva Gallo Subtil 1 L
 25297,Camote Frito La Favorita Premium 200 gr
 25298,Ron Bucanero Anejo 900 ml
@@ -5600,6 +5611,7 @@
 25431,SNACK BOOHOO NAX PICANTE 120G
 25432,SNACK BOOHOO NAX QUESO CHEDDAR 120G
 25433,SNACK BOOHOO NAX QUESO 150G
+25435,HIELO HIPERMAXI CUBOS BSA 3KG
 25440,Gomita Mogul Mini Gusanitos Halloween 500 gr
 25441,VINOS KOHLBERG2 SAUV BLANC FRANC 750ML
 25442,GOMITA RICLAN GO JELLY MORAS 250G
@@ -6246,6 +6258,7 @@
 30127,Pastilla Bull Dog Tutti Limon 30 gr
 301371,Chocolate La Huerta Pasta Cacao 90 gr
 301372,Chocolate La Huerta 100% 60 gr
+301373,Chocolate La Huerta 82% 60 gr
 301374,Chocolate La Huerta 64 % 60 gr
 301420,Gragea Para Ti Mani 200 gr
 301421,Gragea Para Ti Uva Pasas 200 gr
@@ -6362,6 +6375,7 @@
 304007,Salsa B&R Alitas Picantes 250 gr
 304014,Vino 1750 Syrah Rose 750 ml
 30402,Aceite de Dende Cepera 200 ml
+304034,Chinchulises kg
 304057,Chupete Yogus Casal Relleno 408 gr
 30408,Mostaza Cepera Amarilla 375 gr
 30409,Mostaza Cepera Con Miel 400 gr
@@ -6489,6 +6503,7 @@
 30638,Ron Bacardi Carta Blanca 750 ml
 306404,SALSA RAGU PASTA 4 QUESOS 453 GR
 306405,Salsa Ragu Cremosa de Queso Cheddar 439 gr
+306406,Nueces Kirkland Macadamia Tostada 680 gr
 306410,Protector Solar Sundown Playa Piscina 60fps 120 ml
 30643,Traquea de Res Alpha Deshidratada Tamaño S
 30644,Alimento Snack Alpha Corazon de Pollo 50 gr
@@ -6597,7 +6612,6 @@
 308181,Pipoca Johns Pop Caramelo 200 gr
 308187,Pipoca Johns Pop Zebra 200 gr
 30819,Four Loko Summer 355 ml
-30820,Papa Frita Krosty Rallada 300 gr
 30822,Caramelo Paleta Bee Spinner 85 gr
 30825,Te Negro Tai con Canela 500 ml
 308269,Neceser Foramen Junior
@@ -6834,7 +6848,6 @@
 31287,Tequila Buen Amigo Silver 1 L
 31288,Almidon Pinduca de Milho 500 gr
 312894,Crema Especial Pelikar Mixto 500 ml
-31291,Nacho Rancherito Limon 330 gr
 31292,Nacho Rancherito Chile Limon 330 gr
 31293,Te Negro Helado Tai Limon 250 ml
 31294,Vino Kohlberg Tannat + Copa 750 ml
@@ -6947,7 +6960,6 @@
 314081,Crema Lechuga Manos Anti Edad 75 gr
 314095,Plastilina Infantil Kids Dough 12 Piezas
 31413,Vinagre Brixy Manzana 1 L
-31414,Vinagre Brixy Manzana 5 L
 31416,Gin Tanqueray Flor Sevilla 700 ml
 31422,Vinagre Brixy Manzana 750 ml
 31423,Jugo Brixy Limon 500 ml
@@ -7086,6 +7098,7 @@
 321350,VAPE WAKA CREATOR POD STRAWB GRAPE 20K P
 321352,CHOCOLATE TABOADA FRUTILLA TAB 100G
 321353,CHOCOLATE BCO TABOADA C FRUTILLA TAB 100
+321355,CHOCOLATE TABOADA C NARANJA TAB 100G
 321356,VODKA RAJSKA RED FRUITS 1LT
 321357,VODKA RAJSKA TRIDESTIL 1LT
 321358,VINO CYT RESERVADO FRUTAL MELON 750ML
@@ -7382,6 +7395,7 @@
 333755,Crema Hidratante Johnsons Gel Recien nacido 200 ml KNV
 333770,Limpiador de Baño Sapolio Quita Sarro Power Plus 750 ml
 333775,Paño Bianco Piso Blanco 1 un
+333777,Repelente Tyson Familiar Crema 60 gr
 333796,Papel Toalla Cocina Mili 3 un 200 Toallas
 333820,Jabon Liquido Jamsa Macadamia 360 ml
 333821,Jabon Liquido Jasma Coco 360 ml
@@ -7622,7 +7636,6 @@
 340451,Crema para Peinar Sedal Liso Perfecto 300 ml
 340453,Crema para Peinar Sedal Rizos Definidos 300 ml
 340457,Crema para Peinar Sedal Ceramidas 300 ml
-340471,Gaseosa Conti Guarana 2 L
 340481,Gaseosa Conti Uva 2 L
 340483,Cerveza Conti 350 ml
 340517,Marcador Bic de Pizarra Negro
@@ -8005,6 +8018,7 @@
 358967,Ron Bacardi Limon 750 ml
 358970,Leche Pil Polvo Instantanea 760 gr
 359053,Aceite Capilar Carey Coco 60 ml
+359057,Aceite Capilar Carey Almendra 60 ml
 359059,Tinte Carey Tono 1 Negro Azulado
 359060,Tinte Carey Tono 2 Negro
 359061,Tinte Carey Tono 3 Castaño Oscuro
@@ -8105,7 +8119,6 @@
 363325,Bloqueador Solar Solaris Crema 80 Fps 75 gr
 363326,Bloqueador Solar Solaris Spray 80Fps 100 ml
 363327,Bloqueador Solar Solaris Facial Gel 30 Fps 50 gr
-363352,Gel Exfoliante Asepxia Carbon 120 ml
 363353,Jabon Liquido Asepxia Carbon 200 ml
 363354,Crema Mascarilla Asepxia Carbon
 363391,Linaza Nutrinat Slim Plus 500 gr
@@ -8235,6 +8248,7 @@
 371421,CA JUEGO DE MESA WALL EN CAJA 110
 371451,Juguete Dinosario
 371470,Juguete Camion 3
+3718,Chocolate La Huerta 72% con Nibs 60 gr
 37184,Guineo Criollo 1 kg
 372085,Hoja Papel Bond Report Oficio 500 Hojas
 372106,Vaso Termico Good y Good
@@ -8329,7 +8343,6 @@
 3744,Singani Casa Real Etiqueta Negra 1 L
 37441,Alimento Cat Chow Adulto Pescado Pollo 1 kg
 374438,MIR VINCHA ANO NUEVO 10
-374480,Hielera Alaska de Plastico
 374495,Huesos Guau Nutrigua 3 un
 374496,Uvo X1  De  De Brecuentre  M
 374497,Palitos Guau Huesitos
@@ -8565,7 +8578,6 @@
 390431,Pasta Dental Colgate Triple Accion 180 gr
 390487,Achocolatado Chokolike Light 250 gr
 390521,Cepillo Salzano Para Baño
-390527,Balde Max Hogar Con Exprimidor
 390595,Paño Tecilar Algodon 45X63 cm
 390658,Galleta Opera Bagley 92 gr
 390755,Cerveza Budweiser Botella 330 ml CBN
@@ -8779,6 +8791,7 @@
 403232,Chocolate Taboada Caja Blanca Corazon 280 gr
 403431,Crema Kris Esparragos 75 gr
 403511,Champagne Norton Cosecha Especial Rose 750 ml
+403512,Tripa de Res kg
 403725,Mentitas Ambrosoli Mints 21 gr
 404001,Salsa Tostitos Frito Lays Quesos 15 oz
 404011,Vino 1750 Cabernet Sauvignon 750 ml
@@ -8902,6 +8915,7 @@
 413127,Romero 1 un
 413160,Rosquitas de Maiz Hipermaxi kg
 413224,Pan Cochabambino Hipermaxi kg
+413291,Huevos Aranjuez 30 un
 413305,Leche Con Avena Pil Canela Uht 800 ml
 413488,Chiqui Avena pil uht 140 ml
 413534,Galletas Hipermaxi Surtidas kg
@@ -8942,6 +8956,7 @@
 417858,Menta 1 un
 418048,Pulpa Congelada Frupa Tamarindo 200 gr
 418536,Gelatina Royal Hipermaxi
+418684,Sandwich Integral Hipermaxi de Pollo
 418749,Helado Cabrera Choco Cono Coco
 418757,Helado Cabrera Sundae
 419176,Yogutina Ligth San Javier
@@ -9015,12 +9030,12 @@
 427942,Galleta Costa Obsesion Mani Barquillo 85 gr
 427985,Vodka Grey Goose 750 ml
 428060,Morcilla Hipermaxi kg
+428094,Pan Miga Paris 450 gr
 428183,Macarroni Kraft Easy Mac Original 58 gr
 428221,Salsa Ragu Tradicional 1.27 kg
 428718,Vinagre Doña Filo Sushi Arroz 750 ml
 429420,Gelatina Frutigel Fresa 250 gr
 429538,Guantes Eterna Trabajo Pesado Talla M
-429589,Esponja Eterna Fibra Limpiadora Abrasiva 3 un
 429619,Esponja Eterna Doble Uso Gruesa X1
 429635,Esponja Eterna Doble Uso Cuida Uña 1 un
 430065,Vino Aranjuez Tannat 750 ml
@@ -9369,7 +9384,11 @@
 459199,Agua Micelar Bielenda Rose Care  x 500ml
 459213,Essence Esmalte Gel Nail Colour 18 x und
 459214,Essence Esmalte Gel Nail Colour 33 x und
+459218,Essence Esmalte Gel Nail Colour 06 x und
+459222,Essence Esmalte Gel Nail Colour 08 x und
 459225,Essence Esmalte Gel Nail Colour 47 x und
+459228,Essence Esmalte Gel Nail Colour 16 x und
+459229,Essence Esmalte Gel Nail Colour 14 x 1 und
 459231,Essence Esmalte Gel Nail Colour 07 x und
 459239,Essence Esmalte Gel Nail Colour 46 x und
 459241,Essence Brillo Labial Extreme Shine Vol.01
@@ -9378,11 +9397,15 @@
 459284,Essence Mascara Vol. Get Big Lash Curva x
 459293,Essence Sombra The Brown Eyeshadow Palet
 459294,Essence Paleta Sombra The Nude Edition 1
+459295,Essence Paleta Sombra The Rose Edition 2
 459315,Essence Mascara Double Trouble Extra Negro
 459316,Essence Mascara Double Trouble Waterproo
+459317,Essence Mascara I Love Extreme Crazy
+459318,Essence Mascara I Love Extreme Volumen Wp. X
 459319,Essence Mascara Lash Princess Curl Vol
 459320,Essence Mascara Lash Princess False Efecto x und
 459325,Essence Iluminador Ojos Inner Pen 01 x und
+459327,Essence Delineador Ojos Liquido Ink Wp x und
 459332,Essence Delineador 24 Ever Ink 01 x und
 459333,Essence Delineador Ojos Liquido Wp 01 x und
 459334,Essence Delineador Ojos Larga Duracion 3
@@ -9419,6 +9442,9 @@
 460273,Toallas Humedas Pequeñin Aloe Vera 50 un
 460348,Vitalimon Crema Blanqueadora x 24 g
 460349,Aqua Sensitive Con Avena X 55gr Crema Hidratante
+460412,ESS. BRILLO LABIAL  JUICY BOMB SHINY 104
+460413,ESS. BRILLO LABIAL  JUICY BOMB SHINY 103
+460414,ESS. BRILLO LABIAL  JUICY BOMB SHINY 101
 460417,ESS. DELINEADOR SUPER FINE BRUSH WP
 460420,Labial Liquido 8H Matte Lipstick 1
 460421,Labial Liquido 8H Matte Lipstick 2
@@ -9624,6 +9650,7 @@
 472069,Pan Vikinger Diabetico
 472255,Flor de Jamaica Badia 28 gr
 472573,Cuaderno Top Espiral Oficio 100 Hojas
+473019,Queque Dollycioso Surtido 650 gr
 473546,Tocino Chips A&M Picante 100 gr
 473561,Palta Hass 1 kg
 473766,Cuaderno Top Espiral Oficio 100 Hojas
@@ -9905,7 +9932,6 @@
 494060,Mani Crispy Chips Salado 80 gr
 494280,Harina Princesa Integral 1 kg
 494283,Harina Princesa Integral 1 kg
-494348,Postre Para Bebe Heinz Mango 113 gr
 494356,Postre Para Bebe Heinz Guayaba 113 gr
 4944,Galleta Ferrari Ghezzi Crakers 200 gr
 494704,Chuño Negro 1 kg
@@ -10333,6 +10359,8 @@
 525464,Limpiador Horno Archer con Gatillo 860 ml
 525847,Tomatodo San Remo 1 L
 526380,Salame Celofan Santa Fe un
+526398,Mortadela Celofan Grande Santa Fe un
+526401,Mortadela Celofan Chica Santa Fe un
 526984,Detergente Polvo Guaira Deluxe 800 gr
 526986,Detergente Polvo Guaira Deluxe 2 kg
 527700,Ron Bacardi Carta de Oro 980 ml
@@ -10564,6 +10592,7 @@
 550155,Api Bloch Morado 800 gr
 550156,Api Bloch Platano 800 gr
 550157,Tojori Bloch 800 gr
+550158,Refresco de Cebada Bloch
 550160,Refresco Bloch Quinua Manzana
 550161,Refresco Bloch Tostado
 550162,Refresco Bloch Willlcaparu
@@ -10695,6 +10724,7 @@
 550481,Aceite Aerosol Pam Original 17 oz
 550483,Salsa Mexicana Jukur 330 gr
 550484,Salsa Pesto Jukur 210 gr
+550486,Llajwa Jukur Parrillera 210 gr
 550487,Agua Tonica La Cabaña 1 L
 550488,Agua Tonica La Cabaña 2 L
 550489,Agua Mineral La Cabaña con Gas 2 L
@@ -11314,7 +11344,6 @@
 552438,Cafe Orange Cup Vienna Molido 250 gr
 552440,Paprika Tierra Nuestra 50 gr
 552441,Curcuma Tierra Nuestra 50 gr
-552442,Jengibre Tierra Nuestra 40 gr
 552443,Locoto Tierra Nuestra 50 gr
 552445,Comino Tierra Nuestra 50 gr
 552446,Oregano Tierra Nuestra Entero 10 gr
@@ -11463,6 +11492,7 @@
 552846,Galleta Comipet Higado de Pollo 250 gr
 552847,Galleta Comipet Pechaga de Pollo 250 gr
 552849,Gaseosa Oriental Naranja 3 L CBN
+552850,PAN MOLDE SAN GABRIEL MASA MADRE 650 GR
 552851,Gin Dry Georg Foster 500 ml
 552852,GIN DRY AZUL GEROG FORSTER 375 ML
 552854,Pan Panissimo Sarnita 12 un
@@ -11700,6 +11730,7 @@
 553252,Gomita Fini Dentaduras Fresa 15 gr
 553253,Gomita Fini Besos Fresa 15 gr
 553256,Gomita Regaliz Tubes Uva 15 gr
+553258,Gomita Regaliz Tubos Colores 15 gr
 553259,Gomita Regaliz Tubes Fresa 15 gr
 553261,Vino Rose Chateau Graulet Bordeaux 750 ml
 553269,BEBIDA ALOE OTRO MUNDO PERLAS PINA 500ML
@@ -12051,6 +12082,10 @@
 553787,ALTA VIDA SALSA SOYA TERIYAKI 500 ML
 553788,PACK 6 SANGRIA BY BURBUSH 355ML
 553789,PACK 2 BEBIDA REBEL 473 ML
+553790,LICOR COPETE ROJO MEMBRILLO BOT 750ML
+553791,LICOR COPETE ROJO DE UVA BOT 750ML
+553792,LICOR COPETE ROJO MARACUYA BOT 750ML
+553793,LICOR COPETE ROJO D CITRICOS BOT 750ML
 553794,NECTAR DURAZNO DEL SOL LIGHT BOT 300ML
 553795,NECTAR GUINDA DEL SOL LIGHT BOT 300 ML
 553796,NECTAR GUAYABA DEL SOL LIGHT BOT 300 ML
@@ -12341,6 +12376,7 @@
 590853,Harina Promos Deluxe Devil Food 517 gr
 590854,Harina Promos Deluxe White 524 gr
 590856,Harina Promos Deluxe Yellow 468 gr
+590885,Pan Molde American Integral 300 gr
 590913,Tinte Nutrisse Ultra Cobertura Tono 40U Castaño Profundo
 590920,Tinte Nutrisse Ultra Cobertura Tono 50U Castaño Claro Profundo
 590921,Tinte Nutrisse Ultra Cobertura Tono 60U Rubio Oscuro Profundo
@@ -13072,6 +13108,8 @@
 629399,Agua Mineral San Pellegrino 330 ml
 629401,Galleta Goldfish Queso 187 gr
 629404,Te Helado Tea Time Durazno 1 L
+629420,Salsa Prego Hmestyle Alfredo 411 gr
+629421,Salsa Prego Cuatro Quesos 411 gr
 629426,Pretzel Snyders Hot Buffalo Wing 319 gr
 629427,Salsa Click Fil A Scholarships 473 ml
 629428,Salsa Chick Fil A Polynesian 473 ml
@@ -13099,6 +13137,7 @@
 629752,POP TARTS FROSTED BROWN SUGAR CINAMMON 384 GR
 629753,AGUA DE MESA NATURAL SPRING WATER 828 ML
 629754,AGUA CARBONATADA SPRING WATER 828 ML
+629757,Galletas Town House Original 391 gr
 629763,Salsa Herdez Chunky Mild Exp 425 gr
 629764,Chile Herdez Jalapeño Trocitos 210 gr
 629765,Chile Herdez Chipotle en Adobo
@@ -13134,7 +13173,6 @@
 629817,CEREAL HOSPITALITY RAISIN BRAN CEREA 198GR
 629818,CEREAL HOSPITALITY FRUIT WHIRLS SWEETENED 198GR
 629819,CEREAL HOSPITALITY CORN FLAKES 198GR
-629820,SODA LIMA-LIMON SPRITE TROPICAL MIX 355ML
 629821,Gaseosa Sprite Cherry Lima 355 ml
 629822,Gaseosa Sprite Limon y Te 355 ml
 629823,TOALLAS DESHECHABLES BOUNTY ADVANCEDED 27.9X18CM
@@ -13191,6 +13229,7 @@
 634853,Galleta Pop Tarts Cherry 384 gr
 634854,Galleta Pop Tarts Cookies Creme 384 gr
 634855,Galleta Pop Tarts Strawberry 384 gr
+634857,Galleta Goldfish Pretzel 227 gr
 634861,Salsa Prego Marinara 396 gr
 634863,Nutella 950 gr
 635143,Mayonesa Kraft Light 650 ml
@@ -13226,7 +13265,6 @@
 640867,Aceite Oliva La Española Extra Virgen 1 L
 641010,Cereal Amaranto 227 gr
 641017,Alas de Pollo Pio Rico kg
-641031,Muslo de Pollo Pio Rico Bandeja kg
 641035,Galleta Ferrari Ghezzi Integral 1 kg
 641037,Filete de pollo Pio Rico bandeja kg
 641041,Pierna de Pollo Pio Rico Bandeja kg
@@ -13381,6 +13419,7 @@
 650145,Canela Andes Entera 16 gr
 650149,Canela Andes Molida 16 gr
 650158,Lino Lada Gold Podravka 350 gr
+650162,Lino Lada Coconut Podravka 350 g
 650165,Coco Rallado Andes 45 gr
 650166,Lino Lada Duo Leche Cocoa Podravka 350 gr
 650168,Lino Lada Milk Leche Podravka 350 gr
@@ -13595,7 +13634,6 @@
 653030,Jugo Tampico Citrus Punch 2500 ml
 653046,Edulcorante Stevia Sbeltic Dul-C 100 gr
 653047,Edulcorante Dulc Polvo 50 gr
-653052,Sopa de Mani Pollo Fideo Cocinero 120 gr
 653073,Vino Trivento Reserva Malbec 750 ml
 653074,Vino Trivento Carbernet Sauvignon Reserva 750 ml
 653082,Masticable Arcor Frutal 810 gr
@@ -14014,7 +14052,6 @@
 656892,Pudin Andean Valley con Quinua Sin Gluten 120 gr
 656893,Panqueque Andean Valley de Quinua 185 gr
 656894,Masa Pizza Andean Valley quinua 340 gr
-656899,Harina Andean Valley Precocida Quinua Negra
 656900,Pan Molido Zelada 1 Libra
 656904,Harina Andean Valley Cruda Quinua Blanca 350 gr
 656905,Base Andean Valley de Quinua Hamburguesa 375 gr
@@ -14488,7 +14525,6 @@
 660212,Quinua Real Agromix 450 gr
 660548,Cafe Copacabana Exportado Tostado 250 gr
 660852,Te Frutte Laxte 20 Sobres
-661150,Insecticida Tableta Raid Mata Mosquito Doble Accion 24 un
 661151,Ambientador Aerosol Glade Vaninilla 270 ml
 661297,Jugo Ice Fruit Mango 2.5 L
 661308,Torta Tres Leches Grande Hipermaxi
@@ -14640,7 +14676,6 @@
 666549,Tinte Koleston Single Tono 80 Rubio Claro
 666550,Tinte Koleston Single Tono 81 Rubio Cenizo Claro
 666551,Tinte Koleston Single Tono 90 Rubio Extra Claro
-666553,Tinte Koleston Single Tono 98 Plata
 666559,Desodorante Aerosol Lady Speed Stick Derma Aloe 150 ml
 666565,Cera Brisol Piso Madera 500 ml
 666596,Tinte Koleston Tono 20 Eros Negro
@@ -15211,7 +15246,6 @@
 668778,Jabon Liquido Essencial Melon 300 ml
 668779,Jabon Liquido Essencial Acuarium 300 ml
 668780,Jabon Liquido Essencial Manzana 300 ml
-668781,Jabon Liquido Essencial Frutilla 300 ml
 668782,PERFUMANTE DE TELA  TOQUE DE BEBE
 668783,PACK AHORRO JABON NUT+ANTIBA SHABAY 370M
 668785,Lavandina Super Archer 250 ml
@@ -15398,6 +15432,8 @@
 669168,Esmalte de Uña Essence Gel Nail Colour 64 8 ml
 669169,Labial Essence Brillo Extreme Shine Volumen
 669170,Balsamo Essence Labial Juicy Bomb Glossy 04
+669171,Balsamo Essence Labial Juicy Bomb Glossy 03
+669172,ESS. PRIMER JELLY GRIP HYDRATING (946624
 669173,Balsamo Essence Labial Juicy Bomb Glossy 02
 669174,Balsamo Essence Labial Juicy Bomb Glossy0
 669175,ESS. BALSAMO LABIAL HEART CORE FRUITY 06
@@ -15620,7 +15656,6 @@
 669754,DEO ABOVE FEEL FREE ZERO  MEN
 669759,LUSTRA MUEBLE BRISTAR BOTELLA 850ML
 669760,LUSTRA MUEBLE BRISTAR BOTELLA 500ML
-669771,LS EMOJI BELLA
 669792,ESS. LTE SUPERMAN LAPIZ DE OJOS DUOCHROM
 669794,CATRICE LTE WONDER WOMAN SOMBRA PALETA 0
 669795,ESS. LTE SUPERMAN RUBOR DE GELATINA COLO
@@ -15885,6 +15920,8 @@
 671227,Pollo Entero Especial La Granja kg
 671228,Pollo Trozado Entero La Granja con Piel kg
 671230,Pechuga de Pollo La Granja con Piel kg
+671231,Pechuga de Pollo Sin Piel La Granja kg
+671232,Filete de Pollo La Granja Bandeja kg
 671233,Filetillos de Pollo La Granja Bandeja
 671234,Pierna Muslo La Granja Bandeja Kg
 671235,Pierna de Pollo La Granja kg
@@ -15902,6 +15939,8 @@
 671315,Huevos Frescos Mrm 24 un
 671321,Tortilla Alo Mexicano de Trigo Burritos 690 gr
 671322,Tortilla Alo Mexicano Norteña 430 gr
+671323,Tortilla Alo Mexicano de Trigo 300 gr
+671324,Tortilla Alo Mexicano Integral 430 gr
 671340,Yogurt Griego Pil Natural 160 gr
 671341,Yogurt Griego Pil Jalea de Frutilla 160 gr
 671342,Yogurt Griego Pil Jalea de Durazno 160 gr
@@ -16148,10 +16187,11 @@
 672482,Chorizo Osfim Coctel 500 gr
 672483,Salchicha Osfim Coctel 500 gr
 672484,Carnes Frias Osfim Cazadorcito 400 gr
-672510,Piernas Entera Pio Rico Bandeja kg
+672509,Carne Molida de Pollo Pio Rico Bandeja kg
 672511,Pechuga sin Piel Pio Rico Bandeja kg
+672513,Muslo de Pollo Pio Rico kg
 672516,Pollo Trozado Bnadeja Pio Rico
-672517,Pollo Trozado 1-8 En Bandeja Pio Rico kg
+672518,Medio Pollo Pio Rico Bandeja kg
 672520,Bebida de Almendra Vilay Original 1 L
 672521,Bebida de Almendra Vilay Vainilla 1 L
 672522,Bebida de Almendra Vilay Original sin Azucar 1 L
@@ -16163,7 +16203,6 @@
 672546,Pan con Ajo Queso Mozzarella Brasuco 5 un 390 gr
 672547,Pan con Ajo Tocino Brasuco 5 un 390 gr
 672548,Pan con Ajo Gourmet Brasuco 390 gr
-672549,Pan con Ajo Mix 5 Sabores Brasuco 390 gr
 672550,Hamburguesa Prosana Garbanzo Queso 260 gr
 672551,Hamburguesa Prosana Garbanzo Quinua Tomillo 260 gr
 672552,Mortadela Primavera Sofia 500 gr
@@ -16348,7 +16387,6 @@
 673221,Escabeche de Verduras Yacobs 850 gr
 673224,Pan Molde Integral Bauducco 400 gr
 673229,Pan de Hamburguesa Ovoplus 10 un
-673230,Pan Hot Dog Ovoplus Pequeño 10 un
 673231,Pan de Panchito Ovoplus Grande 10 un
 673232,Pan Molde Ovoplus Multicereal Sin Azucar 500 gr
 673233,Queque Ovoplus Mix Cereales 6 un
@@ -16439,6 +16477,9 @@
 673462,Jamon Ahumado de Pollo Fridosa kg
 673464,Jamon Familiar Fridosa 12x12 A Granel
 673487,Mortadela Jamonada Alemana Fridosa kg
+673488,Yogurt Griego Tolavi Natural Descremado Sin Azucar 800 ml
+673489,Yogurt Griego Tolavi Natural Sin Azucar 160 gr
+673491,Yogurt Griego Tolavi Jalea Durazno 160 gr
 673492,Yogurt Griego Tolavi Jalea Piña Naranja Descremado 160 gr
 673494,Yogurt Pil Frutilla Deslactosado 1 L
 673495,Yogurt Pil Crema Americana Deslactosado 1 L
@@ -16537,6 +16578,7 @@
 673809,Pack Huevo de Oro 12 un
 673811,Jamon de Pavo Santa Isabel 200 gr
 673812,Mortadela de Pavo Santa Isabel 200 gr
+673813,Pate de Higado de Pavo Santa Isabel 100 gr
 673814,Salchicha de Pavo Santa Isabel 500 gr
 673821,Jamon de Pavo Santa Isabel Barra kg
 673822,Mortadela de Pavo Santa Isabel Barra kg
@@ -16684,6 +16726,7 @@
 674252,Helado Delizia Canela Leche Tradicion 1 L
 674253,Jamon Ahumado de Pavo Santa Isabel Sachet
 674254,Jamon Ahumado de Pavo Santa Isabel kg
+674259,Pan Molde San Gabriel con Salvado y Semilla
 674260,Filete de Pechuga Sofia Corte Fino kg
 674269,JAMON SIN GRASA STEGE AL VACIO
 674281,Tocino Ahumado en Cubos San Agustin 100 gr
@@ -16721,7 +16764,6 @@
 674366,Queso Azul Neskraft kg
 674367,Queso Untable Cheddar Neskraft 150 gr
 674368,SACHET TRADICION CHICHA MORADA DELIZIA 1
-674369,Galleta Dulce Tartaleta Mamina 250 gr
 674371,Chorizo Ahumado Osfim A Granel
 674372,ALFAJOR DE CHOCOLATE SABOR COCO ALFIJORES UNI
 674373,ALFAJOR DE CHOCOLATE SABOR CLASICO ALFIJORES UNI
@@ -16865,7 +16907,6 @@
 674636,KEFFIR MELLOR COCO 2LTS
 674637,KEFFIR MELLOR MORA 2LTS
 674638,SALCHICHA HADOQUERA SOFIA XXL A/V 15 UNIDADES
-674639,SALCHICHA HADOQUERA XXL SOFIA A/V 6 UNIDADES
 674644,LOMO DE PAICHE EL SABOR DEL QUINCHO CONG A/V
 674646,TAMBAQUI EN MITADES EL SABOR DEL QUINCHO
 674650,Galleta Gustossi Surtida 680 gr
@@ -16918,6 +16959,7 @@
 674745,CHICOLAC CREMA AMERICANA PIL 120ML BOLSA
 674786,BONDIOLA DE CERDO SOFIA REFRIGERADA A/V KGR
 674787,LOMO DE CERDO SOFIA REFRIGERADO A/V KGR
+674788,LOMITO DE CERDO SOFIA REFRIGERADO A/V KGR
 6748,Energizante Ciclon Berry 500 ml
 674832,Mini Torta Delizia Frutilla 850 ml
 674834,MINI TORTA DELIZIA YOGURT SALSA AMARENA 850 ML
@@ -16934,7 +16976,6 @@
 676565,Chicharron Prosana Soya
 676571,Yogurt Kream Coco 2 L
 676597,Jugo Beet Frutt Manzana 120 ml
-676609,Huevos Omega 3 Poroplast 12 un
 676615,Alitas Sofia Barbacoa 500 gr
 676616,Alitas Sofia Picante 500 gr
 676637,Hamburguesa Fridosa Fridosita Express Pollo 18 un
@@ -16945,6 +16986,7 @@
 676653,Pan de Panchito Dencker 10 un
 676654,Pan Tortilla Dencker
 676658,Cuñape Abizcochado Dencker 200 gr
+676659,Kaukas con Queso Dencker
 676661,Pan Miga Dencker
 676662,Galleta Dencker Surtido
 676664,Pan Coliza Hipermaxi kg
@@ -17123,6 +17165,7 @@
 678450,Pollo Relleno Pio Rico
 678459,Pan Molde Ceab Fibra
 678460,Queso Fresco Ayo Ayo 1kg
+678461,Queso Fresco Ayo Ayo 500 gr
 678472,Chorizo Parrillero Picante Dillmann kg
 678521,Mini Salchicha Sofia Res 10 un
 678522,Mini Salchicha Sofia Res 20 un
@@ -17134,6 +17177,7 @@
 678671,Pan Arabe Integral Taquinos
 678672,Jamon de Pavo Sofia kg
 678673,Pechuga ahumada Pavo Sofia kg
+678682,Pasta Frola Dencker Varios Sabores
 678683,Yogurt Nordland Drink Frutilla 900 ml
 678684,Yogurt Nordland Drink Durazno 900 ml
 678710,Leche Deslactosada Pil Chocolate 800 ml
@@ -17254,6 +17298,7 @@
 679207,Mortadela Jamonada Hass kg
 679209,Panceta Ahumada Hass kg
 679211,Salame Hass kg
+679216,Salame Hass Unidad 250 gr
 679220,Chorizo Churrasquero Sofia kg
 679221,Jamon Ahumado Sofia de Cerdo Al Vacio
 679222,Queso de Cerdo Sofia Al Vacio
@@ -17281,6 +17326,7 @@
 679374,Helado Cabrera Milenium Yog Frutos Rojo Caja
 679376,Protectores Diarios Carefree Original 60 un KNV
 679377,Betun Pasta Nugget Marron 65 gr
+679388,Pan con Salvado Zelada 10 un
 679389,Gelatina de Pata Tarijeña 135 gr
 679401,Torta Helada Delizia Tentacion
 679429,Helado Pil Pilfrut Manzana 60 ml
@@ -17298,7 +17344,6 @@
 679465,Helado Pil Platinum Crema Americana 1 L
 679466,Helado Pil Platinum Vainilla 1 L
 679481,Queso La Merced Finas Hierbas
-679482,Queso La Merced con Jamon Serrano
 679483,Queso La Merced con Jamon Ahumado
 679484,Queso La Merced con Paprika
 679486,Queso La Merced con Sesamo
@@ -17469,6 +17514,7 @@
 695992,Juego de Globos 30 Unidades
 695993,Juego de Globos 100 Unidades
 696000,ESS. ESMALTE EXTREME LAST TOP COAT 01 (9
+696003,Esmalte de Uña Essence Gel Nail Colour 72 8 ml
 696005,ESS. BRILLO LABIAL JUICY BOMB SHINY 106
 696007,ESS. PRIMER WONDER FULL 5 IN 1  20 (9491
 696008,ESS. PRIMER WONDER FULL 5 IN 1 10 (94911
@@ -17705,14 +17751,19 @@
 760569,PASTA DENTAL COLGATE JUNIOR 100 GR
 761062,Vino Viñas De Balbo Tinto 1125 ml
 761203,QUESO CREMA DE YOGURT NATURAL BONTANA 150 ML.
+761204,YOGURT PROGRIEGO DESLACTO.NAT.H.P 250 GRS.
+761213,YOGURT PROGRIEGO  DESLACT.MIEL H.P. 250 GRS.
 761214,QUESO CREMA DE YOGURT AJO Y OREGANO BONTANA 150 ML.
-761225,YOGURT BEB.PROB.SABOR COCO BONTANA 1 LT.
 761226,YOGURT PROGRIEGO DESLACT.FRAMBUESA H.P.250 GRS.
 761237,YOGURT PROGRIEGO DESLACT.COPUAZU H.P.250 GRS.
+761245,YOGURT PROGRIEGO DESLACT.FRUTOS ROJOS H.P.250 GRS.
 761252,PULPA CONG.FRUTAS Y VEGETALES DETOX X5 UNID.CELEBRE
 761258,Porotos Hess Conserva 340 gr
+761259,YOGURT BEB.PROBIOT.DESLACT. NATURAL H.P. 1 LT.
 761263,Berenjenas Hess Conserva 330 gr
 761270,YOGURT BEB.PROBIOT.DESLACT.CHIRIMOYA H.P.1LT.
+761291,YOGURT BEB.PROB.DESLACT.FRUT.FRUTOS ROJOS H.P.1LT.
+761294,YOGURT BEB.PROBIOT.DESLACT.FRUT.FRAMBUESA H.P.1LT.
 761311,KEFIR SAB.COCO PINA BONTANA 500 ML.
 761325,HELADO XL DUO BOB ROCKLETS 520 GRS.
 761326,YUCA PRECOCIDA CONG.POLAR CORTE CUBOS 1 KG.
@@ -17720,18 +17771,18 @@
 761337,KEFIR SAB.LIMON VAINILLA BONTANA 500 ML.
 761347,HELADOS AGRUPADO BON O BON 4X61 GRS.
 761348,KEFIR NATURAL BONTANA 1 LT.
-761356,KEFIR SABOR COCO PINA BONTANA 1 LT.
 761357,MARGARINA CREMA VEGETAL SOYA 500 GRS.
 761358,Paneton mini Bauducco Fini 80 gr
 761365,HELADOS AGRUPADO BLOCK COFLER 4X61 GRS.
-761368,KEFIR SABOR BANANA FRUTILLA BONTANA 1 LT.
 761374,KEFIR SAB.LIMON VAINILLA BONTANA 1 LT.
 761386,HELADO CONO COFLER BLOCK 18X95 GRS.
 761394,HELADO CONO COFLER FRUTILLA AMERICANA UNID.
 761412,PACK BATIDITO FRUTILLA X8 CON ESTUCHE
+761419,Tapa de Empanada Criollas Miltipasta 12 un
 761420,YOGURT BEBIBLE DELIZIA DURAZNO 1 LT SACHET
 761422,Tapa de Empanada Multiple Multipasta 12 un
 761430,REQUESON CREMOSO CON PALTA GUARUJA 220 GRS.
+761431,Tapa de Empanada de Freir Multipasta 12 un
 761434,GALLETAS CRICK CRACK PAN DANES  UNID.
 761437,Alimento Bebible Soya Nordland Chirimoya 950 ml
 761442,Queque con Banana Dulcy Gourmet 500 gr
@@ -17740,7 +17791,6 @@
 761457,FORTUMILK LECHE NATURAL 900 ML. LA PURITA
 761458,YUCAS PRECOCIDAS CONG.POLAR CORTE BASTON 1 KG.
 761459,PANCETA AHUMADA OSFIM AL PESO KG.
-761467,Queque Vainilla Dulcy Gourmet 500 gr
 761469,PACK YOGURELLO FRUTILLA X12 CON ESTUCHERA
 761475,PACK YOGURELLO X12 CON ESTUCHERA
 761534,TOCINO AHUMADO OSFIM AL PESO KG.
@@ -17779,12 +17829,12 @@
 762813,QUESO MUZZARELLA LAMINADO MALLON 150 GRS.
 762857,Cuñape con Chia San Javier 100 gr
 762873,Enrollado Criollo Monserrat de Cerdo kg
+762894,Pack Mini Pizza Di Roma 5 un
 762927,QUESO MUZZARELLA LAMINADO MALLON 250 GRS.
 763224,Mantequilla Sabor Brasuco Ajo Gourmet 200 gr
 763240,Galleta Chatitas Blanca La Delicia
 763245,HELADO DE PULPA DE ASAI BIOFOOD 1 LT.
 763256,Huevos Caisy Subsidio 30 un
-763450,Galleta Chatitas Integrales La Delicia
 763514,Leche Entera Lolita Purita 800 ml
 763543,Helado Acai Yogurt Griego Cabrera 1 L
 763587,ENTRANA FINA BLACK A.V.CONGELADA FRIDOSA KG.
@@ -17810,9 +17860,11 @@
 763981,Bebida Vegetal Serenisima Base de Almendra 1 L
 764122,Yogurt La Campiña Saborizado Viscoso 2 L
 764157,Ensalada Rusa Congelada Punto Verde 450 gr
+764201,Pan Danes Campesino 5 Semillas
 764235,PULPA Y ZUMO CONG.FRUTAS Y HORTALIZAS X5 UND.CELEBRE
 764312,Pan Danes Rustico 3 Semillas
 764356,HELADO DE PULPA DE COPOAZU BIOFOOD 1 LT.
+764423,PAN DANES SALVADO DE TRIGO UNID.
 764523,PIZZA PRECOC.CONG.JAMON Y MUZZARELLA BAHREM UND.
 764524,BUDIN SABOR VAINILLA VICTORIA 250 GRS.
 764527,PAN CON AJO COSAS RICAS CLASICO X5 UNID.
@@ -17820,12 +17872,15 @@
 764536,PIZZA PRECOC.CONG.MEZCLA DE QUESOS BAHREM UND.
 764567,PIZZITAS PREC.CONG.JAMMON Y QUESO BAHREM 11CM.
 764612,Queso Criollo Menonita La Excelencia kg
+764645,Pan Danes Mediterraneo Ajo y Oregano
+764756,PAN DANES ABDEL MASA MADRE UNID.
 764783,Cuñapecitos Mayser Dulcecitos 200 gr
 764816,Salteña de Pollo Sin Picante Congelada Jet Set 2 Und
 764827,Salteña de Pollo Picante Congelada 2 un
 764852,Salteña de Carne Picante Congelada 2 un
 764875,PAN CON AJO SANTA ELENA X2 UND.PRECOCIDO
 764893,PIERNA CON CUERO CONG.AL VACIO SFIA KG.
+765024,Magdalenas Paris 10 un
 765136,PALETAS DE ASAI BIOFOOD CAJA X 8 UND.
 765148,Alfajores de Maicena 6 un
 765241,HELADO STRAVAGANZA SAB.PISTACHO 500 GRS.
@@ -17912,7 +17967,6 @@
 778347,Sopa Campbells At Hand Tomato
 779033,Yogurt Light Cotoca Varios Sabores 900 ml
 779093,QUESO ALTIPLANO 1 KG. = 1 UND.
-779122,REQUESON ALTIPLANO 200 GR.
 779326,Longaniza Bragantina Cerdo Provolone 500 gr
 779417,Longaniza Bragantina Cerdo Hierba Buena 500 gr
 779428,Longaniza Bragantina Cerdo Bacon 500 gr
@@ -17946,7 +18000,6 @@
 781430,Pan Molde Vikinger Blanco 550 gr
 781433,Helado Cabrera Choco Cono Menta
 781436,Huevos San Sebastian Frescos 12 un
-781452,Pan de Hamburguesa Vikinger 8 un
 781461,Tosteque Dolly Gomez 50 gr
 781472,Huevos Avicola Paurito Chicos 20 un
 781474,Chorizo Criollo Premium La Porcina Al Vacio 500 gr
@@ -17968,7 +18021,6 @@
 781624,Bebida Apego Espresso Dulce 300 ml
 781631,Queso Mozzarella Sabor Chiquitano Laminado 250 gr
 781633,Cuñape Rosca Unicos 65 gr
-781636,Queso Mozzarella Holandesa 500 gr
 781637,Hamburguesa de Tambique kg
 781641,Mortadela el Cazador Jamonada La Porcina 200 gr
 781644,Cuñape Bolita Unicos 65 gr
@@ -18059,7 +18111,9 @@
 783112,Sandwich Panini Pollo Jamon Dulcy 130 gr
 783120,Pernil Ahumado Sofia kg
 783124,Galleta de Stevia Vikinger con Avena
+783142,Arroz con Leche Chokito 900 gr
 783162,Cola de Langostino Precocido Pez y Mar 450 gr
+783164,Flan Chokito 900 gr
 783196,Nuggets Pop Pollo Fridosa 300 gr
 783223,Chorizo Ahumado Stege Al Vacio kg
 783239,Tocineta de Cerdo Sofia 150 gr
@@ -18087,8 +18141,11 @@
 783654,SOFIPOCAS DE POLLO SOFIA BOLSA 500 GRS.
 783700,Hamburguesa Hipermaxi Bolsa 12 un
 783716,Yogurt Griego Iogo con Cereal Farfait Cero Azucar 250 gr
+783725,Huevos Doña Juanita 30 un
 783729,Pizza precocida Cogelada Pipa Jamon Queso
+783747,Bisnaguinha Victoria 7 un
 783749,Yogurt Griego Iogo con Cereal Farfait 250 gr
+783758,Bisnaguinha Victoria 15 un
 783814,Alas de Pato San Jose Congelado kg
 783858,Tortillas Don Taco Chica Integral 270 gr
 783891,Yogurt Alimentarte Mermelada Quinua
@@ -18150,6 +18207,7 @@
 784691,Queso Mozzarella Santa Rosa 400 gr
 784692,Bizcocho de Maiz Pan Hogar 100 gr
 784706,Cuñape Rosca La Tradicion Cruceña 120 gr
+784712,Pizza Di Roma Caprese Grande Gourmet
 784717,Burrito Congelado Orale Guey Chili de Pollo al Limon 250 gr
 784721,Burrito Congelado Orale Guey Chili con Carne Original 250 gr
 784722,Pizza Di Roma Grande Gourmet Tres Quesos
@@ -18197,6 +18255,7 @@
 785347,Pizza Di Roma Grande Clasica Jamon
 785358,Pizza Di Roma Grande Clasica Jamon Choclo
 785361,Jamon de Pavo Sofia al Vacio un
+785367,Pizza Di Roma Congelada Grande Clasica Fugazzeta
 785396,Pulpa Congelada Fitfrut Ciruelo Sin Azucar 200 gr
 785413,Mantequilla de Ajo Riquisima 200 gr
 785421,Nectar Congelado Delifruta Tamarindo 500 gr
@@ -18238,6 +18297,7 @@
 785929,Helado Cabrera Yog Premium Frutos Rojos 1100 ml
 785931,Helado Cabrera Yog Premium Golden 1100 ml
 785948,Queso Philadelphia Kraft Original 300 gr
+785965,Arroz con Leche Chokito 230 gr
 785998,Tortillas Pan Hogar 10 un
 786024,Leche Pil Natural 900 ml
 786078,Cuñape Abizcochado Horneatito 30 un
@@ -18291,6 +18351,7 @@
 786894,Empanada Integral Europan Con Queso 4 un
 786896,Queso Sandwichero Guapurutu Laminado 150 gr
 786897,Chorizo Precocido Picante Fridosa kg
+786935,Pan de Panchito American Bread XL 8 un
 786936,Cordon Bleu Sofia Caja 600 gr
 786938,Jamon Ahumado Hipermaxi 1 kg
 786943,Budin Victoria Chispas de Chocolate 275 gr
@@ -18342,11 +18403,14 @@
 787659,Mantequilla de Mani Almendrin Salada Cremosa
 787691,Pan Brioche Semillas Amapola American King
 787694,Queso Mozzarella Guaruja 400 gr
+787698,Pan Brioche Especial American King
 787715,Huevos Caisy Campeon 12 un
 787764,Pan Bauducco Multigrano Masa Madre 390 gr
 787831,Mermelada Candy Mora 200 gr
 787846,MERMELADA CANDY FRUTILLA 200 GR
+787963,Pan Molde Paris Integral 280 gr
 787967,Huevos Jars de Codorniz 50 un
+787968,Pan Molde Paris Blanco 280 gr
 787993,Cuñape Abizcochado Unicos 50 gr
 788087,Lechuga Valleverde Mixta 1 un
 788136,Leche Pil Instantanea 120 gr
@@ -18366,6 +18430,7 @@
 789056,Dulce de Leche La Florida Original 1 kg
 789121,Empanada Integral Paris 4 un
 789132,Palitos Integrales de Sesamo Paris 16 un
+789146,Palitos Integrales con Queso Paris 16 un
 789227,Pate de Higado Fridosa 100 gr
 789235,Yogurt Danoninho Bebible Morango 100 gr
 789259,Jamon York Sofia kg
@@ -18404,6 +18469,7 @@
 789647,Cuñape de Almidon Davieds 10 un
 789650,Medallones de Lomito Cerdo Sofia kg
 789656,Salsa Puttanesca Olive Salsas Congelada 500 gr
+789666,Punta de S Sofia de Cerdo Congelado kg
 789673,Chorizo Español La Sierra Nevada al Vacio 100 gr
 789676,Escabeche de Jalapeño Guaruja 350 gr
 789678,Chorizo Tipo Argentino Hipermaxi 1 kg
@@ -18417,13 +18483,11 @@
 789741,Queso Mozzarella Milkaut kg
 789742,Queso Cheddar Guapurutu 500 gr
 789745,Queso Fundido Lesama Cheddar 210 gr
-789754,Queso Sandwichero Guapurutu Laminado 500 gr
 789755,Arandanos Congelados Minuto Verde 400 gr
 789757,Pulpa Congelada Pulpa Frut Exotica Surtido 1 kg
 789759,Clara de Huevo Ovoplus Pasteurizada 1 L
 789795,Queso Provolone Guapurutu Laminado 240 gr
 789796,Frutilla Congelada Minuto Verde 500 gr
-789801,Sandwich Dulcy de Pollo Miga Blanco 130 gr
 789803,Mantequilla Sabor Brasuco Ahumada 200 gr
 789808,Queso Ricotta Natural Artesano Light sin Sal kg
 789811,Pasta de Ajo Brasuco 200 gr
@@ -18437,6 +18501,7 @@
 790085,Foco Ulix Espiral Bajo Consumo 36 W
 790121,Pan Molde Blanco Grande Victoria 560 gr
 790129,Foco Ulix Espiral Bajo Consumo 42 W
+790211,Pan Molde Victoria Blanco Chico 280 gr
 790222,Pan Molde Integral Grande Victoria 580 gr
 790233,Pan Molde Victoria Integral Chico 315 gr
 790277,Pan Salvado Victoria 5 un 160 gr
@@ -18469,7 +18534,6 @@
 791300,Rollito con Queso Hipermaxi kg
 791333,Dulce de Leche La Serenisima 400 gr
 791478,Pasta de Almendra Apita 240 gr
-791483,Helado Bomboncitos Bon o Bon 180 gr
 791564,HELADO CREMA OREO VACA FRIA 1 LT.
 791587,HELADO CREMA OREO VACA FRIA 150 ML.
 791596,HELADO SABOR COCO VACA FRIA 150 ML.
@@ -18497,6 +18561,7 @@
 793528,Yogurt Lesama Bebible Natural Sin Azucar Botella 2 L
 793538,Salchicha Frankfurt Sofia al Vacio 370 gr
 793557,Jamon Sandwichero Sofia al Vacio 250 gr
+793561,Mortadela Primavera al Vacío Sofía 200 gr
 793565,Jamon Light de Pollo Sofia Al Vacio 250gr
 793582,Mortadela Jamonada Sofia al Vacio 200 gr
 793596,Salchicha Frankfurt Extra Larga Sofia 720 gr
@@ -18523,6 +18588,7 @@
 796115,Pork Belly de Cerdo Sofia kg
 796215,Leche de Coco Alimentarte 500 ml
 796321,Yogurt Delizia Silueta Vainilla 1 L
+796327,Huevos Hmh Extragrande 18 un
 796457,Galleta Davieds de Sesamo 180 gr
 796483,Mini Tortillitas Pan Hogar con Azucar 160 gr
 796513,Queso Mozzarella Guaruja Laminado 200 gr
@@ -18549,6 +18615,7 @@
 798326,Escabeche de Verduras Guaruja 400 gr
 798338,Jamon Tipo Serrano Marco Ulloa Cubitos 100 gr
 798342,Helado Vaca Fria Crema Chocolate 150 ml
+798346,Yogurt Probiotico La Purita Coco 2 L
 798348,Pierna Entera Jamon Tipo Serrano Marco Ulloa kg
 798349,Bondiola Marco Ulloa Feteada 100 gr
 798350,Yogurt Probiotico La Purita Durazno 2 L
@@ -18795,6 +18862,8 @@
 823572,Mesa Plegable Multifuncion
 823665,Boligrafo Faber Castell Negro 0.62
 823670,Boligrafo Faber Castell Azul 0.62
+82368,Jamon Cocido Santa Fe kg
+82376,Salame Especial Santa Fe Chico
 824044,JUGO V8 SPLASH TROPICAL BLEND 64 OZ
 82414,Ketchup Kris Pomo 200 gr
 82422,Levadura Seca Fleischmann 170 gr
@@ -19572,6 +19641,8 @@
 858375,Zapallo Picado 1 Kg
 858379,Vino Concha y Toro Reservado Carmenere 750 ml
 858380,CP MIX TOSTADOS X KG
+858383,Lechuga Mixta 1 kg
+858385,Lechuga Suiza 1 kg
 858388,Albahaca 1 kg
 858389,Cilantro 1 un
 858390,Hierba Buena 1 un
@@ -19685,7 +19756,6 @@
 862860,Espuma Alegria Original 380 cm
 862861,Pintura Dorada Alegria 150 ml
 862869,Chisguete de Agua
-862879,Chisguete De Agua Forma Animales
 862880,Extensiones Carnaval
 862881,Mechas Carnavaleras Surtidas
 862883,Antifas Gamusado
@@ -19748,7 +19818,6 @@
 865189,Huevos Yemita Amarilla 12 un
 865194,Papa McCain Congelada Smiles 600 gr
 865223,Pan Molde Integral Belen Avena Azucar 600 gr
-865238,Pan Molde Integral Belen Zanahoria 550 g
 865243,Pan Molde Integral Belen Uvas Pasas 550 g
 865287,JAN  PORTA AGUA  CALIENTE  35
 865297,Plancha Taurus Vapor Atlas 2400 Electro
@@ -19816,6 +19885,8 @@
 867531,CONSERVADORA 20LT TERMOLAR CAFE SUV
 867543,Bolsa de Regalo San Valentin
 867544,Bolsa de Regalo San Valentin
+867557,Bandeja Arenera con Tapa
+867558,Juguete Raton para Mascota
 867811,CP COL DE BRUSELAS HORTIFRESH 1 UND
 867898,Pack Limones Amarillos 25 un
 867987,Papas Congeladas Tradicional Simplot  700 g
@@ -19997,6 +20068,7 @@
 876174,Mascara Faciales
 876184,Leche Light Delizia Larga Vida 800 ml
 876234,Lapices de Colores Faber Castell 24 Colores + 2 Lapices
+876236,Candado N60
 876257,Lapiz Vinifan Tecnico 2B 12 un
 876263,Lapices de Colores Vinifan Jumbo 12 Colores
 876265,Crayones Vinifan 12 Colores
@@ -20281,6 +20353,8 @@
 897592,Cafe De Altura Molido 250 gr
 897891,Juguete Para Mascota Hueso 15
 897943,Bloqueador Solar Nivea 125 ml
+898051,Arañador para Gatos Triangular
+898052,Arañador para Gatos
 898091,Exprimidor Practika TC-8 1 L	Electro
 898092,ALISADORA FASHION KIT TAURUS
 898101,Sandwichera Premier ED-7710 Electro
@@ -20300,7 +20374,6 @@
 898718,Pintura Carnavalera Alegria Spray Rosado 150 ml
 898720,PINTURA SPRAY VERDE ALEGRIA .150ML
 898721,Pintura Spray Amarilla Alegria 150 ml
-898722,Pintura Spray Azul Alegria 150 ml
 898765,Maquina de Pan Smartlife
 898787,Regleta Huavi R-36 Multitoma
 898789,Audifono Metalico Super Bass Huavi
@@ -20731,6 +20804,7 @@
 948326,Taper Good y Good Cuadrado con Divisores 1.10 ml
 948327,Taper Basa Cuadrado 2.3 L
 948948,Fosforo Parana Gigante 50 un
+950466,Vasoo 7Oz X10 Plastico 7recuentreP
 950520,Auto Hot Wheels 3 un
 95060,Comino El Cocinero Molido 100 gr
 95079,Pimienta El Cocinero Molida 100 gr
