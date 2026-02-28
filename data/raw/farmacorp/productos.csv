@@ -1942,6 +1942,8 @@
 356233,Dipin 20Mg Nifedipino X Tableta
 356234,Betasol Clobetasol Propinato 0.0005 Crema X 25G
 356235,Zepatid 7.5Mg/0.5Ml X Jer Prell Tirzepatida (Frio)
+356236,Zepatid Tirzepatida 2.5Mg/0.5Ml Frio X Jeringa Prellenada
+356237,Zepatid Tirzepatida 5Mg/0.5Ml Frio X Jeringa Prellenada
 356239,Leflox Levofloxacino 500Mg X Tableta
 356244,Foxat Meloxicam 15Mg X Tableta
 356247,Aguja Para Cateter Celsite Aguja22x15mm Pediatrico
@@ -2855,6 +2857,7 @@
 4059729444882,Primer Catrice Serum Skin Glaze Hydrating
 4059729444905,Rubor Liquido Catrice Blush Affair 010
 4059729444929,Rubor Liquido Catrice Blush Affair 040
+4059729444943,Rubor Liquido Catrice Blush Affair Nro. 030
 4059729445094,Rubor Liquido Catrice Blush Affair 020
 4059729445100,Rubor Liquido Catrice Blush Affair 050
 4059729445179,Labial Shine Bomb Catrice 010
@@ -2863,6 +2866,7 @@
 4059729445230,Labial Shine Bomb Catrice 040
 4059729445254,Labial Shine Bomb Catrice 050
 4059729445278,Labial Shine Bomb Catrice 060
+4059729445315,Labial  Shine Bomb Catrice Nro. 080
 4059729445391,Bálsamo Labial Catrice Care In Colours 020
 4059729445414,Bálsamo Labial Catrice Care In Colours 030
 4059729445438,Bálsamo Labial Catrice Care In Colours 040
@@ -2912,6 +2916,10 @@
 4059729488718,Iluminador Catrice Holiday Skin 4 In 1 010
 4059729488787,Primer Catrice Tenisational 10 In 1 Dream 020
 4059729489043,Paleta Rubor Catrice Blush Aff Crema Y Polvo 040
+4059729489562,Labial Catrice Endless Matte Nro. 010
+4059729489647,Labial Catrice Endless Matte Nro. 050
+4059729489661,Labial Catrice Endless Matte Nro. 060
+4059729489722,Labial Catrice Endless Matte Nro. 090
 4059729489852,Aceite Labial Catrice Glossin Glow Tinted 060
 4059729489937,Bálsamo Labial Catrice Care In Colours 060
 4059729490018,Bálsamo Labial Catrice Holiday Lips Caring 010
@@ -2947,6 +2955,10 @@
 4059729491688,Esmalte Gel Essence Nail Colour 72 Left Me On Red
 4059729491756,Esmalte Essence Extreme Last Top Coat Perfect Stay
 4059729513731,Catrice Kiss Y Glow Balsamo Labial Shimmer C01
+4059729514769,Máscara De Pestañas Catrice Allround Waterproof Brown Nro. 020
+4059729514790,Delineador De Ojos Catrice Kohl Kajal Waterproof Nro. 190
+4059729515117,Catrice Serum Lazy Day All In One X 28Ml
+4059729515896,Labial Volumizador Catrice Plump It Up Nro. 120
 4059729516565,Sombra De Ojos Con Brillo Essence Jelly Lewels Topper 01 Golden Glam X 4.2G
 4059729516572,Sombra De Ojos Con Brillo Essence Jelly Lewels Topper 02 X 4.2G
 4059729516695,Duo Set Polvo Para Cejas Essence 02 Medium X 1.8 G
@@ -2991,8 +3003,39 @@
 4059729533685,Brillo Labial Catrice Wonder Woman Lip Glaze 010
 4059729533760,Balsamo Labial Catrice Wonder Woman Magic 010
 4059729533807,Balsamo Labial Catrice Wonder Woman Magic 020 Proud
+4059729539830,Máscara De Pestañas Catrice Stay In Place Volume Nro. 010
+4059729539847,Máscara De Pestañas Catrice Hyper Lash Waterproof N.010
+4059729539854,Catrice Under Eye Brightener Liquid Nro. 010 X 10Ml
+4059729539878,Catrice Under Eye Brightener Liquid Nro. 020 X 10Ml
+4059729540027,Máscara De Pestañas Catrice Hyper Lash N.020
+4059729540034,Máscara De Pestañas Catrice Hyper Lash N.030
+4059729540430,Fijador De Maquillaje Catrice Blend + Bond X 55Ml
+4059729540584,Paleta De Rubores Catrice Blur Balm Nro. 010
+4059729540621,Polvo Compacto Catrice Soft Blur Matte Nro. 030
+4059729540645,Polvo Compacto Catrice Blur Perfect Waterproof Nro. 040
+4059729540911,Catrice Serum The Vitamin C Fresh Glow X 30Ml
+4059729540935,Rubor Catrice Soft Glam Nro. 010
+4059729540959,Rubor Catrice Soft Glam Nro. 010
+4059729541048,Brillo Labial Catrice Diamond Glaze Nro. 010
+4059729541062,Brillo Labial Catrice Diamond Glaze Nro. 020
+4059729541086,Brillo Labial Catrice Diamond Glaze Nro. 030
+4059729541123,Labial Catrice Pillow Like Matte Lip Mousse Nro. 010
+4059729541147,Labial Catrice Pillow Like Matte Lip Mousse Nro. 020
+4059729541161,Labial Catrice Pillow Like Matte Lip Mousse Nro. 030
+4059729541222,Labial Catrice Pillow Like Matte Lip Mousse Nro. 060
+4059729541284,Brillo Labial Catrice Gloss Obsessed Nro. 010
+4059729541307,Catrice Gloss Obsessed Lip Glaze Nro. 020
+4059729541345,Catrice Gloss Obsessed Lip Glaze Nro. 040
+4059729541369,Catrice Gloss Obsessed Lip Glaze Nro. 050
+4059729541383,Labial Catrice Colour Cushion Juicy Lip Oil Nro. 010
+4059729541406,Labial Catrice Colour Cushion Juicy Lip Oil Nro. 020
+4059729541420,Labial Catrice Colour Cushion Juicy Lip Oil Nro. 030
+4059729541468,Labial Catrice Colour Cushion Juicy Lip Oil Nro. 050
+4059729541482,Brillo Labial Catrice Diamond Glaze Nro. 050
+4059729541529,Bálsamo Labial Catrice Pillow Plush Peptide Nro. 010
 4059729543271,Polvo Facial Essence Superman Beautifying Face
 4059729543349,Mascara De Pestaña Catrice Wonder Woman Glam Y Doll Volume
+4059729547279,Iluminador Catrice Aura Glam Nro. 010
 4064666040936,Wella Prof Mascarilla X 150Ml Color Motion
 4064666102634,Shampoo Wella Professional Luxeoil Keratin Protect X 200Ml
 4064666315713,Wella Prof Acondicionador Intense Repair X 200Ml Fusion
@@ -4731,6 +4774,9 @@
 73796612429,Omron Tensiometro Digital De Muneca X Unidad
 73796714222,Monitor De Presión Arterial Omron Automático De Brazo Hem-7142
 740041,Diclofenaco 50Mg Y Paracetamol 500Mg Generico X Tableta
+740042,Linagliptina 5Mg Genérico X Comprimido
+740043,Clopidogrel 75Mg Genérico X Comprimido
+740044,Cefepima 1Gr Genérico Im-Iv X Ampolla
 7401036100505,Trental Pentoxifilina 400Mg X Tableta
 7401156601128,Reversal Glucosamina Sulfato 1500Mg Y Meloxicam 15Mg X Sobre
 7401156601319,Reversal Flex Meloxicam 15Mg Y Pridinol Mesilato 4Mg X Tableta
@@ -7808,6 +7854,7 @@
 7750243084185,Detergente Uno En Polvo Frescura Limon X 620G
 7750243084192,Detergente Uno En Polvo Frescura Floral X 620G
 7750243084208,Detergente Uno En Polvo Suavidad De Coco X 620G
+7750243084215,Detergente Uno En Polvo Armonía Floral X 1.8Kg
 7750243084222,Detergente Uno En Polvo Frescura Limon X 1.8Kg
 7750243084789,Detergente Patito Limon X 500G
 7750243084796,Detergente Patito Bebe X 500G
@@ -9175,6 +9222,7 @@
 7770109040469,Zetalerg Cetirizina 5Mg/5Ml Solucion X 60Ml
 7770109040490,Dehidrolit S 75 Suero Oral Rehidratante Solución X 150Ml
 7770109040582,Zetalerg Cetirizina 10Mg X Tableta
+7770109041350,Troxolina Cefalexina 500Mg/5Ml Suspensión X 90Ml Jeringa + Solvente
 7770109150014,Miel De Abeja Ecolmena X 920G
 7770109150038,Miel De Abeja Ecolmena X 460G
 7770109430048,Toallitas Húmedas Problock Wipes Aloe X 100 Unidades
@@ -9312,13 +9360,21 @@
 7771011351636,Acticap 600Mg Ibuprofeno X Cápsula Blanda
 7771011351650,Trassil Paracetamol 250Mg/5Ml Jarabe X 100Ml
 7771011351674,Bloktus Natural  Hedera Helix 35Mg/5Ml Jarabe X 120Ml
+7771011351704,Dolocofamin Relax Diclofenaco Pridinol Im X Ampolla + Jeringa
 7771011351797,Laiden Pregabalina 25Mg X Comprimido
 7771011351810,Laiden Pregabalina 50Mg X Comprimido
 7771011351834,Empizina Empagliflozina 10Mg X Comprimido
 7771011351865,Empizina Empagliflozina 25Mg X Comprimido
+7771011351902,Cinetic Digest Forte X Cápsula
 7771011351964,Maxibonagel Reflux Magaldrato / Simeticona Suspensión X 200Ml
 7771011352114,Xartan A 50Mg Losartán Y 5Mg Amlodipino X Tableta
 7771011352145,Prednix 20Mg Prednisona X Comprimido
+7771011352268,Hepasure Advance Sabor Limón X Sobre
+7771011352282,Cofar Rivaroxaban 10Mg X Comprimido
+7771011352299,Cofar Rivaroxaban 15Mg X Comprimido
+7771011352305,Cofar Rivaroxaban 20Mg X Comprimido
+7771011352312,Neurix B Pregabalina 75Mg X Comprimido
+7771011352336,Neurix B Pregabalina 150Mg X Comprimido
 7771100000513,Preservativo Pantera Power X Caja
 7771100000759,Preservativo Pantera Gold Premium X Unidad
 7771112090366,Miel De Abeja Melimel X 450G
@@ -10388,9 +10444,15 @@
 7774904406956,Acondicionador Revive Aceite De Cusi Sin Sal X 340Ml
 7774904407007,Shampoo Carissa Aceite De Cusi Doypack X 800Ml
 7774904407175,Reparador De Puntas Revive Con Aceite De Coco X 70Ml
+7774904407854,Pasta Dental Carissa Triple Acción Menta X 90G
 7774904408240,Shampoo Revive Pro Men Control Caída X 600Ml
 7774904408257,Shampoo Revive Pro Men Control Caída X 340Ml
+7774904408790,Jabon De Ducha Revive Seducción De Durazno X 340Ml
 7774904408806,Edulcorante Artesano Liquido X 600Ml
+7774904409254,Shampoo Carissa Doypack Aloe Vera X 450Ml
+7774904409261,Shampoo Carissa Doypack Anticaída X 450Ml
+7774904409278,Shampoo Carissa Doypack Bebé X 450Ml
+7774904409285,Shampoo Carissa Doypack Manzanilla X 450Ml
 7774904409575,Desodorante Revive Pro Men 72H Nitro Force X 150Ml
 7774904409582,Desodorante Revive Pro Men 72H Invisible Cool X 150Ml
 7774904409599,Desodorante Revive Women 72H Original Soft X 150Ml
@@ -10596,6 +10658,9 @@
 7778608381939,Toallitas Húmedas Ultra Confort Huggies Toallitas Caja X 640 Unidades
 7778608381946,Pack Kotex Normal Extra Suave Con Alas 3 X 10 Unidades
 7778608381953,Pack Kotex Sport Con Alas 3 X 10 Unidades
+7778608382059,Pack Huggies Pañal Active Sec G 2 X 58 Unidades
+7778608382066,Pack Huggies Pañal Active Sec Xg 2 X 48 Unidades
+7778608382073,Pack Huggies Pañal Active Sec Xxg 2 X 44 Unidades
 7778608490075,Bebida Isotónica Activade Pack 2 X 1 Lt
 7778608550014,Guantes De Latex Farmacorp Talla Xs X Unidad
 7778608550021,Guantes De Latex Farmacorp Talla S X Unidad
@@ -10988,11 +11053,13 @@
 7790580349110,Cofler Chocolate Con Leche Y Almendras X 55G
 7790580405601,Mogul Gomitas Dientes X 80G
 7790580405618,Mogul Gomitas Tuburoncitos X 80G
+7790580407070,Chocolate Arcor Bon O Bon Huevo Sabor Chocolate Con Leche X 78G
 7790580421106,Rocklets Con Chocolate Confitado X 40G
 7790580424565,Mogul Oso Extreme Sabor Tutti Frutti X 80Gr
 7790580424602,Gomitas Mogul Extreme Sabor Sandia Acido Dulce X 80G
 7790580424619,Gomitas Mogul Moras Berries X 80G
 7790580430436,Oblea Rellena Bon O Bon Break X 45G
+7790580463403,Chocolate Con Leche Arcor Bon O Bon Huevo X 20G
 7790580509507,Mermelada Arcor Sabor Durazno X 454G
 7790580509606,Mermelada Arcor Sabor Frutilla X 454G
 7790580524104,Arcor Helado Rocklets Palito X Unidad
@@ -11544,6 +11611,7 @@
 7798216220086,Leche Corporal Veganis Extra Humectante Pera Silvestre X 500Ml
 7798216220093,Exfoliante Corporal Veganis Renovación Profunda X 500Ml
 7798216220109,Exfoliante Corporal Veganis Wild Neroli X 500Ml
+7798216220116,Exfoliante Corporal Veganis Limpieza Extrema X 500Ml
 7798216220215,Crema Facial Veganis Diurna Protectora X 30Ml
 7798216220222,Crema Facial Veganis Nocturna Nutritiva X 30Ml
 7798216220239,Shampoo Veganis Nutri Boost Sublime Palta X 400Ml
@@ -11640,6 +11708,7 @@
 7800004002856,Pomada Nenegloss Advanced X 60Gr
 7800004002979,Dolorub Ibuprofeno 0.05 Gel X 45G
 7800004003013,Lechuga Bio Cuidado Cr Corp X 150Ml Ultra Hid Y Nutric
+7800004003037,Tapsin Insta Flu Dia Noche X Blister
 7800004003051,Leblon Bronzer Autobronceante Hipoalergenico X 190G
 7800004003068,Leblon Bronzer Autobronceante Hipoalergenico X 90G
 7800004003075,Leblon Solar Anti-Agefps50 Facial Bronzer X 50G
@@ -12842,6 +12911,8 @@
 7891010257064,Protector Solar Facial Neutrogena Sun Fresh Derm Care Fps50+ Sin Color X 40Ml
 7891010257071,Protector Solar Facial Neutrogena Sun Fresh Derm Care Fps50+ Color 2.0 X 40Ml
 7891010257149,Gel Hidratante Neutrogena Hydro Boots X 150Ml
+7891010257309,Serum Retinol Boost Neutrogena Anti-Arrugas X 30Ml
+7891010257323,Crema Retinol Boost Neutrogena Anti-Arrugas X 30Ml
 7891010257521,Enjuague Bucal Listerine Frescura Suave Sandia/Menta X 250Ml
 7891010257538,Enjuague Bucal Listerine Frescura Suave Sandia/Menta X 500Ml
 7891010501105,Hilo Dental Reach Menta X Unidad
@@ -12948,6 +13019,7 @@
 7891151039734,Freegells Pastillas Sabor Cereza Mentol X 27.9G
 7891151039758,Freegells Pastillas Eucalipto Mentol X 27.9G
 7891151039772,Freegells Pastillas Extra Fuerte Sabor Mentol X 27.9G
+7891151039796,Pastilla Freegells Sabor Menta Mentol X 27.9G
 7891151039895,Pastilla Freegells Vitamina C Propóleo Miel Y Limon X 27.9G
 7891151040709,Caramelo Freegells Miel Mentol X 27.9G
 7891151041003,Go Jelly Gomitas Maticables Moras X 70G
@@ -13207,13 +13279,19 @@
 7896116862709,Anticonceptivo Minigynon 30 Etinilestradiol / Levonorgestrel X 21 Grageas
 7896359007998,Sanremo Juego 4 Vasos Plastico
 7896359035458,Juego De Taza Sanremo Térmica 700 Ml + Soporte Filtro Café Tamaño 102 Rosa
+7896404600099,Suavizante Girando Sol Floral Paris X 2L
+7896404600181,Suavizante Girando Sol Rosas Y Lavanda X 2L
 7896404600570,Girando Sol Lavavajillas X 500Ml Limon
 7896404602109,Jabon Liquido Girando Sol Accion Total X 1L
 7896404602130,Jabon Liquido Girando Sol Coco Y Vainilla X 1L
 7896404603632,Girando Sol Lavandina Perfumada X 1Lt Limon
+7896404607401,Detergente Girando Sol Floral Paris Polvo X 2.4Kg
+7896404607418,Detergente Girando Sol Rosa Floral Polvo X 2.4Kg
+7896404607586,Detergente Girando Sol Hipoalergenico Polvo X 2.4Kg
 7896404607678,Detergente En Polvo Girando Sol Floral Paris X 800G
 7896404607685,Detergente En Polvo Girando Sol Hipoalergenico X 800G
 7896404607692,Detergente En Polvo Girando Sol Rosa Floral X 800G
+7896404608194,Detergente Girando Sol Coco Vainilla Polvo X 800G
 7896423401066,Mym X 35Gr Crispy
 7896423405743,Mym X 148Gr Chocolate C/Leche
 7896423406054,Mym X 148Gr Amendoim/Mani
@@ -13511,6 +13589,8 @@
 7899706192019,Gel De Limpieza Garnier Skin Active Vitamina C X 150G
 7899706194273,Garnier Hidratante Serum Gel Vitamina C X 50Ml
 7899861823704,Desodorante Intimo Tec Racco Spray X 50Ml
+7899861843207,Jabón Intimo Masculino Racco X 180Ml
+7899861853503,Desodorante Intimo Spray Morango X 120Ml
 7900161000471,Contenedor Organizador Coza X 230Ml
 7900161000525,Contenedor Organizador Coza X 580Ml
 7900161000570,Contenedor Organizador Coza X 1.2L
@@ -13849,6 +13929,7 @@
 830276,Enzalutamida 40Mg X 28 Capsulas
 830277,Enzalutamida 40Mg X 56 Capsulas
 830278,Abiraterona 250Mg Fco X 10 Comp <Onc>
+830282,Imabil 400Mg Imatinib Onc X Comprimido
 8309800,Aromatizante Sapolio Lavanda X 360Ml
 8309801,Aromatizante Sapolio Potpourri X 360Ml
 8309804,Aromatizante Sapolio Arrullos De Bebé X 360Ml
@@ -14229,6 +14310,7 @@
 8429979458223,Sesderma Mesoses Crema Antienvejecimiento Supremo X 50Ml
 8429979458261,Sesderma Mesoes Serum Antienvejecimiento Supremo X 30Ml
 8429979462169,Serum Liposomal Sesderma C-Vit5 X 30Ml
+8429979475121,Sesderma Salises Crema Espumosa X 250 Ml Sin Jabon
 8429979477378,Sesderma Pack Acglicolic Lipos Serum + Hidraderm Hya Crema
 8429979478252,Crema / Gel Sesderma Sesbalance Matificante X 50Ml
 8429979478269,Serum Sesderma Sesbalance Matificante X 30Ml
@@ -14936,6 +15018,7 @@
 8906148530817,Bucosin-Dol Mp Naranja Benzocaína / Mentol X Pastilla
 8906148530862,Antigripal Mp X Capsula
 8906176183009,Lipotrol E Ácido Bempedoico/Ezetimibe X Comprimido
+8906193890966,Merovish Meropenem 500Mg Iv X Ampolla
 8907661016482,Trivento Inhalador Oral X 120 Dosis
 8907695031093,Aminoacidos 10% Con Electrolitos Iv Sol Iny X500ml
 8907695047131,Tna Peri Nutricion Parenteral Iv Emulsion X 1500Ml
@@ -15094,9 +15177,14 @@
 9570002,Lavavajilla Sapolio Limon X 1000G
 96026,Desodorante Nivea Spray Dry Impact X 150 Ml
 96257,Vaso De Aprendizaje Nuk Mickey 6-18M Gris
+96258,Vaso De Aprendizaje Nuk Minnie 6-18M Rojo
 96259,Vaso De Aprendizaje Nuk Winnie The Pooh 6-18M Blanco
+96260,Vaso De Aprendizaje Nuk Winnie The Pooh 6-18M Rosa
+96261,Toma Todo Nuk Sport Cup Minnie X 450Ml
+96262,Toma Todo Nuk Sport Cup Mickey X 450Ml
 96263,Vaso Active Cup Nuk Winnie The Pooh 12+ Blanco X 300Ml
 96264,Vaso Active Cup Nuk Winnie The Pooh 12+ Celeste X 300Ml
+96266,Mamadera Nuk First Choice Winnie The Pooh Cel X 150Ml
 96268,Mamadera Nuk First Choice Winnie The Pooh Gris X 300Ml
 96269,Mamadera Nuk First Choice Winnie The Pooh Celeste X 300Ml
 96270,Mamadera Nuk First Choice Winnie The Pooh Rosa X 300Ml
