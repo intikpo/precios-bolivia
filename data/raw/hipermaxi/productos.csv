@@ -2442,6 +2442,7 @@
 150709,Tartaletas Charlotte Pequeñas 30 un
 15072,Sazonador McFood Pescado 85 gr
 15075,Te Frutte Manzana 20 Sobres
+150753,Mortadela Monserrat Olemburgo kg
 150759,Mortadela Jamonada Pollo Monserrat kg
 150765,Galleta Davied de Coco 8 un
 150768,Mortadela Jamonada Monserrat kg
@@ -2489,6 +2490,7 @@
 151273,Pan de Hamburguesa Best Choice 10 un
 151296,Cebolla en Cubos 1 kg
 151302,Filete Trucha Mariposa Titikaka 500 gr
+151321,SALAMI STICK AL VACIO SANTA FE  UNID.
 151325,Salame Sofia al Vacio
 151384,Yogurt Light San Javier Frutilla 850 ml
 151388,Mortadela de Pollo Boston kg
@@ -2666,7 +2668,6 @@
 158747,Chorizo Parrillero Picante Hipermaxi 1 kg
 15878,Vino Kohlberg Ugni Blanco Stelar 750 ml
 158811,Chorizo ParrilleroAhumado Gutfleisch kg
-158816,Salchicha Viena Jamonada Gutfleisch
 158828,Gomita Mogul Cerebrito 30 gr
 158829,Gomita Mogul Ositos 30 gr
 158830,Gomita Mogul Tiburoncitos 30 gr
@@ -6643,8 +6644,8 @@
 30362,Alimento Friskies Selección Especial Adulto 3 kg
 30363,Alimento Friskies Selección Especial Adulto 1 kg
 303654,Shampoo Liz Sin Sal Bebe 900 ml
-303704,Yogurt Pil Frutado Frutilla 140 gr
 303710,Caramelo Casal Artic Menta Fria 375 gr
+303712,Yogurt Pil Frutado Durazno 140 gr
 303836,Ketchup Cepera Zero 370 gr
 303844,Salsa Soya Cepera 150 ml
 303879,Pack Mortadelas Hipermaxi 1 Und.
@@ -6668,7 +6669,6 @@
 304177,Te Helado Arizona Fruit Punch 680 ml
 304189,Yerba Mate Pajarito Durazno 20 Sobres
 304220,Chorizo de Res Picante Sofia a Granel kg
-304255,Huevos Jars de Codorniz Cocido
 304352,Harina Princesa de Trigo 1 kg
 304504,Cafe Iguazu Sachet 40 g
 304511,Huevo Cofler Block Mani 26 g
@@ -7729,7 +7729,6 @@
 333827,Jabon Liquido Jamsa Bubble Kids 360 ml
 333912,Papel Toalla Nacional de Mano 150 un
 333940,Suavizante Ropa Cavallaro Delicado Doypack 900 ml
-333953,Labial Maybelline Matt Red For Me 382
 333956,Atun Van Camps Al Agua 320 gr
 333963,Labial Maybelline Matte In City 118
 333996,Insecticida Tyson Max Mata Todo 500 cm
@@ -9202,7 +9201,6 @@
 405024,Ambientador Fruits Flowers Colonia Recarga 1000 ml
 405025,Ambientador Fruits Flowers Jardin Floral 600 ml
 405026,Ambientador Fruits Flowers Lavanda 600 ml
-405028,Ambientador Fruits Flowers Strawberry 600 ml
 405029,Ambientador Fruits Flowers Manzana 600 ml
 405030,Ambientador Fruits Flowers Vainilla 600 ml
 405031,Ambientador Fruits Flowers Colonia 600 ml
@@ -9249,7 +9247,6 @@
 408412,Mix Chorrellana Quinta Manantial 1 un
 408717,Espumeante Los Haroldos Ext Brut 750 ml
 408770,Lechuga Hidro Huerta Lista 225 gr
-409741,Hielo Oriental Cubos 3 kg
 410130,Servilletas Mili 50 un
 410131,Servilletas Mili 100 un
 410132,Servilletas Mili Bistro Coctel 50 un
@@ -9345,7 +9342,6 @@
 418730,Sandwich Integral Hipermaxi Jamon queso
 418749,Helado Cabrera Choco Cono Coco
 418757,Helado Cabrera Sundae
-419176,Yogutina Ligth San Javier
 41977,Four Loko Gold 695 ml
 420395,Queso Suiza Sandwichero Laminado 220 gr
 420441,Charque Desmenuzado A&M Grande 330 gr
@@ -9760,7 +9756,6 @@
 457345,Cepillo Dental Foramen Infantil 4 año + Reloj Surtido
 457606,Jabon Marco y Sauco Dr. Peña
 457607,Jabon Ruda y Romero Dr. Peña
-457701,Yogurt Mi Primer Danoninho Morango
 457716,Leche Nan 3 Supreme  800 Gr
 457762,Aceite Capilar Corporal Farmax Cenoura Zanahoria 100 ml
 457834,Jabon Barra Harmony Fruity Naranja 150 gr
@@ -10088,7 +10083,6 @@
 474363,Chocolate M&M Minis 30.6 gr
 47457,Whisky Grants S Tubo con Vaso 1 L
 474690,Librillo kg
-475068,Postre Danette Danone Surtido 110 gr
 475122,Cebollita Verde 1 kg
 475149,Agua Naturagua Sin Gas 2 L
 475521,Mejillones Robinson Crusoe al Natural 190 gr
@@ -12443,7 +12437,6 @@
 553688,NECTAR PIL MANZANA LIGHT PET 2LT
 553689,VINO ESPUMANTE BURBUSHH TTO BOT 355ML
 553690,Vino Burbushh Frutos del Bosque 620 ml
-553691,RON ABUELO ANEJO BLANCO BOT 1LT
 553692,RON ABUELO ANEJO BLANCO 750ML.
 553694,GRANOLA CROCANTE ANA 250 GR
 553695,AMIFRUT CON CANAHUA ANA 250 GR
@@ -16512,6 +16505,7 @@
 671445,Pan Molde Maxi Pan Miga Integral
 671446,Medio Molde Miga Maxi Pan 180 gr
 671447,Medio Molde Miga Integral Maxi Pan 180 gr
+671449,"CUBITOS DE YUCA PRE/COCIDOS DON CARLOS KILOGRAMO,"
 671450,Hamburguesa Sofia Res Clasica 83 gr
 671451,Hamburguesa Sofia Pollo Clasica 83 gr
 671452,Hamburguesa Sofia Pollo Express 56 gr
@@ -16972,7 +16966,6 @@
 673329,Leche de Arroz Riso Scotti Original 1 L
 673330,Leche de Arroz Riso Scotti Calcio 1 L
 673331,Leche de Arroz Riso Scotti Cocoa Chocolate 1 L
-673332,Leche de Arroz Riso Scotti Coco 1 L
 673334,Leche de Almendra Riso Scotti sin Azucar 1 L
 673335,Leche de Avena Riso Scotti Original 1 L
 673336,Leche de Avena Riso Scotti Sin Gluten 1 L
@@ -16992,6 +16985,7 @@
 673374,Paleta de Cookies Cream Bits Cream 115 gr
 673378,YOGURT BEBIBLE CHIQUIDRINK DELIZIA 100 M
 673381,Helado Delizia Mini Tentacion Frambuesa 50 ml
+673382,Queque Jasmine Naranja Chia Sin Gluten 300 gr
 673384,Pan de Batata Dulce Jasmine 350 gr
 673385,Hamburguesa Sofia Res Express Tubo 20 un
 673387,Queso Edam Florandino Flor de Leche Light 500 gr
@@ -17458,7 +17452,6 @@
 674685,SUPER BITES CHOCOMANI VALERIE AND ME 30GRS
 674686,SUPER BITES COCO VALERIE AND ME 30GRS
 674687,GALLETA CRACKER D AVENA VALERIE 150G
-674688,FAJITA DE CERDO SOFIA CONGELADA AL VACIO KGR
 674689,COSTILLS BABY BACK SOFIA CONGELADA A/V KGR
 674690,POSTRE HELADO SANGRIA DELIZIA 200ML
 674694,PIERNA DE CERDO SOFIA DESHUESADA C/CUERO 1KGR
@@ -18301,6 +18294,7 @@
 761225,YOGURT BEB.PROB.SABOR COCO BONTANA 1 LT.
 761226,YOGURT PROGRIEGO DESLACT.FRAMBUESA H.P.250 GRS.
 761236,YOGURT BEB.PROB.SABOR FRUTILLA BONTANA 1 LT.
+761245,YOGURT PROGRIEGO DESLACT.FRUTOS ROJOS H.P.250 GRS.
 761246,YOGURT BEB.PROB.SABOR DURAZNO BONTANA 1 LT.
 761252,PULPA CONG.FRUTAS Y VEGETALES DETOX X5 UNID.CELEBRE
 761257,YOGURT BEB.PROB.SAB.NATURAL BONTANA 1 LT.
@@ -18353,6 +18347,7 @@
 761467,Queque Vainilla Dulcy Gourmet 500 gr
 761469,PACK YOGURELLO FRUTILLA X12 CON ESTUCHERA
 761475,PACK YOGURELLO X12 CON ESTUCHERA
+761486,Huevos Aranjuez Economico Subsidio 18 un
 761534,TOCINO AHUMADO OSFIM AL PESO KG.
 761547,CAMOTE PRECOCIDO CONG.POLAR CORTE BASTON 1 KG.
 761548,CERDO AGRIDULCE CONGELADO SOFIA 500 GRS.
@@ -18383,7 +18378,6 @@
 762583,Hamburguesa Fridosa Pollo 12 un
 762584,CHORIZO BUTIFARRA PREMIUM SOFIA UND.(533378)
 762596,SALCHICHA DE PAVO PREMIUM SOFIA UND.(535140)
-762632,MERENGUE PARA 10 PERSONAS DULCY 21 CM.
 762636,Chorizo Churrasquero Sofia a Granel kg
 762714,RICOTA MALLON 500 GRS.
 762746,Yogurt San Javier Light Maracuya 850 ml
@@ -18550,7 +18544,6 @@
 780043,Champagne Norton Cosecha Rose Extra Brut 750 ml
 780132,Tocino Ahumado Stege al Vacio kg
 780133,Galleta Eterovic de Limon 12 un
-780172,CHORIZO DELGADO STEGE 1 KG.(167406)
 780322,Chorizo Parrillero Monserrat kg
 780324,Pre Pizza Victoria Mediana 2 un
 780347,Empanada Integral Victoria 6 un
@@ -18592,9 +18585,7 @@
 781513,Tapa de Salteñas Multipasta 12 un
 781517,Gyozas Dumplings Congelados 20 un
 781529,Rollo Primavera Rolloso Congelado 10 un
-781534,Costilla de Tambaqui kg
 781544,Helado Cabrera Choco Cono Menta Caja 8 un
-781587,Pan Molde Belen Americano 275 gr
 781601,Bebida Apego Espresso Black 300 ml
 781611,Cuñape Rosca Unicos 150 gr
 781622,Cuñape Bolita Unicos 150 gr
@@ -18723,7 +18714,6 @@
 783359,Queso Crema Bonle Pil Andina 200 gr
 783361,ESCABECHE DE LOCOTO HIPERMAXI KG.
 783374,Escabeche de Cerdo Hipermaxi kg
-783424,Pizza precocida Cogelada Pipa Peperoni
 783426,Yogurt Bebible Delizia Frutilla 1 Lt
 783457,Yogurt Protein Delizia Shake Vainilla 200 gr
 783463,Queso Sandwichero Feteado Guaruja 200 gr
@@ -18748,10 +18738,8 @@
 783747,Bisnaguinha Victoria 7 un
 783749,Yogurt Griego Iogo con Cereal Farfait 250 gr
 783758,Bisnaguinha Victoria 15 un
-783814,Alas de Pato San Jose Congelado kg
 783858,Tortillas Don Taco Chica Integral 270 gr
 783876,Queso La Holandesa Tipo Mozzarella kg
-783891,Yogurt Alimentarte Mermelada Quinua
 783927,Papa McCain Tradicional 400 gr
 783947,Pizza precocida Cogelada Pipa Jamon Choclo
 784001,Bizcocho de Maiz San Javier Tradicional 200 gr
@@ -18781,7 +18769,6 @@
 784385,Helado Arcor Bon o Bon 250 gr
 784386,Yogurt Lesama Bebible Coco 2 L
 784434,Mini Salchicha de Res Sofia 20 un
-784478,Pan Frances Precocido Victoria 14 un
 784487,Yogurt Lesama Bebible Durazno 2 L
 784516,Yogurt Bonle Frutilla 1.9 L
 784518,Mortadela Primavera Mixta Hipermaxi kg
@@ -18971,6 +18958,7 @@
 786896,Queso Sandwichero Guapurutu Laminado 150 gr
 786897,Chorizo Precocido Picante Fridosa kg
 786930,BUDIN CON FRUTAS VICTORIA 250 GRS.
+786935,Pan de Panchito American Bread XL 8 un
 786936,Cordon Bleu Sofia Caja 600 gr
 786938,Jamon Ahumado Hipermaxi 1 kg
 786943,Budin Victoria Chispas de Chocolate 275 gr
@@ -19015,7 +19003,6 @@
 787552,Hamburguesa Degab Frejol Yuca 540 gr
 787576,Mortadela Jamonada Tipo Alemana Fridosa kg
 787593,Hamburguesa Degab Arveja Platano 540 gr
-787615,Pan Brioche Semillas Ajonjoli American King
 787622,Huevo Colorado Maple 12 un
 787634,Queso Fundido Guaruja para Untar 250 gr
 787641,Queque Chifon 200 gr
@@ -19052,8 +19039,8 @@
 789121,Empanada Integral Paris 4 un
 789129,Queso Criollo Guapurutu 480 gr
 789132,Palitos Integrales de Sesamo Paris 16 un
+789146,Palitos Integrales con Queso Paris 16 un
 789227,Pate de Higado Fridosa 100 gr
-789235,Yogurt Danoninho Bebible Morango 100 gr
 789259,Jamon York Sofia kg
 789276,Queso Azul San Rosa Libre de Gluten kg
 789321,Ravioles Olive de Carne Congelada 500 gr
@@ -19112,7 +19099,6 @@
 789745,Queso Fundido Lesama Cheddar 210 gr
 789754,Queso Sandwichero Guapurutu Laminado 500 gr
 789755,Arandanos Congelados Minuto Verde 400 gr
-789757,Pulpa Congelada Pulpa Frut Exotica Surtido 1 kg
 789759,Clara de Huevo Ovoplus Pasteurizada 1 L
 789795,Queso Provolone Guapurutu Laminado 240 gr
 789796,Frutilla Congelada Minuto Verde 500 gr
@@ -19415,7 +19401,6 @@
 816840,Jugo V8 Vegetal Rojo 340 ml
 816880,CHOCOLATE YOOHOO DRINK LATA 325 ML.
 816904,Gaseosa Sprite Cafeine Free USA 12 oz
-816998,HK 011D HERVIDOR DE AGUA 1700ML
 817254,PAN 9421 PISCINA INFLABLE
 8176,Te Windsor Mate Anis 100 Sobres
 817878,Yogurt La Campiña Fruta Tropical 750 ml
@@ -19502,6 +19487,7 @@
 823665,Boligrafo Faber Castell Negro 0.62
 823670,Boligrafo Faber Castell Azul 0.62
 82368,Jamon Cocido Santa Fe kg
+82376,Salame Especial Santa Fe Chico
 824044,JUGO V8 SPLASH TROPICAL BLEND 64 OZ
 82414,Ketchup Kris Pomo 200 gr
 82422,Levadura Seca Fleischmann 170 gr
@@ -19574,6 +19560,7 @@
 830519,Salsa Herdez Verde Picante 210 gr
 830524,Salsa Herdez Casera Picante 210 gr
 830564,Salsa Herdez Casera 453 gr
+830689,Jamon de Pollo Monserrat kg
 830702,Aceituna Del Bono Rellena Pimiento 220 gr
 831030,Engrampadora Kangaro
 831140,Cucharilla Desechables Olego 50 un
@@ -20048,6 +20035,7 @@
 852840,CH 9 6 JUGUETE PARA MASCOTA CUERDA TRENZADA 20CM
 852913,Juguete Camion Volqueta Control Remoto
 852924,Juguete Bloques para Armar 65 pz
+852925,Juguete Bloques para Armar 20 pz
 853007,Caramelo Menthoplus Cherry 30.6 gr
 853017,Muñeca Barbie Basica
 853032,Caramelo Menthoplus Strong 30.6 gr
