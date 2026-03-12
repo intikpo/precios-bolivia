@@ -78,6 +78,7 @@
 104608,Gripen Jarabe X 120Ml Paracetamol Pseudoefedrina
 104609,Remdesivir Quimfa 100Mg X Ampolla+Solvente
 104610,Remdesivir Quimfa 100Mg X Ampolla
+104611,Bem Ambroxol 30Mg/5Ml Jarabe X 100Ml
 10472,Metrogyn Metronidazol 500Mg X Ovulo
 10473,Koptin Azitromicina 500Mg X Tableta
 10474,Koptin 200Mg 5Ml Susp X 22.5Ml Azitromicina
@@ -189,6 +190,9 @@
 109242,Duloxtin 60 Duloxetina 60Mg X Capsula
 109243,Glinux N Recombinante Insulina Humana 100Ui X Ampolla
 109244,Ganeum Pregabalina 75Mg X Capsula
+109250,Trineural B Vit B1 B6 B12 Im X Ampolla
+109251,Virigran Retard Tadalafilo Dapoxetina X Comprimido
+109252,Piralgesic Relax X Comprimido
 11001,Glucosa 5% Env X 500Ml Generico
 110015,Gadocal D3 Citrato De Calcio 1500Mg Calcio 315Mg Y Vitamina D3 200Ui X Tableta
 110017,Gadocal D3 Citrato De Calcio 1500Mg Calcio 315Mg Y Vitamina D3 400Ui X Tableta
@@ -505,6 +509,8 @@
 129896,Trigrip Dia Y Noche Antigripal X Unidad
 129897,Sedativol Ultra X 30 Comprimidos
 129898,Certofix Paed Trio S 513
+129899,Jarabe Trigrip Niños X 150Ml
+129900,Amoxicris Duo Im-Iv X Ampolla
 130504,Karvol Plus X Capsula Inhalante
 130505,Triz 5Mg 5Ml Jbe X30ml Cetirizina
 130707387007363,Transpore 3 Pulgadas
@@ -512,6 +518,8 @@
 1307508,Ketchup De Tomate Heinz Tomato Ketchup 16 14Oz X 397G
 1307605,Ketchup Heinz Tomato 12 20Z X 567G
 1321207,Mostaza Heinz Yellow Mustard 14Oz X 396G
+1323LA11,Optiray Loversol 320Mg/Ml Iv X 100Ml
+1323LA87,Optiray 320Mg Ml Iv X 125Ml Jer Prell Ioversol
 1333LA87,Optiray 350Mg Iv X 125Ml Jer Prell Ioversol
 1333LA90,Optiray 350Mg Iv X 100Ml Jer Prell Ioversol
 135445,Tela Adhesiva 1.2Cm X 4.5Mtcremer
@@ -688,6 +696,7 @@
 188542,Proferox 200 Mg Ketoprofeno X Comprimido
 188543,Luranil Norfloxacina/Fenazopiridina X Capsula
 18902399246467,Brufafen X Cápsula
+18904115701212,Impaltos Mucolitico N-Acetilciste 600Mg X Sobre
 18904115701823,Aftrel Levonorgestrel 1.5Mg X 1 Comprimido
 18904306500754,Tadaviril Tadalafilo 20Mg X Tableta
 18904306500792,Laxsan Picosulfato De Sodio 5Mg X Capsula
@@ -1055,6 +1064,7 @@
 228430,Avastin Bevacizumab 400Mg Y 16Ml X Ampolla
 228431,Actemra Tocilizumab 80Mg Y 4Ml X Ampolla
 228432,Actemra Tocilizumab 162Mg Y 0.9Ml X Ampolla
+228433,Actemra Tocilizumab 200Mg Iv Frio X Ampolla
 2284509,Fini Marshmallow X 250Gr Torcido Canaston
 2289106,Chicles Wrigleys Extra Peppermint X 15 Sticks
 2289805,Canaston Confipetrol 3
@@ -1237,6 +1247,8 @@
 258702,Bagociletas Plus Miel Limon X Sobre
 258703,Bagociletas Plus Frambuesa X Sobre
 258704,Bagociletas Frambuesa Benzocaina 6Mg X 4 Pastillas
+258706,Panzyga Inmunoglobulina 5Gr Iv Frio X 50Ml
+258707,Frasco Vidrio Ambar X 150Ml-Fluothane
 260001,Crema 4 Derm X 20G
 260080,Bromex Adulto Bromhexina Clorhidrato 4Mg Y 5Ml X Ampolla
 260081,Broncoxol Adulto Ambroxol 30Mg / 5Ml Jarabe X 100Ml
@@ -1390,6 +1402,7 @@
 299529,Vaxigrip Tetra X Jeringa Prellenada
 299530,Hirudoid Forte Mucopolisacarido 0.00445 Gel X 14G
 299532,Bozob Bortezomib 3.5Mg X Ampolla
+299533,Vaxigrip Tetra Im-Sc Influenza Frio+Amplicación
 2c9fc568-75e5-4835-b461-80cef9a96d57,Combo Gatorade Mora Azul 400ml + Sobre Ressaka Sabor Guarana
 300077,Adecuan 10Mg Metoclopramida X Tableta
 300086,Adecuan 10Mg Metoclopramida Y 2Ml X Ampolla
@@ -1481,6 +1494,7 @@
 305368,Dermatotal Crema X 20G
 305371,Sigmaprednol 0.5% Colirio X 5Ml Loteprednol
 305372,Vorizol Vist 1% Colirio X 10Ml Voriconazol
+305384,Sigmavir Favipiravir 200Mg X Comprimido
 305385,Sigma Complex B1 B6 B12 Im X 100 Amp 2Ml
 30544,Fluidimed 300Mg Acetil Cisteina X Ampolla
 30547,Fluidimed Adulto 200Mg Acetilcisteina X Sobre
@@ -1629,6 +1643,7 @@
 329464,Cavilon Spray X 28Ml Pelicula Protectora
 329466,Mascarilla Kn95 Ffp2 5 Capas  Blunding X Unidad
 329467,Durapore 2 Pulgadas
+329468,Difem 28 Levonorgestrel Etinilestrad X Tableta
 329471,Alca Bol Granulado X Sobre
 330026,Elixine 80Mg 15Ml Jbe.X250ml Teofilina
 330027,Antiax Anti Ácido Magaldrato Simeticona X 180Ml
@@ -1879,6 +1894,8 @@
 3510679,Remivir 100 Remdesivir 100Mg X Ampolla
 3510680,Ninavir Remdesivir 100Mg X Ampolla
 3510682,Pedea 5Mg Cada Ml Iv Ibuprofeno X 4 Ampollas De 2Ml
+3510684,Temziva  Tocilizumab 400Mg Iv Frio X Ampolla
+3510685,Lowvir Molnupiravir 400Mg X Cápsula
 3510686,Taffix Spray Nasal
 3510688,Recurem 0.5 Mg Fingolimod X Cápsula
 3510689,Hamsyl 3750Ui Im-Iv X1 Amp 5Ml Pegaspargasa (Frio)
@@ -1982,6 +1999,7 @@
 3590549,Chiquitos Vive Juego Individuales Casa Tierra X Juego
 3590550,Perchero Máscara Del Abuelo Surtido Chiquitos Vive
 3590551,Porta Celular Cable A Tierra Chiquitos Vive
+3590552,Favizen Favipiravir 200Mg X Tableta
 3590553,Hidrisage Pliance Base Compact Claro X 4G
 3590557,Fentanilo 0.05Mg Y 2Ml X Ampolla
 3590558,Fentanilo Fm 0.05Mg/Ml Iv-Im X 1 Ampolla /10Ml
@@ -2017,6 +2035,7 @@
 3590602,Hemopaz 500Mg 5Ml Iv Acido Tranexamico X Ampolla
 3590607,Tropium 18Mcg X 30 Capsulas +Dispositivo Para Inhalación Oral
 3590621,Ferrox 500Mg Hierro Carboximal Iv X 10Ml / Ampolla
+3590623,Humog Menotropina 75Ui Im Frio X Ampolla
 3590641,Avena Instantánea Princesa X 300Gr Canaston
 3590657,Asmalix 400 Dispositivo Para Inhalacion Oral X Capsula
 3590668,Scartubex Gel X 20G
@@ -2038,6 +2057,7 @@
 3590679,Encardio 100 Sacubitrilo Valsartan X Comprimido
 3590680,Encardio 50 Sacubitrilo Valsartan X 30 Comprimidos
 3590682,Facinit 5Mg Tofacitinib X Comprimido
+3590683,Gamma  Inmunoglobulina G Iv-5Gr Frio X 100Ml
 3590684,Ursa 250Mg Acido Ursodesoxicolico X Capsula
 35906845,Valvula De Repuesto Pigeon Para Extractor X 2 Unidades
 35906848,Corrector En Cinta Retractil 5Mm Acricolor X 6M
@@ -2045,6 +2065,7 @@
 3590685,Bilergen 20Mg Bilastina X Comprimido
 3590686,Lipotrol 180Mg Acido Bempedoico X Comprimido
 3590687,Glaripen 100Ui Cartucho Insulina Glargina Frio X 3Ml
+3590719,Crema Tri-Gal X 20G
 3590720,Inyectable Tronium 40 mg IV x 1 fco/ampolla + diluyente Esomeprazol
 35907278,Masterpro Paninera Grill D/Contacto
 35907279,Masterpro Racletera Y Parrilla Elect. P/8 Pers.
@@ -2150,6 +2171,7 @@
 3590751,Microtax Paclitaxel 100Mg Iv X Ampolla
 3590752,Seltrem Remifentanilo 5 Mg Iv Estupefaciente X Ampolla
 3590753,Daptopro Daptomicina 500Mg Iv X Ampolla
+3590754,Labeblock Labetalol 20Mg/4Ml Iv X Ampolla
 3590755,Empaglyp 10 Empagliflozina 10Mg X Comprimido
 3590756,Empaglyp  Empagliflozina 25Mg X Comprimido
 3590757,Novopencil Forte 12.6.6 X 1 Frasco/Ampolla + Kit Aplicacion
@@ -2191,6 +2213,8 @@
 35995307827,Matchbox Autitos Modelos Surtidos X Unidad
 3599941,Pack Carnavalero 2026
 3599943,Xamub Etoricoxib 120Mg X Comprimido
+3599944,Antigripal Lc-Grip X Cápsula
+3599945,Elopag Eltrombopag 50Mg X Comprimido
 3599947,Gastrozac 40Mg Pantoprazol X Ampolla
 3599948,Dacne 7.5% Dapsona Gel X 30Gr
 3599949,Baciflora 4B Probiotico X Ampolla Bebible
@@ -2338,6 +2362,7 @@
 375381,Menthoalcanforada Ungüento X 30G
 375382,Gel De Higiene Ifarbolol Intima X 330Ml
 375383,Hedralix Fuerte Hedera Helix 70Mg Solución X 100Ml
+375385,Pediaglos Pomada Antiescaldante Lata X 15G
 375388,Pomada Dermasecol X 50G
 375389,Bucalvex Fresh 5Mg Menta Clorhexidina X Comprimido
 375390,Gripobron Unguento X 12G
@@ -2445,6 +2470,7 @@
 38829,Alfa B1 300Mg Vitamina B1 Y 2Ml X Ampolla
 38830,Presto Sildenafil Citrato 50Mg X Tableta
 38842,Cetamin Vitamina C 500Mg Y 1Ml X Ampolla
+38844,Bio Sep Solucion Desinfectante Benzalconio X 900Ml
 38845,Propoval Spray Miel / Propóleo X 35Ml
 390046,Botiquin Metalico Grande
 390145,Botiquin Metalico Pequeno
@@ -2665,6 +2691,7 @@
 4046964164897,Equipo Intrafix Compact Air
 4046964165030,Equipo Intrafix Compact Air Fs
 4046964272417,Dosifix 150 Vf Fil Spinlock Sistema De Infusion
+4046964272455,Dosifix Air 150 Fs Sistema De Infusión
 4046964668869,Askina Calgitrol Pasta X 15G
 40469648129654,Diacan Ag. Fistula Pro 17G A 1.5X20x300
 40469648130094,Diacan Ag. Fistula Pro 17G V 1.5X20x300
@@ -2981,6 +3008,7 @@
 4059729491688,Esmalte Gel Essence Nail Colour 72 Left Me On Red
 4059729491756,Esmalte Essence Extreme Last Top Coat Perfect Stay
 4059729513731,Catrice Kiss Y Glow Balsamo Labial Shimmer C01
+4059729514554,Polvo Iluminador Catrice Under Eye 010
 4059729514769,Máscara De Pestañas Catrice Allround Waterproof Brown Nro. 020
 4059729514790,Delineador De Ojos Catrice Kohl Kajal Waterproof Nro. 190
 4059729515117,Catrice Serum Lazy Day All In One X 28Ml
@@ -3127,6 +3155,7 @@
 41457022689,Goody Simple Stules Spin Pin Nro. 02268 X 2 Piezas
 41457034828,Goody Simple Spin Pin Mini Nro. 03482 X 3 Piezas
 41457040164,Goody Glam Girls Salon Clips Nro. 04016 X 6 Piezas
+41457041222,Goody Simple Fountain Flip Nro. 04122 X 1 Pieza
 41457069608,Goody Womens Ouchless Ribbon Scandal 3Ct1888
 41457069677,Goody Womens Ouchless Ribbon Camo 3Ct1889890
 41457084106,Goody Ouchless Girls Oval Hd  08410
@@ -3352,6 +3381,7 @@
 430500,Vaselina Liquida X 1 L-900Ml
 430505,Vaselina Solida X 950 1Kg
 431166180053,Letiat4 Leche Corporal X 250Ml
+43194102532,Set De Pirañas Scunci Irrompible X 2 Unidades
 43194103102,Pinzas Para Pelo X 2 Piezas
 43194105663,Vincha Para Pelo Scunci X 2 Piezas
 43194146994,Scunci Flat Banana Combs Agarra Pelo X 3 Piezas
@@ -3419,6 +3449,7 @@
 437702,Vaselina Solida X 400 450G
 437721,Alcohol 70 Frasco X 120 125Ml
 437722,Germisan 430 Acido Peracetico X 5 Litros
+437724,Almoval Pomada Vaselina Solida X 20G
 437725,Pote Mentho Alcanforada X 20G
 437726,Pomada Salicilada X 20G
 4380912,Pasta Don Vittorio Fideo Codo Rayado X 400G
@@ -3815,6 +3846,9 @@
 5913124043001,Hidrata Abd 75 Reducida Suero De Rehidratacion X 250Ml
 5913124081001,Suero Fisiológico 0.9% Iv Abd Envase X 100Ml
 5913124083001,Solución Fisiológica 0.9% Iv Envase Abd X 250Ml
+5913124236011,Ferro Abd Hierro Sacarosa 100Mg Iv X Ampolla
+5913124818002,Midazolam Abd 15Mg Im-Iv Psico X Ampolla
+5913124819002,Fentanilo Abd Sin Conservante 0.05Mg/Ml Im-Iv X Ampolla
 5913124999009,Digestivo Abd Sabor Limón X Sobre
 5997001333112,Lenzetto 1.53Mg Dosis Frasco X 8.1Ml
 5997001360484,Posterga Levonorgestrel 1.5Mg X 1 Comprimido
@@ -3849,7 +3883,10 @@
 608147,Protector Solar Sundown Fps 50 X 120Ml
 608875003609,Colado De Mango Heinz Creciditos X 113 G
 608908,Hilo Dental Reach Menta X Unidad
+610075032624,Placa Plana Recortable C Aro 57Mm Rojo (14603Q)
 610075032648,Placa Plana Recortable C Aro 70Mm Azul (14604Q)
+610075034864,Bolsa Colostomia Con Aro 44Mm Abierta Verde
+610075035007,Bolsa Colostomia C Aro 70Mm Abierta Azul (18184Q)
 610075051731,Placa Convexa Recortable Con Aro 44Mm Verde (13802)
 61007505174,Placa Convexa Recortable Con Aro 38Mm Rojo (13803)
 610075051755,Placa Convexa Recortable Con Aro 70Mm Azul (13804)
@@ -4210,6 +4247,8 @@
 6943478029231,Hape Sellos Animados X 4 Piezas
 6943478035539,Hape Rompecabezas Forest 1.5 Metros X 200 Piezas
 6943478036338,Hape Caterpillar Fruit Feast Set De Juego X 15 Piezas
+6944932766099,Mascarilla P/Oxigeno Adult Alargado <Hp>
+6944932766136,Mascarilla Para Oxigeno Pediatrico Alargado
 6949625700145,Calentador De Mamadera Multifuncional Deimel Baby
 6950126107258,Corrector Pen Acrilex Punta Y Brocha 2 En 1
 6954884533342,Regla Keyroad Plástica Flexible X 30Cm
@@ -4231,6 +4270,7 @@
 6972699760142,Toallitas Húmedas Secos 4 En 1 Para Adulto X 64 Unidades
 6972699760289,Pack Toallitas Secos X 30 Unidades + Lady Free Nocturna X 10 Unidades
 6972699760296,Toallitas Húmedas Secos 4 En 1 Para Adulto X 30 Unidades
+6972831641759,Sibionics Gs1 Sistema Medición Continua De Glucosa
 6973497520006,Anillo Vibrador Sumergible
 6975525900026,Polvo Compacto Ayvanna Rever Perfeccionador Mate A Prueba De Agua Nro.01
 6975525900088,Delineador De Cejas Ayvanna Rever A Prueba De Agua Y Larga Duración Nro. 1 Retráctil
@@ -4295,7 +4335,14 @@
 70009,Dologrip Infantil Jarabe Antigripal X 100Ml
 70012,Ciflox 500Mg Ciprofloxacina X Tableta
 700450,Hemovac Suctor 3.2Mm # 18 600Cc
+700532,Manipler Az-35W Grapadora P/Piel 783100 (B Braun)
 700533,Hilo Sutura V-Loc 180 # 3-0 30Cm <Hp>
+700534,Flextube D/10Mm Circuito Respiratorio Neonatal
+700535,Demelon Nylon Monofilamento #2-0 Con Aguja
+700536,Kit De Nefrostomia Percutannea Snef-08
+700538,Demediox Polidioxanon #3-0 Aguj 17Mm 1/2 Circ 30Cm
+700539,Lyostypt X1 Hemostatico De Colageno 3X5 Cm
+700541,Lyostypt X1 Hemostatico De Colageno 10X12 Cm
 700542,Hilo Polidioxanona Nro.3-0 Con Aguja De 26Mm X Pieza
 700543,Hilo Pgc25 Nro.3-0 Con Aguja De 19Mm X Pieza
 700544,Hilo Pgc25 Nro.4-0 Con Aguja De 19Mm X Pieza
@@ -4323,6 +4370,8 @@
 701049,Canula Traqueotomia # 8 C Balon
 7010826,Agua Oxigenada 10 Vol X 500Ml
 701095,Equipo P Suero Con Control De Flujo
+701097,Cateter Triple Lumen Kit Para Hemodialis
+701099,Circuito Aspiracion Cerrado Endotraqueal Ad # 16Fr
 701105,Artrosamin Crema Frasco X 227G Grande
 701111,Algodon Ortopedico 10Cm X 1.8Mt
 7011823,Alcohol Yodado 1% Frasco X 120Ml
@@ -4343,14 +4392,24 @@
 701716,Bolsa Colectora De Orina Con Desagote X 2 L
 701719,Barbijo Pediatrico Descartable X Unidad
 701720,Uright Plus Pack Glucometro +1 Caja Tiras + Gel Antise
+701723,Sistema D/Drenaje Mediastino 1600Cc C/Dren 24-28Fr
 701726,Microgotero 150Ml Fotosensible Ambar
 701732,Mascarilla Respirador N95 De 5 Capas X 20 Unidades
+701735,Collarin Philadelphia P/Traqueotomia Talla M
+701743,Filtro Dializador De Alto Flujo Elisio 210Hr
+701744,Filtro Dializador De Alto Flujo Elisio 190Hr
+701745,Filtro Dializador De Alto Flujo Elisio 170Hr
+701746,Filtro Dializador De Alto Flujo Elisio 150Hr
+701747,Canula Orofaringea # 1 D/70Mm
+701749,Canula Orofaringea # 5 D/50Mm
+701750,Canula Orofaringea # 6 D/60Mm
 701751,Sonda Rectal  18
 701752,Sonda Rectal  20
 701753,Sonda Rectal  22
 701754,Sonda Rectal  24
 701755,Sonda Rectal  28
 701756,Sonda Rectal  30
+701757,Sonda Rectal  32
 701760,Sonda Foley  18 2 Vias 100% Siliconada Nipro
 701761,Sonda Foley16 2 Vias 100% Siliconada Nipro
 701762,Sonda Foley  14 2 Vias 100% Siliconada Nipro
@@ -4363,27 +4422,118 @@
 701800,Sonda Rectal  38
 701801,Sonda Rectal  40
 701804,Sistema Drenaje Pleural Easyvac Plus Dry 2400Cc
+701805,Sistema Drenaje Pleural Easyvac Plus Dry 1150Cc<
 701808,Llave De 3 Vias Con Alargador 50Cm
 701809,Venda Elastica 20Cm X 4.5Mt Piel
+701811,Sistema De Drenaje Mediastino 800Cc C/Drena 10-12Fr
+701813,Sistema De Drenaje Mediastino 1600Cc C/Dren 22-26Fr
+701814,Sistema D/Drenaje Mediastino 2250Cc C/Dren 30-34Fr
+701815,Sistema D/Drenaje Mediastino 2250Cc C/Dren 32-36Fr
+701816,Jackson Pratt Dreno Plano 7Mm Silicona (127-07)
+701817,Jackson Pratt Dreno Plano 10Mm Silicona (127-10)
+701819,Jackson Pratt Dreno Plano 13Mm Silicona (127-13)
+701820,Jackson Pratt Reservorio 200Cc Silicona (127-200)
 701823,Especulo Vaginal Desechable Esteril Grande
 701826,Especulo Vaginal Desechable Esteril Mediano
+701835,Dafilon (Mononylon) # 3-0 C/Ag 75Cm Ds24 (B Braun)
+701836,Monoplus (Hilo Pds) # 4-0 C/Ag 70Cm Hr22 (B Braun)
+701837,Demegut Catgut Crom#4-0 C/Ag 20Mm 224020(Demetech)
+701839,Demetech Demegut Catgut Crom#2-0 C/Ag 26Mm
+701840,Demetech Demegut Catgut Crom #1 C/Ag 30Mm
+701841,Demetech Demegut Catgut Crom #1 C/Ag 50Mm
+701842,Demegut Catgut Crom 0 C Ag 36Mm 220036(Demetech)
+701843,Demetech Demegut Catgut Crom #0 C/Ag 40Mm
+701844,Demetech Demelon Mononylon #6-0 C/Ag 16Mm
+701845,Demetech Demelon Mononylon #3-0 C/Ag 24Mm
+701846,Demetech Demelon Mononylon #3-0 C/Ag 30Mm
+701847,Demetech Demelon Mononylon #2-0 C/Ag 30Mm
+701848,Demetech  Demecryl Poly Vicryl#5-0 C/Ag 20Mm
 701849,Demecryl Poly Vicryl #4-0 Con Aguja 20Mm
+701850,Demecryl Poly Vicryl2-0 C Ag 36Mm 282036(Demetech
+701851,Demetech Demecryl Poly Vicryl #1 C/Ag 40Mm
+701852,Demetech Demecryl Poly Vicryl #0 C/Ag 36Mm
+701853,Demetech Demelene Prolene #0 C/Ag 40Mm
+701854,Demetech Demegut Catgut Simple#1 C/Ag 48Mm
+701855,Mononylon Dafilon # 2-0 C/Ag 75Cm Ds30
+701856,Mononylon Dafilon (Mononylon) # 4-0 C/Ag 75Cm Ds19
+701857,Mononylon Dafilon # 2-0 C/Ag 75Cm
+701858,Mononylon Dafilon # 3-0 C/Ag 75Cm
 701859,Novosyn Poly Vicryl # 1 Con Aguja 70Cm
+701860,Poly Vicryl Novosyn # 0 C/Ag 70Cm
+701861,Poly Vicryl Novosyn #2-0 C/Ag 70Cm
+701862,Polu Vicryl Novosyn #3-0 C/Ag 70Cm
+701863,Demetech Demegut Catgut Crom#2-0 C/Ag 36Mm
+701864,Demetech Demegut Catgut Simple#0 C/Ag 36Mm
+701865,Demetech Demegut Catgut Simple#0 C/Ag 40Mm
+701867,Demetech Demegut Catgut Simple#2-0 C/A 26Mm
+701868,Demegut Catgut Simple2-0 C A 40Mm 232040(Demetech
+701869,Demetech Demegut Catgut Simple#3-0 C/A 26Mm
+701870,Demetech Demelon Mononylon #3-0 C/Ag 19Mm
+701875,Demetech Demecryl Poly Vicryl#0 40Mm
+701877,Demetech Demecryl Poly Vicryl#2-0 26Mm
+701878,Demetech Demecryl Poly Vicryl #3-0 C/Ag 26Mm
+701881,Demetech Demecryl Poly Vicryl#4-0 C/Ag 17Mm
+701883,Demetech Demelene Prolene #2-0 C/Ag 26Mm
+701885,Demetech Demelene Prolene #4-0 2/C/Ags 17Mm
+701887,Demetech Demelene Prolene #6-0 2/C/Ags 13Mm
+701889,Demetech Demesilk Seda Negra #2-0 C/Ag 26Mm
+701890,Demetech Demesilk Seda Negra #3-0 C/Ag 17Mm
+701891,Demetech Demesilk Seda Negra #3-0 C/Ag 26Mm
+701892,Demetech Demegut Catgut Simple#1 C/Ag 36Mm
+701893,Demetech Demelon Mononylon #4-0 C/Ag 24Mm
+701895,Demetech Demelene Prolene #7-0 2/C/Ags 9Mm
+701896,Histoacryl Adhesivo Tisular
+701897,Electrodo Neutro Dividido Adulto X Sobre
+701898,Mononylon Dafilon # 5-0 C/Ag 45Cm D16
+701899,Mononylon Dafilon # 6-0 C/Ag 45Cm Ds16
+701900,Monocryl Monosyn # 3-0 C/Ag 70Cm Dsmp19
+701901,Monocryl Monosyn # 4-0 C/Ag 70Cm Dsmp19
+701902,Cateter Percutaneo C/Introduct Pelable Fr 1.9X20cm
+701903,Cateter Percutaneo C/Introduct Pelable Fr 1.9X50cm
+701904,Novosyn (Poly Vicryl) # 1 C/Ag 70Cm Hr37s(B Braun)
+701906,Novosyn (Poly Vicryl)  0 C Ag 70Cm Hr40s(B Braun)
+701907,Novosyn (Poly Vicryl) #2-0 C/Ag 70Cm Hr37s(B Braun
+701908,Novosyn (Poly Vicryl) # 2 C/Ag 90Cm Hr37s(B Braun)
+701910,Poly Vicryl Novosyn #4-0 C/Ag 70Cm
+701911,Novosyn Poly Vicryl #4-0 Con Aguja 70Cm Hr22
+701912,Poly Vicryl Novosyn #5-0 C/Ag 70Cm
 701913,Sutura Sintetica Dafilon B Braun Mononylon 5-0 C Ag 75Cm Ds19
+701914,Monoplus (Hilo Pds) # 2-0 C/Ag 70Cm
 701915,Hilo Pds B Braun Monoplus Nro. 0 C Ag 70Cm Hr40s
 701916,Capullo Aposito De Gasa 20X7cm Paquete X 20 Unidades
 701917,Capullo Aposito De Gasa 15X7cm Paquete X 20 Unidades
+701920,Demelon Mononylon 2-0 C Ag 19Mm 262019(Demetech)
+701921,Demetech Demelon Mononylon #3-0 C/Ag 30Mm
 701925,Tubo Corrugado Pediatrico Kit
+701926,Demediox Polidioxanona#3-0 C/Ag 17Mm V-Loc180(Deme
+701927,Aguja Poly Port 20Cm X 25Mm <Hp>
+701928,Monocryl Monosyn # 3-0 C/Ag 45Cm
+701936,Seda Negra Silkam # 0 C/Ag 75Cm
+701937,Seda Negra Silkam # 0 C/Ag 75Cm
+701938,Silkam (Seda Negra) # 1 Con Ag 75Cm B0264695(B Braun)
+701940,Silkam (Seda Negra) # 3-0 Con Ag 75Cm Hr26(B Braun)
 701941,Liga Clip De Titanio Medio/Largo Verde Doble Rama X 6 Clips<Hp>
 701942,Sobre Térmico Para Vacunas 21 X 30Cm Farmacorp X Unidad
 701944,Aguja Tipo Huber Para Puerto De 2.5Cm (1501-22-25-1)
+701945,Aguja Tipo Huber Para Puerto D/ 2Cm (1501-22-20-1) <Hp>
+701946,Cateter Doble Lumen Kit Para Hemodialis 7Frx20cm
+701948,Circuito Aspiracion Cerrado Para Traqueotomia # 14Fr
 701949,Celulosa Oxidada Regenerada-Surgicel Dmho 5 X 7.5Cm
 701950,Cera Para Huesos Bone Wax 2.5G Bw25
 701951,Ligaduras Para Varices Multi Band Con 6 Bandas (Bl18-6A)
 701952,Silkam B Braun Nro. 1 Con Aguja 75Cm Seda Negra C0760978
 701953,Nebulizador Mesh Ultra Portátil Vp-M12a
 701954,Nebulizador Mesh  Vp-M5
+701955,Demediox Polidioxanona#3-0 Con Aguja 26Mm Dt-Z316
+701956,Microgotero Con Regulador De Goteo 150Ml
 701957,Admisol Set De Infusion Con Filtro
+701959,Poly Vicryl Novosyn #6-0 C/Ag 70Cm Hr17
+701960,Aposito Para Fijacion De Canula Iv 6.5X7cm
+701961,Aposito Para Fijacion De Canula Iv 8.5X11.5Cm
+701962,Bolsa Colectora De Orina Para Pierna
+701963,Silla De Rueda Premium
+701964,Silla De Rueda Standard
+701965,Tubo De Aspiracion De Pvc 6Mm X 3Mt-Polymed
 702180,Tubo Sonda Endotraqueal #5.0 C Balon Oft
 702184580202,Vical Vitamina C 500Mg Sabor Naranja X Tableta Masticable
 702184580219,Vical Vitamina C 500Mg Sabor Mandarina X Tableta Masticable
@@ -4846,6 +4996,7 @@
 740042,Linagliptina 5Mg Genérico X Comprimido
 740043,Clopidogrel 75Mg Genérico X Comprimido
 740044,Cefepima 1Gr Genérico Im-Iv X Ampolla
+740045,Protamina 1000Ui Iv-Sc Genérico X Ampolla
 7401036100505,Trental Pentoxifilina 400Mg X Tableta
 7401156601128,Reversal Glucosamina Sulfato 1500Mg Y Meloxicam 15Mg X Sobre
 7401156601319,Reversal Flex Meloxicam 15Mg Y Pridinol Mesilato 4Mg X Tableta
@@ -4925,6 +5076,7 @@
 74108553126,Conair Shower Cap Gorro Azul Claro 55312N
 74108553270,Gorro De Ducha Conair Shower Cap Celeste
 74108555236,Pinza Para Pelo Conair Colores Surtidos X 4 Piezas
+74108556158,Set Porteñas Negras Conair Bobby Pin X 45 Unidades
 74108559661,Pañuelo Para La Cabeza Conair Spa Grooming Blanco Negro
 74108591029,Cepillo Ovalado Conair N Color Cushion Brush
 74108596413,Diadema De Maquillaje Conair X 1 Unidad
@@ -4976,6 +5128,7 @@
 74108951380,Conair Wood Boar Cushion Brush Cepillo
 74108951519,Set De Cepillo Y Peine Conair Lots Of Dots
 74108951571,Set Peine Y Cepillo Conair Mango Gel And Combo
+74108952240,Cepillo Conair Masaje Cuero Cabelludo X Unidad
 74108953100,Detangling Brush Cepillo Para Peinar 95310
 74108953476,Cepillo Para Cabello Conair Cerdas Duras
 74108953605,Peine Y Cepillo Para Cardado Conair X 2 Unidades
@@ -5437,6 +5590,7 @@
 747934,Dexametasona 0.1% Colirio X 5Ml Generico
 747935,Tobramicina Dexametasona Colirio X 10Ml Generico
 747936,Azitromicina 200Mg 5Ml Susp X 30Ml Generico
+747937,Midazolam 5Mg/Ml Im-Iv Psico X Ampolla
 747938,Fluconazol 200Mg Iv Frasco X 100Ml Generico
 747939,Paracetamol 1G Para Perfusión Iv Solución Genérico X 100 Ml
 747942,Meropenem 1G Iv Frasco X Ampolla Generico
@@ -5717,22 +5871,32 @@
 7501298222349,Doloneurobion Retard X Tableta
 7501298222943,Eutirox 88Mcg Levotiroxina X Tableta
 7501298222950,Eutirox 112Mcg Levotiroxina Sodica X Tableta
+7501298225418,Eutirox 175Mcg X 50 Tab Levotiroxina
+7501298225425,Eutirox Levotiroxina 200Mcg X Tableta
 7501299301142,Mucovibrol 7.5Mg Ml Gotas X 30Ml Ambroxol
 7501299301159,Mucovibrol 15Mg 5Ml Jbe X 120Ml Ambroxol
 7501299301401,Paramix Nitazoxanida 100 Mg / 5 Ml Suspensión X 30 Ml
 7501299301418,Paramix 100Mg 5Ml Susp X 60Ml Nitazoxanida
+7501299301623,Supradol Duet Im-Iv X 3 Amp 1Ml Ketorolac Tramadol
 7501299301678,Macrozit 200Mg 5Ml Susp X 30Ml Azitromicina
+7501299302286,Supradol Ketorolaco 30Mg Im-Iv X Ampolla
 7501299302354,Supradol Ketorolaco 60Mg Y 2Ml X Ampolla
 7501299305751,Inhibitron Twit Omeprazol/Bicarbonato Sódico X Cápsula
 7501299306130,Supradol Ketorolaco 30Mg Sublinguales X Tableta
 7501299306840,Macrozit 200Mg 5Ml Susp X 15Ml Azitromicina
+7501299307342,Macrozit Azitromicina 500Mg X Tableta
 7501299307380,Paramix Nitazoxanida 500Mg X Tableta
 7501299307663,Evocs Iv Levofloxacina 750Mg Y 150Ml X Caja
+7501299307670,Evocs Iii Levofloxacino 750Mg X Tableta
 7501299307694,Seltaferon Oseltamivir 75 Mg X Cápsula
 7501299307717,Evocs Iv Levofloxacina 500Mg Y 100Ml X Frasco
+7501299308332,Macrozit Azitromicina 500Mg Iv X Ampolla+Diluyente
+7501299308615,Quimara-1 Imiquimod 5% Crema X 3G
 7501299309810,Doscoxel 60Mg Etoricoxib X 28 Tabletas
 7501299309827,Doscoxel 90Mg Etoricoxib X 28 Tabletas
 7501299309834,Doscoxel 120Mg X 7 Tab Etoricoxib
+7501299309902,Continental Solifenacina Succinato 10Mg X Tableta
+7501299309919,Continental Solifenacina Succinato 5Mg X Tableta
 7501299330357,Zinolox 4G Moxifloxacino 400Mg X Tableta
 7501390915507,Fisiogel Ai Balsamo Lipidico Restaurador X 150Ml
 7501390915583,Fisiogel Serum Facial X 30Ml
@@ -6576,6 +6740,8 @@
 7613287649263,Nan Comfort Expert Pro X 800G
 7613326003858,Tecentriq Atezolizumab 1200Mg Y 20Ml X Ampolla
 7613326004879,Ocrevus Ocrelizumab 300Mg Y 10Ml X Ampolla
+7613326036993,Phesgo 600/600Mg Sc X 1 Fco/Amp Pertuzumab/Trastuzumab (Frio)
+7613326037143,Phesgo Pertuzumab 1200/Trastuzumab 600Mg Sc Frio X Ampolla
 76150200386,Act Ii Pipocas Natural Bolsa X 91G
 76150200393,Act Ii Pipocas Mantequilla Bolsa X 90G
 76150220230,Act Ii Pipocas Queso Cheddar Bolsa X 96G
@@ -6648,6 +6814,7 @@
 766961418116,Magnesio Farmacorp 500Mg X 90 Tabletas
 766961418123,Echinacea+Vitamin C Farmacorp X 60 Capsulas
 7680270480486,Dicynone Etamsilato 250Mg Y 2Ml X Ampolla
+7680392179022,Doxium Dobesilato De Calcio 500Mg X Cápsula
 76930220375,Playdoh Tubo De Plastilinas X 10 Unidades
 76930234136,Playdoh Juguete Cubeta Picnic
 770101003097,Peritofundin I Iv Env X 1000Ml
@@ -6742,6 +6909,8 @@
 7702027424038,Toallitas Femeninas Nosotras Rapisec Invisible Con Rapigel X 30 Unidades
 7702027434020,Nosotras Protectores Diarios Tela Tipo Algodon X 15 Unidades
 7702027434235,Protectores Diarios Nosotras Normal X 10 Unidades
+7702027435300,Tampones Sin Aplicador Nosotras Regular X 10 Unidades
+7702027435508,Nosotras Tampon Regular Con Aplicador X 8 Unidades
 7702027444654,Nosotras Protector Diarios Multiestilo X 150 Unidades
 7702027444685,Protectores Diarios Nosotras Bolsa Multiestilo X 15 Unidades
 7702027466335,Protectores Diarios Nosotras Normal Desodorante X 150 Unidades
@@ -7275,6 +7444,7 @@
 7703763995783,Omeprazol 40Mg X Capsula
 7703763999712,Rosuvastatina 10Mg X Tableta
 7704039112408,Levoc 5Mg X 10 Tab Levocetirizina
+7704039121660,Spasmopriv Plus Fenoverina 200Mg X Cápsula
 7704163000015,Protector Solar Sunlat Vid Fps50+ Gel Ligero X 50Gr
 7704163000411,Hidrotex Hidrocortisona Acetato 0.0001 Crema X 30G
 7704163000640,Sunlat Bambini Spf 45 Emulsión X 100Ml
@@ -7295,6 +7465,7 @@
 7704232002087,Linea Fit Parche X Unidad
 7704588000232,Lidoprocto Supositorio Lidocaína 60Mg / Hidrocortisona Acetato 5Mg X Unidad
 7704588000409,Anestésico Roxicaina 10% / Lidocaína 80G Atomizador X 83Ml
+7704588002120,Bupirop Pura Marcain Bupivacaina 0.5% X Ampolla
 7704758931571,Estuchera Totto Multiuso Agapec
 7704758931779,Estuche Totto Multiuso Cinta
 7704758932301,Lonchera Totto Borrador Con Aislador Térmico Azul
@@ -7431,7 +7602,9 @@
 7730564000019,Gesibelle Levonorgestrel 0.100Mg Y Etinil Estradiol 0.020Mg X 21 Comprimidos
 7730564119582,Maxinelle Drospirenona 3Mg Y Etinil Estradiol 0.03Mg X 21 Comprimidos
 7730564249784,Genobelle Ciproterona Acetato 2Mg Y Etinil Estradiol 0.035Mg X 21 Comprimidos
+7730564441188,Lorgia Loratadina 10Mg X Comprimido
 7730564789389,Secufem Plus 1.5Mg Levonorgestrel X 1 Comprimido
+7730564807182,Sumetox Sulfametoxa 400/Trimetoprim 80Mg X Comprimido
 7730564823281,Remiom Ulipristal 5Mg X 28 Comprimidos
 7730599571249,Sadetabs Forte X Ovulo
 7730607003342,Miasten Piridostigmina 60Mg X Tableta
@@ -7543,6 +7716,7 @@
 7730969304774,Rixam 500 Acido Tranexamico 500Mg Y 5Ml X Ampolla
 7730969305146,Hyndriax 20 Mg Isotretinoína X Cápsula Blanda
 7730969305290,Ceumid 500Mg Levetiracetam Iv 5Ml X 5 Ampollas
+7730969305313,Goval Risperidona 1Mg X Comprimido
 7730969305399,Viadil Compuesto Propinoxato 15Mg Y Cl.Lisina 100Mg X Ampolla
 7730969305443,Hyndriax 10Mg Isotretinoina X Capsula
 7730969305672,Ibanti 40Mg Lurasidona X Comprimido
@@ -7676,6 +7850,34 @@
 77323,Multigyn Crema Vaginal Miconazol Nitrato 100Mg Y Tinidazol 150Mg X 50G
 77324,Cestoden Albendazol 400Mg X Tableta
 77333,Duforax Plus Clindamicina Clorhidrato 100Mg Y Ketoconazol 400Mg X Ovulo
+7739809692026,Sutura Catgut Croma #1 Aguja 50Mm 1/2 Circ D/90Cm
+7739809692033,Sutura Nylon #3-0 Aguja 19Mm 3/8 Circ D/45Cm
+7739809692040,Sutura Nylon #3-0 Aguja 24Mm 3/8 Circ D/45Cm
+7739809692057,Sutura Vicril (Pga) #1 Aguj 36Mm 1/2 Circ 75Cm
+7739809692064,Sutura Vicril (Pga) #1 Aguja 40Mm 1/2 Circ 75Cm
+7739809692071,Sutura Catgut Croma #0 Aguja 36Mm 1/2 Circ D/75Cm
+7739809692088,Sutura Catgut Croma #0 Aguja 40Mm 1/2 Circ D/75Cm
+7739809692095,Sutura Catgut Croma #2-0 Aguja 26Mm 1/2 Circ D/75Cm
+7739809692101,Sutura Catgut Croma #2-0 Aguja 30Mm 1/2 Circ D/75Cm
+7739809692118,Sutura Catgut Croma #2-0 Aguja 36Mm 1/2 Circ D/75Cm
+7739809692125,Sutura Catgut Croma #3-0 Aguja 26Mm 1/2 Circ D/75Cm
+7739809692132,Sutura Catgut Croma #3-0 Aguja 36Mm 1/2 Circ D/75Cm
+7739809692149,Sutura Catgut Croma #4-0 Aguja 20Mm 1/2 Circ D/75Cm
+7739809692156,Sutura Nylon #2-0 Aguja 19Mm 3/8 Circ D/75Cm
+7739809692163,Sutura Nylon  #2-0 Aguja 30Mm 3/8 Circulo D/45Cm
+7739809692170,Sutura Nylon #3-0 Aguja 24Mm 3/8 Circ D/75Cm
+7739809692194,Sutura Nylon #3-0 Aguja 30Mm 3/8 Circ D/75Cm
+7739809692200,Sutura Nylon #4-0 Aguja 20Mm 3/8 Circ D/45Cm
+7739809692217,Sutura Nylon #4-0 Aguja 24Mm 3/8 Circ D/45Cm
+7739809692224,Sutura Nylon #5-0 Aguja 19Mm 3/8 Circ D/75Cm
+7739809692231,Sutura Vicril (Pga) # 2-0 Aguja 26Mm 1/2 Circ 75Cm
+7739809692248,Sutura Vicril (Pga) #0 Aguja 40Mm 1/2 Circ 75Cm
+7739809692255,Sutura Vicril (Pga) #3-0 Aguja 26Mm 1/2 Circ 75Cm
+7739809692262,Sutura Vicril (Pga) #4-0 Aguja 20Mm 1/2 Circ 75Cm
+7739809692279,Sutura Vicril (Pga) #0 Aguja 36Mm 1/2 Circ 75Cm.
+7739809692286,Sutura Vicril (Pga) #3-0 Aguja 36Mm 1/2 Circ 75Cm
+7739809692293,Sutura Vicril (Pga) #4-0 Aguja 17Mm 1/2 Circ 75Cm
+7739809692309,Sutura Vicril (Pga) #5-0 Aguja 20Mm 1/2 Circ 75Cm
 7750121060805,Tripack Protectores Diarios Lady Free Normal 3 X 10 Unidades
 7750168002240,Oreo Galletas Chocolate X 36G
 7750168148962,Choco Soda Galleta X 39G
@@ -7972,6 +8174,7 @@
 7750778000728,Biotears Colirio X 15Ml Lagrimas Artificiales
 7750778000773,Patadine Plus 0.2% Colirio X 5Ml Olopatadina
 7750778000841,Colirio Hyalo Comfort Hialuronato Sodio 0.4% X 10Ml
+7750778000995,Polibiotic Abd Colirio X 5Ml
 7750778001503,Colirio Xenda Latanoprost 0.005% X 3Ml
 7750885012645,Ambrosoli Mentitas Bolitas Sabor Menta X 21G
 7750885019231,Ambrosoli Ambrosito Gomitas Surtidas X 90G
@@ -7997,7 +8200,9 @@
 7750885023955,Gomitas Ambrosoli Fre Ricas Fresa Y Leche X 90G
 7750885024419,Mentitas Ambrosoli X 19G
 7750936001444,Zelcom Lactulosa 3.3Gr/5Ml Solucion X 240Ml
+7750936002953,Dorzolamida Mersolat D 2% Colirio X 5Ml
 7750936005824,Vagisten 0.5Mg Estriol X Ovulo
+7750936007026,Acelux Lopamidol 370Mg Ivs X Ampolla
 7750936009006,Neotilom Tibolona 2.5Mg X Tableta
 7750936065989,Reumatrex Metotrexato 2.5 Mg X Tableta
 7750936313493,Crema Vaginal Vagisten Estriol 0.1% X 15G
@@ -8025,6 +8230,7 @@
 7751384000096,Aero Om Forte Simeticona 125Mg X Tableta
 7751439000408,V Fend Voriconazol 200Mg X Tableta
 7751439000576,V Fend Voriconazol 200Mg X Ampolla
+7751439001887,Enbrel Etanercept 50Mg Sc Frio X Jeringa Prellenada
 7751493002202,Toallas Higiénicas Kotex Normal Extra Suave Con Alas X 42 Unidades
 7751493003957,Plenitud Classic Talla M Unisex X 20 Unidades
 7751493004008,Plenitud Protect Y Neutracare Talla M Unisex Para Adulto X 20 Unidades
@@ -8082,6 +8288,7 @@
 7753658001051,Terbilab Crema Terbinafina Clorhidrato 0.01 X 15G
 7753658001594,Hiosimol Compuesto Paracetamol 500Mg Y Butilbromuro 10Mg X Comprimido
 7753658001693,Ciprolab Ciprofloxacina 500Mg X Comprimido
+7753658001938,Floxalab Levofloxacino 750Mg X Tableta
 7753658002157,Zitrolab 200Mg 5Ml Susp X 30Ml Azitromicina
 7753658003512,Crema Betyderm Plus X 15G
 7754111012232,Marcador Faber Castell Fiesta X 24 Colores
@@ -8354,6 +8561,7 @@
 7770101008054,Dehidrolit 75 Sabor Frambuesa X Sobre
 7770101008092,Lactozero Forte Lactasa X Tableta
 7770101008108,C-Vimin Y Zinc Vitamina C Y Zinc X Sobre
+7770101008139,Colágeno Hidrolizado Miocolagenol Vimin X Sobre
 7770101008184,Rinofrin 0.9% Solucion Nasal X 20Ml Cloruro Sodio
 7770101008450,Superal Digest Naranja Sal De Frutas X Sobre
 7770101008474,Xipromicina Ciprofloxacina 500Mg X Tableta
@@ -8362,7 +8570,10 @@
 7770101008955,Mebidox 400Mg Ibuprofeno X Capsula Blanda
 7770101008962,Mebidox Ibuprofeno 600Mg X Capsula Blanda
 7770101008986,Tonico Inti Sc Jbe X 500Ml Sin Cafeina
+7770101009075,Dacrimol Timolol 0.5% Colirio X 5Ml
+7770101009099,Dacribiotic Ciprofloxacina 0.3% Colirio X 5Ml
 7770101009105,Solución Dacriblan SC 0.05% caja x 30 unidosis/0.5 ml Tetrahidrozolina
+7770101009112,Dacridorzol Dorzolamida 2% Colirio X 5Ml
 7770101009129,Dacrisol Cloruro Sodio 5% Colirio X 5Ml
 7770101009310,Zinc Vimin 40Mg X Tabletas Masticables
 7770101009327,C-Vimin Zinc+D3 X 60 Sobres Efervescentes
@@ -8449,6 +8660,7 @@
 7770102003638,Gastrosol 40Mg Esomeprazol X Tableta
 7770102003683,T4 Levotiroxina 100Mcg X Tableta
 7770102003836,Talflex B1 B6 B12 X Ampolla
+7770102003928,Dinamicina Amoxicilina 1000Mg X Comprimido
 7770102003942,Batadina 200Mg Hidroxicloroquina X Tableta
 7770102003973,Clofexan Diclofenaco Paracetamol X Comprimido
 7770102004000,Refrianex Tos Antigripal X Cápsula
@@ -8517,6 +8729,7 @@
 7770108043072,Crema 4 Derm X 10G
 7770108043492,Terbocyl Forte Lidocaina+Jeringa X Ampolla
 7770108043515,Terbocyl 6.3.3 X Ampolla
+7770108043836,Omega-Zol 40Mg Iv X 25 Frasco Amp Omeprazol
 7770108043928,Flexidol Ketoprofeno 100Mg X Ampolla
 7770108044000,Terbocaina 0.01 Lidocaina Y 10Ml X Ampolla
 7770108044260,Asgesic Ketorolaco Trometamina 30Mg X Ampolla
@@ -8545,6 +8758,7 @@
 7770108045908,Moxilin Duo Amoxicilina Clavulanico X Comprimido
 7770108045984,Full Spectrum Prenatal Terbol Frasco X 100 Capsulas Blandas
 7770108045991,Full Spectrum Vision Frasco Terbol X 60 Capsulas Blandas
+7770108046202,Efervescente Isoton-C Magnesio/Vitamina C X Tableta
 7770108046318,Terbol Full Spectrum Women Frasco X 60 Tabletas
 7770108046325,Full Spectrum Women Caja X 30 Tab (Terbol)
 7770108046349,Vitamin C+D3+Zinc Tbo X 10 Tab Eferv
@@ -8581,7 +8795,9 @@
 7770108071112,Solución Hidroalcohólica Clorex 2% Clorhexidina X 400Ml
 7770108071525,Buclorex Spray Bucal X 15Ml Menta
 7770108071532,Buclorex Spray Bucal X 15Ml Cherry
+7770108071563,Sigmavir Favipiravir 800Mg X Comprimido
 7770108071815,Uvamin Mc Pediatrico Nitrofurant 25Mg5ml Suspension X 100Ml
+7770108071921,Colistimetato Sodio Colistina 100Mg 3Mui Iv X Ampolla
 7770108071945,Trabit Kt 60Mg Ketorolaco Im Iv 5 Ampollas X 2Ml
 7770108071952,Trabit Kt 30Mg Ketorolaco Sublingual X Comprimido
 7770108072034,Acydone Gel Susp X 210Ml Menta
@@ -8609,6 +8825,8 @@
 7770108081937,Fluzet 20Mg Leflunomida X Capsula
 7770108082224,Azitromicina 500Mg X Tableta
 7770108082446,Losartan 50Mg X Tableta
+7770108082484,Paracetamol 1Gr Ifa X Comprimido
+7770108082781,Metoclopramida 10Mg Ifa X Comprimido
 7770108083450,Frixadol Eucalipto Mentol Y Salicilato De Metilo Unguento X 50G
 7770108083542,Penicilina Ifa Benza 1200000 Ui Im X 1 Ampolla
 7770108083559,Ampolla Penicilina Benza 2.400.000 UI IM x 1 (IFA)
@@ -8690,7 +8908,10 @@
 7770108087403,Tamifen 250Mg/5Ml Paracetamol Jarabe X 100Ml
 7770108087410,Ginbi Suplemento Ginkgo Biloba Y Vitamina B12 X Capsula
 7770108091370,Clindacne Gel Clindamicina Fosfato 0.01 X 15G
+7770108091899,Ho Gel Lidocaina 5% Gel X 10G
+7770108100119,Losartan Potasico 50Mg Sae X Comprimido
 7770108100157,Maxmen Spray X 10Ml Lidocaina
+7770108100164,Salbutamol Sae 100Mcg Aerosol Oral X 200 Dosis
 7770108100416,Dermocutyl 0.025 Jabón Peroxido De Benzoilo X 75G
 7770108100423,Dermocutyl 0.05 Peroxido De Benzoilo Jabon X 75G
 7770108100430,Agnus Gel Adapaleno 0.001 Y Clindamicina Clorhidrato 0.01 X 15G
@@ -8709,6 +8930,7 @@
 7770108100928,Piomet Pioglitazona 15Mg Y Metformina Clorhidrato 500Mg X Tableta
 7770108100942,Telnor 2.5Mg Amlodipina X Tableta
 7770108100966,Telnor 5Mg Amlodipina X Tableta
+7770108100997,Ibuprofeno 600Mg Sae X Comprimido
 7770108101017,Parasin Diosmectita Naranja 3G X Sobre
 7770108101079,Anamax Nf X Blister
 7770108101086,Agnus 20Mg Isotretinoina X Capsula Blanda
@@ -8918,10 +9140,13 @@
 7770108110606,Forty Shake Vainilla X 380G
 7770108110613,Forty Shake Frutilla X 380G
 7770108110620,Forty Shake Chocolate X 380G
+7770108120148,Amoxell Duo Amoxicilina/Ácido Clavulanico X Comprimido
 7770108120506,Ciprofar 500Mg Ciprofloxacina X Tableta
 7770108120759,Farmazepin 200Mg Carbamazepina X Tableta
 7770108121190,Luranil Norfloxacina 400Mg Y Fenazopiridina Clorhidrato 100Mg X Capsula
+7770108121206,Maximo Sildenafil 50Mg X Comprimido
 7770108121671,Typirec X Capsula Blanda
+7770108122449,Crema Dermica Nitrofurazona 0.2% X 450G
 7770108129028,Typirec Infantil Suspension X 100Ml
 7770108129042,Sucra Stevia Edulcorante Natural X 250Ml
 7770108129233,Ketofar Gel Ketoprofeno 0.025 X 50G
@@ -8932,6 +9157,8 @@
 7770108210559,Celina Crema De Parafina X 250G
 7770108210665,Dermatel 9 Pomada X 16G
 7770108210733,Locion Litel X 200Ml
+7770108211259,Fisiologico Solucion Salina Telchi 1.5% Para Nebulizar X 250Ml
+7770108211266,Fisiologico Solucion Salina Telchi 1.5% X 1L
 7770108211273,Talco Grana Litel X 100G
 7770108211280,Talco Litel X 100G
 7770108211334,Tintura De Yodo X 250Ml
@@ -9048,6 +9275,7 @@
 7770108267973,Vidigat 0.5% Colirio X 5Ml Gatifloxacina
 7770108267980,Vidigat D Colirio Gatifloxacina Dexametasona X 5Ml
 7770108268048,Vididrops Colirio X10ml
+7770108268055,Vidizine Colirio X 10Ml Tetrizolina Antazolina
 7770108268079,Respira+ 0.9% Sol Nasal Spray X 50Ml Cloruro Sodio
 7770108268123,Ibufebril 200Mg 5Ml Susp X 100Ml Ibuprofeno
 7770108268147,Bonagel Plus X 140 Comp Mast S Banana
@@ -9135,6 +9363,7 @@
 7770108300946,Recto Term Lactantes Paracetamol 60Mg X Supositorio
 7770108301080,Alfa Peridol 2Mg Ml Gotas X 30Ml Haloperidol
 7770108301097,Hipnol 100Mg Fenobarbital X Tableta
+7770108301172,Hipnol Fenobarbital 2% Gotas Psico X 30Ml
 7770108301394,Hipnol 2% Gotas X 60Ml Fenobarbital
 7770108301424,Espasmo Tropina Hioscina Butilbromuro 10Mg X Tableta
 7770108301431,Ericox Celecoxib 200Mg X Capsula
@@ -9182,6 +9411,7 @@
 7770108302285,Alfa Peridol 5Mg X 30 Comp Haloperidol
 7770108302377,Lodinest Amlodipino 5Mg X Comprimido
 7770108302384,Lodinest Amlodipino 10Mg X Comprimido
+7770108302414,Proctogel Pomada X 30G
 7770108302421,Proctogel Pomada X 20G
 7770108302483,Flogofen 5% Solucion Spray Etofenamato X 100Ml
 7770108302520,Sales Rehidratación Hidranest Sin Frutas X 300Ml
@@ -9232,6 +9462,7 @@
 7770108671268,Esulprazol 40Mg Esomeprazol X Capsula
 7770108671282,Typirec Dia Antigripal Sabor Naranja X Sobre
 7770108671299,Typirec Noche Antigripal Sabor Naranja X Sobre
+7770108671305,Chillkaflam F Baccharis Latifolia 4% Crema X 50G
 7770108671329,Post Drink X Sobre Efervescente
 7770108671398,Apix 2.5Mg Apixaban X Comprimidos
 7770108671404,Apix 5Mg Apixaban X Comprimido
@@ -9240,6 +9471,10 @@
 7770108671473,Doloterm 600Mg Ibuprofeno X Comprimido
 7770108671480,Typirec Gotas Antigripal X 15Ml
 7770108671848,Lv 1000 Mg Levetiracetam X Comprimido
+7770108671862,Azitroxell N Azitromicina 200Mg/5Ml X 30Ml
+7770108671909,Uruxell F Sulfametizol/Fenazopiridina X Cápsula
+7770108671916,Azitroxell Azitromicina 500Mg X Comprimido
+7770108672005,Amoxicilina Amoxicilina 500Mg/5Ml Susp X 100Ml
 7770108672012,Lv Levetiracetam 100Mg/Ml Solución Oral X 100Ml
 7770108672135,Tenso Stop Candesartan 16Mg X Comprimido
 7770108750383,Tonico Vita X 400Ml
@@ -9302,7 +9537,10 @@
 7770108751977,Vitabismol 262.5Mg X 50 Sobres/2 Tab Mast Bismuto
 7770108751984,Shampoo Carla Lorena Anticaspa X 700Ml
 7770108830344,Agua De Rosas Telchi X 200Ml
+7770108830368,Calenta 10% Pomada Salicilato De Metilo X 30G
+7770108830382,Calenta 10% Pomada Salicilato De Metilo X 250G
 7770108830870,Micotel Acido Salicilico 2% Solucion X 100Ml
+7770108831129,Minoxitel Minoxidil 5% Solucion X 100Ml
 7770108831198,Ungutel Solucion X 30Ml
 7770108831303,Bronceador Telchi De Urucú Spray X 200Ml
 7770108831310,Bronceador Telchi De Urucú Crema X 180G
@@ -9311,25 +9549,32 @@
 7770108831808,Telchi Glucotel X36 Sobres S/Limon Suplemento Alim
 7770108831815,Telchi Glucotel X36 Sobres S/Manzana Suplemento Al
 7770108831907,Minoxitel 3% Loción Minoxidil X 100Ml
+7770108870128,Pediaglos Pomada Antiescaldante X 20G
 7770109040032,Dexalivium 50Mg Dexketoprofeno Intramuscular E Intravenosa X Ampolla 2Ml
 7770109040148,Gabadiol 75Mg Pregabalina X Capsula
 7770109040155,Gabadiol Pregabalina 150Mg X Capsula
+7770109040193,Cesadil S 125/25Mcg Aerosol X 120 Dosis Flutic/Salmet
 7770109040223,Virusan Forte Jarabe X 60Ml
 7770109040247,Di Neumobron Infantil Paracetamol Guaifenesina Supositorio X Unidad
 7770109040254,Lactulax 66.7% Lactuosa Solucion X 250Ml
 7770109040308,Ome-Gastrin Omeprazol 20 Mg X Cápsula
+7770109040315,Espasmina Paracetamol/Butilbromuro Hioscina X Tableta
 7770109040322,Antigripal Compuesto Noche X Sobre
 7770109040339,Antigripal Compuesto Dia X Sobre
 7770109040360,Antigripal Compuesto X 200 Tabletas
 7770109040377,Pyralvex Solución Tópica Ruibarbo Acido Salicílico X 10Ml
+7770109040384,Idantina-Comp Fenitoina/Fenobarbital Psico X Cápsula
+7770109040414,Dypiretic Metamizol 500Mg X Tableta
 7770109040438,Pentrax Duo 1G Amoxilina X Comprimido
 7770109040452,Dehidrolit S 90 Suero Oral Rehidratante Solución X 150Ml
 7770109040469,Zetalerg Cetirizina 5Mg/5Ml Solucion X 60Ml
 7770109040490,Dehidrolit S 75 Suero Oral Rehidratante Solución X 150Ml
 7770109040582,Zetalerg Cetirizina 10Mg X Tableta
+7770109041343,Pentrax Ac 400/57Mg Suspensión X 90Ml
 7770109041350,Troxolina Cefalexina 500Mg/5Ml Suspensión X 90Ml Jeringa + Solvente
 7770109150014,Miel De Abeja Ecolmena X 920G
 7770109150038,Miel De Abeja Ecolmena X 460G
+7770109430024,Toallas Húmedas Problock Hipoalergénicas Baby Wipes X 50 Unidades
 7770109430048,Toallitas Húmedas Problock Wipes Aloe X 100 Unidades
 7770109430055,Toallitas Húmedas Problock Wipes Aloe X 50 Unidades
 7770109430062,Toallitas Húmedas Problock Wipes Aloe X 25 Unidades
@@ -9452,6 +9697,7 @@
 7771011351247,Ursol Ácido Ursodesoxicolico 600Mg X Comprimido
 7771011351278,Colirio Bimat Bimatoprost 0.03% X 6Ml
 7771011351292,Colirio Bimat Plus Sp Bimatoprost / Timolol X 6Ml
+7771011351322,Rixubis Risperidona 3Mg X Comprimido
 7771011351346,Esoflux M Esomeprazol / Mosaprida 15Mg X Cápsula
 7771011351384,Deflazan Deflazacort 6Mg X Comprimido
 7771011351407,Zolid Solifenacina Succinato 5Mg X Comprimido
@@ -10208,6 +10454,7 @@
 7772700000538,Creme De La Creme Mora Crema X 1 L
 7772700000552,Creme De La Creme Menta Chips X 1 L
 7772700000590,Creme De La Creme Ron Con Pasas X 1 L  626
+7772700000613,Creme De La Creme Mora Crema 1 2 Litro
 7772700000675,Creme De La Creme Helado Ron Con Pasas X 1 2 L
 7772700000828,Cabrera Yog Frutos Rojos Helado X 1 L
 7772700000835,Cabrera Yog Helado Golden Berries X 1 L
@@ -10757,6 +11004,10 @@
 7775110091196,Bactazin 500Mg Azitromicina X Comprimido
 7775110100027,Hidrolágeno Pack Q10 X 30 Sobres + Tomatodo
 7775110100041,Colágeno Hidrolageno Hpro Pack Regalo X 30 Sobres
+7775110100058,Saypha Filler Lidocaine Hialuronato Sodio 23Mg X Jeringa
+7775110100065,Saypha Rich 18Mg X 1 Jer 1Ml Hialuronato Sodio
+7775110100072,Saypha Volume Lidocaine 23Mg X 1 Jer 1Ml Hialuronato Sodio
+7775110100089,Saypha Volume Plus Lidocaine 25Mg X 1 Jer 1Ml Hialuronato Sodio
 7776295300004,Cuaderno Espiral Rito Colores Surtidos 62954
 7776501000414,Servilletas Scott Día A Día X 50 Unidades
 7776501001770,Scott Jumbo Papel Higiénico Dh X 2 Unidades
@@ -11411,22 +11662,34 @@
 7791829009826,Ciclofosfamida Microsules 1Gr Iv X Ampolla
 7791848257024,Neumotide Fluticasona Propionato/Salmeterol 125/25Mcg Aerosol X 120 Dosis
 7791909102652,Factor Ae Emulsion Humectante X 200Ml Avena
+7791909103659,Factor Ae Crema X 200G
 7791909103758,Factor Ae Emulsion X 100Ml
 7791909104632,Factor Dermico Crema X 20G
 7791909105202,Factor A-G Antiespasmodico Gotas X 30Ml
 7791909110800,Nomicon 1% Econazol Nitrato Crema X 30G
 7791909111609,Oleofin Orlistat 120Mg X Capsula
+7791909111692,Remexal Rivaroxaban 15Mg X Comprimido
+7791909111708,Remexal Rivaroxaban 20Mg X Comprimido
+7791909111845,Remexal Rivaroxaban 10Mg X Comprimido
+7791909112026,Nirpol 5Mg X 28 Comp Nebivolol
+7791909122216,Urokit Citrato De Potasio 3G X Sobre
 7791909196620,Segren Fenofibrato 200Mg X Capsula
 7791909200419,Toflux N-Acetilcisteina 200Mg X Sobre
 7791909200457,Toflux Acetilcisteina 600Mg X Sobre
 7791909201256,Vacunace X Sobre
 7791909213150,Inhalan Az Spray Nasal Fluticasona/Azelastina X 120 Dosis
+7791909213914,Inhalan Fluticasona 0.05Mg Spray Nasal X 60 Dosis
 7791909214188,Loplac 50Mg Losartan X Comprimido
 7791909214195,Loplac 100Mg Losartan X Comprimido
+7791909214423,Loplac D Losartan 50/Hidroclorotiaz 12.5Mg X Comprimido
+7791909214461,Lopac D 100/25Mg X 30 Comp Losartan/Hidroclorotiaz
 7791909224125,Pelmec Amlodipina 5Mg X Comprimido
 7791909224132,Pelmec Amlodipina 10Mg X Comprimido
+7791909292001,Ampliar Atorvastatina 10Mg X Comprimido
+7791909292018,Ampliar Atorvastatina 20Mg X Comprimido
 7791909303707,Isobloc Carvedilol 12.5Mg X Comprimido
 7791909303714,Isobloc Carvedilol 25Mg X Comprimido
+7791909304711,Isobloc Carvedilol 6.25Mg X Comprimido
 7791909318510,Flocas Flex Diclofenaco Potasico 50Mg Y Pridinol X Tableta
 7791909320476,Flocas Diclofenaco 0.0116 Gel X 50G
 7791909321923,Flocas Flex Diclofenaco Sodico 75Mg Y Pridinol Mesilato 2.2Mg Y 3Ml X Ampolla
@@ -11435,11 +11698,14 @@
 7791909326263,Flocas Cox Etoricoxib 120Mg X Tableta
 7791909352415,Hipolipol 10Mg Rosuvastatina X Comprimido
 7791909352422,Hipolipol 20Mg Rosuvastatina X Comprimido
+7791909404039,Algicur Dexketoprofeno 25Mg X Comprimido
 7791909423436,Venart Crema Ruscus/Meliloto X 30G
 7791909423504,Venart X 30 Capsulas
 7791909432278,Corticas Betametasona Crema X 20G
+7791909432407,Corticas Betametasona 8Mg Im-Iv X Ampolla+Jeringa
 7791909432506,Crono Corticas Betametasona Fosfato 4Mg Y Betametasona Dipropionato 10Mg Con Jeringa Y 2Ml X Ampolla
 7791909432605,Corticas Retard Betametasona Fosfato 6Mg Y Betametasona Acetato 6Mg Con Jeringa Y 2Ml X Ampolla
+7791909433107,Ungüento Calci Corticas Calcipotriol/Betametasona X 30G
 7791969850616,Protector Labial Nivea Balsamo Original
 7791969850630,Bálsamo Labial Nivea Protector Med Reparación
 7791969850777,Protector Labial Nivea Balsamo Cherry Shine
@@ -11467,6 +11733,7 @@
 7792183000702,Gadolip 45 Acido Fenofibrico 45Mg X Capsula
 7792183000719,Gadolip 135Mg Acido Fenofibrico X Capsula
 7792183000740,Neuro Biletan 600Mg Acido Tioctico X Tableta
+7792183000788,Desire Dienogest 2Mg X Comprimido
 7792183000818,Divalprex 500Mg Frasco X 50 Comp Divalproato Sodio
 7792183000856,Deslafax Desvenlafaxina 50Mg X Tableta
 7792183001464,Femiden Nomegestrol Acetato 2.5Mg Y Estradiol 1.5Mg X 28 Tabletas
@@ -11481,6 +11748,9 @@
 7792183487978,Atenolol 100 Mg X Comprimido
 7792183487992,Atenolol 25Mg X Comprimido
 7792183488029,Filten Carvedilol 25Mg X Comprimido
+7792183488050,Filten Carvedilol 12.5Mg X Comprimido
+7792183488074,Filten Carvedilol 3.125Mg X Comprimido
+7792183488098,Filten Carvedilol 6.25Mg X Comprimido
 7792183488562,Drimux-A 25Mg Espironolactona X Tableta
 7792183488579,Drimux-A 50Mg Espironolactona X Tableta
 7792183488586,Drimux-A 100Mg Espironolactona X Tableta
@@ -11512,6 +11782,7 @@
 7792640004618,Capilatis Desenredante Antipiojos Con Palo Amargo X 500Ml
 7792700002714,Lapices De Colores Pelikan Jumbo X 12 Unidades
 7792700008273,Marcadores Pelikan Pintaloco De Colores X 12 Unidades
+7792796000021,Novopressina-V 20Ui  Vasopresina Iv Frio X Ampolla
 7792796000380,Gasterina Octreotida 0.1Mg Y 1Ml X Ampolla
 7792796000687,Valertropina Dexmedetomidina 200Mcg Y 2Ml X Ampolla
 7792796476048,Biascor Labetalol 5Mg Y 4Ml X Ampolla
@@ -11564,12 +11835,16 @@
 7795323774198,Bebelac Nutriopti 1 Bolsa Formula Lactea X 800G
 7795323774204,Bebelac Nutriopti 2 Bolsa Formula Lactea X 375G
 7795323774228,Bebelac Nutriopti 2 Bolsa Formula Lactea X 800G
+7795325003364,Niglinar Nitroglicerina 50Mg Iv Solución Inyectable X 250Ml
+7795334000279,Gentasol Crema X 20G
 7795334176516,Micoclin Crema Antimicótica Con Clotrimazol 0.01 X 20G
 7795334176530,Micoclin 1% Spray X 60Ml Clotrimazol
 7795334398260,Kritel Enema Fosfato Monodosico Disodico X 135Ml
 7795334559869,Calcusan Sulfadiazina Crema X 30G
 7795334735911,Calcusan Bebe Pomada Dermica Cicatrizante X 50G
 7795334976918,Algicler Diclofenaco Sodico 0.01 Gel X 50G
+7795336000482,Levosimendan Richet 2.5Mg/Ml Iv X Ampolla+Solvente
+7795336294461,Ertapenem Richet 1Gr Im-Iv X Ampolla
 7795336295031,Daptomicina Richet 500Mg Iv Frio X Ampolla
 7795337862386,Hormo Gyn Estriol 0.5Mg X Óvulos
 7795337900347,Virobron Meloxicam 15Mg X Comprimido
@@ -11603,10 +11878,18 @@
 7795359000322,Muelita Pediatrico Benzocaina 0.02 Gel Topico X 10G
 7795359000384,Muelita Forte Benzocaina 0.20 Gel Topico X 10G
 7795359000414,Muelita 5% Solucion Topica X 15Ml Benzocaina
+7795360010754,Diazepam Klonal 10Mg Im-Iv (Psico) X Ampolla
+7795360011485,Diazepam Klonal 10Mg (Psico) X Comprimido
 7795367001373,Hidroxiurea Lkm 500Mg X Cápsula
 7795367001755,Olvestran 250Mg Im X2 Jeg Prell Fulvestrant
+7795367003704,Oxitinol Pirfenidona 267Mg X Cápsula
+7795367005722,Mielozitidina Azacitidina 100Mg Iv-Sc X Ampolla
+7795367053969,Tuberbut Tobramicina 300Mg/5Ml Solución Para Nebulizar X Sobre
+7795367547888,Zyvalix Abiraterona 250Mg X Comprimido
 7795367548397,Cresemba Isavuconazol 100 Mg X Cápsula
 7795367548403,Cresemba 200Mg Isavuconazol Intravenosa X Ampolla
+7795367549301,Tirleb Erlotinib 150Mg X Comprimido
+7795367550130,Ambisome Amfotericina B 50Mg Iv X Ampolla
 7795368000245,Poenbiotic Ungüento Oftálmico Ciprofloxacino Y Dexametasona X 3.5G
 7795368000573,Gatidex Colirio X 5Ml Gatifloxacina Dexametasona
 7795368001136,Poentobral Plus Colirio X 5Ml Tobramicina Dexameta
@@ -11630,15 +11913,21 @@
 7795373001831,Suavicort 50Mcg Spray Nasal X150 Dosis Mometasona
 7795373012288,Salbutamol 100Mcg Aerosol X250 Dosis
 7795373014046,Fluticort 125Mcg Aero X120 Dosis Fluticasona Farma
+7795373015104,Ironcas 100Mg Iv X 1 Amp/5Ml Hierro Sacarato
 7795373015159,Flutivent 125 25Mcg Aero X 120 Dosis Flutic Salmet
 7795373017627,Fluticort 50Mcg Spray Nasal X 60 Dosis Fluticasona
 7795373022126,Butocort Hfa Aero X250 Dosis Salbuta Beclome Farma
 7795373024458,Aerosol Neumocort Plus Budesónida / Formoterol X 150 Dosis
+7795375000078,Neocalmans Morfina 30Mg X Comprimido
 7795375000238,Crema Platsul-A X 200 Gr
 7795375000580,Aerosol Platsul-A X 50 Ml
+7795375000764,Oxicalmans Oxicodona 10Mg X Comprimido
 7795375000771,Oxicalmans 20Mg Oxicodona Frasco X 30 Comprimidos
 7795375000788,Oxicalmans 40Mg Oxicodona Frasco X 30 Comprimidos
+7795375579000,Crema Platsul-A X 30G
 7795375600520,Gasas Platsul-A X Sobre Con 2 Gasas Cada Uno
+7795375600773,Neocalmans Retard Morfin 30Mg X Comprimido
+7795375600780,Neocalmans Retard Morfina 10Mg X Comprimido
 7795375600841,Metacalmans 5Mg Metadona Frasco X 25 Comprimidos
 7795375600858,Metacalmans 10Mg Metadona Frasco X 25 Comprimidos
 7795375600919,Oxicalmans 5Mg Oxicodona Frasco X 30 Comprimidos
@@ -11687,6 +11976,7 @@
 7798016922487,Ribex 20Mg Rivaroxaban X 30 Comprimidos
 7798016923019,Pixar 25 Apixaban 2.5Mg X Comprimido
 7798016923026,Pixar 5 Apixaban 5Mg X Comprimido
+7798021290328,Renur Hidroclorotiazida Amilorida X Comprimido
 7798021295958,Butamol 5Mg Ml Solucion Para Nebulizar Salbutamol X 20Ml
 7798021295972,Adeconce Gotas Vitaminas Adc X 20Ml
 7798021297228,Lafecaina 10% Spray Lidocaina X 50Ml
@@ -11760,10 +12050,13 @@
 7798140259893,Shampoo Tío Nacho Aloe Vera X 415Ml
 7798140259916,Acondicionador Tío Nacho Aloe Vera X 415Ml
 7798163500675,Peg-Neutropine Pegfilgrastim 6Mg X Jeringa Prellenada
+7798163501047,Exadia Etanercept 50Mg Sc Frio X Jeringa Prellenada
+7798163501238,Folitime Folitropina Alfa 300Ui Sc Frio X Unidad
 7798171641718,Leche En Polvo Sancor Bebe 3+ Advanced X 800G
 7798180920326,Vincristina Kemex 1Mg Intravenosa X Ampolla
 7798180920647,Ibolya 1G Intravenosa X Ampolla
 7798180920876,Doxorubicina Kemex Iv 50Mg X Ampolla
+7798180921767,Doxorrumal Doxorrubicina 20Mg Iv Frio X Ampolla
 7798180921811,Leucovorina Kemex 50Mg Im-Iv X 1 Frasco / Ampolla
 7798181480188,Miel De Abeja Gustoso X 250G
 7798181480201,Miel De Abeja Gustoso Osito X 340G
@@ -11980,11 +12273,13 @@
 7800007801685,Madozide Levodopa 200Mg Y Benserazida 50Mg X Tableta
 7800007801708,Monez 50Mcg Spray Nasal X 140 Dosis Mometasona
 7800007803023,Zubam Odt Clotiazepam 10Mg X Tableta
+7800007803030,Zubam Odt Clotiazepam 5Mg Psico X Comprimido
 7800007803283,Coxidol Etoricoxib 120Mg X Tableta
 7800007803733,Azitromicina Lch 200Mg 5Ml Susp X 15Ml
 7800007803801,Prednisona 20Mg Lch X Comprimidos
 7800007804198,Carvedilol Lch 12.5Mg X 30 Comp
 7800007804327,Carvedilol Lch 6.25Mg X 30 Comp
+7800007804600,Paracetamol Tramadol Lch X Comprimido
 7800007804686,Coxidol Etoricoxib 60Mg X Tableta
 7800007805102,Coxidol 90Mg X 14 Comp Etoricoxib
 7800007805119,Hiedrix Forte 70Mg 5Ml Jbe X 100Ml Hedera Helix
@@ -11993,6 +12288,8 @@
 7800007805522,Bisoprolol Lch Fumarato 5Mg X Comprimido
 7800007805676,Tensuren 40Mg Telmisartan X Comprimido
 7800007805683,Tensuren 80Mg X 30 Comp Telmisartan
+7800007805713,Tensuren D Telmisartan 40/12.5Mg X Comprimido
+7800007805720,Tensuren D Telmisartan 80/12.5Mg X Comprimido
 7800007806222,Paracetamol Lch 500Mg X Tableta
 7800026000991,Valnoc 3Mg Eszopiclona X Tableta
 7800026001080,Anfibol 5Mg Nebivolol X Tableta
@@ -12194,13 +12491,20 @@
 7800060418172,Eurocor D Isoprolol Fumarato 5Mg Y Hidroclorotiazida 6.25Mg X Tableta
 7800060700680,Quetium 25Mg Quetiapina X Tableta
 7800061000727,Atropina Sulfato 1Mg Im-Iv Biosano X 1 Ampolla /1Ml
+7800061000765,Domperidona Biosano 10Mg Im-Iv X Ampolla
+7800061001595,Dobutamina Biosano 250Mg Iv X Ampolla
+7800061025102,Amiodarona Biosano 150Mg Iv X Ampolla
+7800061160100,Dopamina Biosano 200Mg Iv X Ampolla
+7800061180108,Ergometrina Biosano 0.2Mg Im-Iv Frio X Ampolla
 7800062004083,Ocitocina 5Ui Y 1Ml X Ampolla
 7800063001708,Zopiclona 7.5Mg Mintlab X 30 Comprimidos
 7800063003153,Ketoconazol 2% Crema X 20G
 7800063003207,Fluoxetina 20Mg X 20 Comp (Mlab)
+7800063003542,Azitromicina 500Mg X Comprimido
 7800063003559,Tramadol 50 Mg X Cápsula
 7800063003566,Tamsulosina 0.4Mg Mlab X Comprimido De Liberacion Prolongada
 7800063003573,Facimin 0.05% Solucion Nasal X 10Ml Oximetazolina
+7800063003771,Amlodipino 5Mg X Comprimido
 7800063004495,Akan Montelukast 10Mg X Comprimido
 7800063004693,Pregabalina 75Mg X Comprimido
 7800063110516,Aciclovir 200Mg X Tableta
@@ -12210,6 +12514,7 @@
 7800063330358,Axant 65% Solucion Lactulosa X 200Ml
 7800063480022,Salbutamol 100Mcg Aerosol X 200 Dosis
 7800063910284,Furosemida 40Mg X Tableta
+7800063918488,Gemfibrozilo 600Mg X Comprimido
 7800070000039,Lertus 0.01 Gel Diclofenaco X 60G
 780085004363,Dulzero Sucralosa X 100Ml
 7801001000029,Collar Cervical Blando  S
@@ -12493,6 +12798,7 @@
 7840036007771,Diabetol Metformina 850Mg X Comprimido
 7840036008136,Liparex Atorvastatina 10Mg X Comprimido
 7840036008143,Liparex 20Mg Atorvastatina X Comprimido
+7840036008242,Diclofen B1 B6 B12 X Comprimido
 7840036008723,Sionus Levodopa Carbidopa X Comprimido
 7840036008877,Cexima Cefixima 400Mg X Capsula
 7840036009621,Rosulip Rosuvastatina 20 Mg X Comprimido
@@ -12505,6 +12811,7 @@
 7840036101646,Quetiapin Quetiapina 100 Mg X Comprimido
 7840036101653,Quetiapin Quetiapina 200 Mg X Comprimido
 7840036101776,Trixan Plus 875/125Mg Amoxicilina /Ácido Clavulánico Antibiotico X Comprimido
+7840036102315,Diencil Met Glimepirida 4/Metform 1000Mg X Comprimido
 7840036103398,Caramelos Mentolina Cherry Benzocaína / Tirotricina X Unidad
 78400436,Hecodulcolorante Tradicional X 30Ml
 7840085000013,Hecodulcolorante Tradicional X 100Ml
@@ -12850,9 +13157,11 @@
 7840653009554,T.G. 10Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
 7840653009561,T.G. 12.5Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
 7840653009578,T.G. 15Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
+7841134000206,Citol Ciprofloxacina 0.3% Colirio X 10Ml
 7841134000343,Citol Tdt Colirio X 10Ml
 7841134007830,Colirio Oftalday Hialuronato De Sodio 0.1% X 10 Ml
 7841134009742,Alergiol Forte Nf Olopatadina 0.2% Colirio X 5Ml
+7841134009957,Citol Dexa Dexametasona 0.1% Colirio X 10Ml
 7841134009971,Citol Fluorote Colirio X 5Ml Fluorometolona Tetrah
 7841134015880,Etisona 1% Prednisolona Colirio X 5Ml
 784114004167,Istaril Fentermina 7.5Mg Y Topiramato 46Mg X Capsula
@@ -12900,6 +13209,7 @@
 7841503031138,Galletas Mazzei Crackers 8 Semillas X 200G
 7841503031169,Galletas Mazzei Crackers Lino Y Quinua X 200G
 7841503031183,Galletas Mazzei Crackers Salvado Y Chía X 200G
+7842568000664,Folcres Escitalopram 10Mg X Comprimido
 7842568000671,Folcres 20Mg Escitalopram X 40 Comp
 78600676,Barra Detergente El Macho Multiuso X 480G
 78603073,Barra Detergente El Macho Multiuso Limon X 480G
@@ -13320,6 +13630,7 @@
 7891800002812,Cremer Algodon X 25G
 7891800197532,Compresa Gasa 7.5Cmx7.5Cm X 1 Sobre Cremer
 7891800205879,Algodon Multiuso Cremer X 50G
+7891800228090,Cremer Esparadrapo Transparente 5Cm X 4.5Mt
 7891800341935,Cremer Venditas Curitas Beige X 40 Unidades
 7891800341942,Cremer Venditas Curitas Transparente X 40 Unidades
 7891800341997,Cremer Venditas Curitas Transparente X 10 Unidades
@@ -13337,6 +13648,8 @@
 7891800644487,Curitas Cremer Venditas Transparentes Variados X 30 Unidades
 7891800644494,Cremer Protector Ocular Adulto X 12 Unidades Beige
 7891800652994,Cremer Cuadrados De Algodon X 250 Unidades
+7891800664997,Micropore Cremer Microporosa Beige 5Cm X 4.5M
+7891800665130,Micropore Cremer Microporosa Beige 1.2Cm X 4.5M
 7891962032283,Bauducco Wafer Galleta Fresa X 140G
 7891962032290,Bauducco Wafer Galleta Chocolate X 140G
 7891962032306,Bauducco Wafer Galleta Vainilla X 140G
@@ -13407,6 +13720,7 @@
 7896005800027,Café Tostado Molido 3 Corazones Tradicional Paquete X 250G
 7896005800829,Café 3 Corazones Tostado Molido Premium X 500G
 7896005801512,Café Tostado Molido 3 Corazones Extrafuerte Paquete X 250G
+7896006202707,Unifental Fentanilo 0.05Mg/Ml Im-Iv X Ampolla
 7896007547173,Plenitud Active Plus Talla G Y Xg Ropa Interior X 8 Unidades
 7896007549993,Plenitud Plus Ropa Intima Desechable Talla Pm Unisex X 24 Unidades
 7896007550005,Plenitud Plus Ropa Intima Desechable Talla G Xg Unisex X 24 Unidades
@@ -13500,6 +13814,12 @@
 7896423406054,Mym X 148Gr Amendoim/Mani
 7896423469820,Mym X 45Gr Amendoim
 7896502838677,Tetera Brinox Con Tapa Cherry X 2L
+7896544900226,Micropore Missner Microporosa Piel 5Cm X 10M
+7896544900233,Missner Microporosa Piel 2.5Cm X 10M (Micropore)
+7896544900240,Micropore Missner Microporosa Piel 1.2Cm X 10M
+7896544900257,Micropore Missner Microporosa Piel 5Cm X 4.5M
+7896544900264,Micropore Missner Microporosa Piel 2.5Cm X 4.5M
+7896544900288,Micropore Missner Microporosa Piel 1.2Cm X 4.5M
 7896544900318,Esparadrapo Missner Piel 10Cm X 4.5M
 7896544900325,Esparadrapo Missner Piel 5Cm X 4.5M
 7896544900356,Esparadrapo Missner Piel 2.5Cm X 90M
@@ -13624,6 +13944,7 @@
 7897653546503,Album Sticker Fifa Conmebol Copa Libertadores 2025 Panini
 7897750770375,Paño De Piso Alklin Blanco X 1 Unidad
 7897750782576,Esponja Multiuso Alklin X 4 Unidades
+7897854900876,Dotarem Acido Gadoterico  0.5Mmol/Ml Iv X Ampolla
 7897930761674,Cetaphil Locion Ultra Humectante X 226G Seca Sens
 7897930775794,Cetaphil Pro Ad Control X295ml Hidratante Corporal
 7897930775800,Cetaphil Pro Ad Control X295ml Limpiador Corporal
@@ -14902,6 +15223,8 @@
 880911163656,Drink Aloe Vera Farmacorp Grape X 500Ml
 8809111637110,Drink Aloe Vera Farmacorp Original  X 1.5 L
 880911163892,Drink Aloe Vera Farmacorp Pineapple X 500Ml
+8809126648958,Cinta Nipro Premier Glicemia X Caja
+8809126648972,Glucometro Nipro Premier (Tiras+Lapiz+Lancetas)
 8809128782353,Bacirelle Probióticos / Vitamina D3 Gotas X 75Ml
 8809128784098,Bacirelle Vitality Probióticos / Prebióticos X Capsulas
 8809447255071,Limpiador Facial Dr Althea X 50Ml
@@ -15111,11 +15434,13 @@
 89023999953277,Brucold X Comprimido
 8902445007434,Dologal Forte Paracetamol500mg Y Diclofenaco Potasico 50Mg X Tableta
 8902445007618,Dologal Relax Diclofenaco Potasico 50Mg Y Carisoprodol 350Mg X Tableta
+8902445007854,Dologal B1 B6 B12 X Comprimido
 8902445008059,Galmigra Ergotamina / Cafeina X Comprimido
 8902445012759,Colchivard Colchicina 0.5Mg X Tableta
 8904004702071,Nitasox 100Mg 5Ml Susp X 60Ml Nitazoxanida
 8904012411194,Vacuna Anti Rh Rhoclone 300Mcg Inmuno Anti D X Ampolla
 8904012415543,Amphotret Amfotericina B 50Mg X Ampolla
+8904012415741,Thymogam Globuli Antitim 250Mg Iv Frio X Ampolla
 8904012482613,Amphonex Amfotericina B 50Mg X Ampolla
 8904045310020,Asertia Sistema Intrauterino Levonorgestre X Unidad
 8904070010506,Plan 2 Levonorgestrel 0.75Mg X 2 Tabletas
@@ -15154,6 +15479,9 @@
 8904200505216,Bisintex 440Mg Iv Trastuzumab Frio X 1 Ampolla
 8904219105568,Citroz Itraconazol 100Mg X Capsula
 8904240107333,Feverach 10Mg / Ml Solucion Para Infusion Iv Paracetamol X 100Ml
+8904240107425,Acumet Metronidazol 500Mg Iv Inyectable X 100Ml
+8904240107685,Acucip Ciprofloxacina 200Mg Iv X 100Ml
+8904278588142,Galciferol D3 0.25Mcg Vitamina D3 X Comprimido
 8904306500306,Infexan 875 / 125Mg Amoxicilina / Acido Clavulánico X Comprimido
 8904306501846,Sanavit C Efervecente Vitamina C Tubo X 20 Comprimidos
 8904306501853,Sanavit C 2G Efervescente Vitamina C X 20 Comprimidos
@@ -15212,6 +15540,8 @@
 8906048345313,Normalex Rosuvastatina 40Mg X Comprimido
 8906053360319,Meroxell Suspension X 200Ml
 8906056570738,Celepid Mct-Lct 20% Iv Emulsion X 500Ml
+8906056850045,Gonadotrofina 5000Ui Im-Sc Frio X Ampolla
+8906056850731,Menotropina 75Ui Im-Sc Frio X Ampolla
 8906059450099,Dycefix-Ds-100Mg Suspension X 60Ml Cefixima
 8906059450105,Dybutol-Ab Jarabe X 100Ml Ambroxol Salbutamol
 8906059450143,Cotrimoxazol Forte Sulfametoxazol 800Mg Y Trimetoprima 160Mg X Tableta
@@ -15219,6 +15549,7 @@
 8906063981824,Aliviol Plus Paracetamol 500Mg Y Diclofenaco Sodico 50Mg X Tableta
 8906063988182,Flamiten Forte 200Mg 5Ml Susp X 100Ml Ibuprofeno
 8906063989295,Lactulosa 3.35G 5Ml Solucion X 200Ml
+8906085132594,Brainimage Gadopentetato 469Mg X Ampolla
 8906101924134,Zonidex 2Mg Eszopiclona X Comprimido
 8906101924141,Zonidex 3Mg Eszopiclona X Comprimido
 8906102570788,Doltrual X 30 Cap Blandas Paracetamol Cafeina
@@ -15275,6 +15606,7 @@
 8906148530800,Bucosin-Dol Mp Miel Limon Benzocaína / Mentol X Pastilla
 8906148530817,Bucosin-Dol Mp Naranja Benzocaína / Mentol X Pastilla
 8906148530862,Antigripal Mp X Capsula
+8906158070952,Lobamidol 300Mg Ivs X 1 Amp/50Ml Iopamidol
 8906176183009,Lipotrol E Ácido Bempedoico/Ezetimibe X Comprimido
 8906193890966,Merovish Meropenem 500Mg Iv X Ampolla
 8907661016482,Trivento Inhalador Oral X 120 Dosis
