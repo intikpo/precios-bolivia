@@ -2664,12 +2664,14 @@
 4030539900171,Nutrimix Bolsa Para Alimentacion Parenteral Nro.0.5-0 X 500Ml
 4031571057366,Tramadol Denk 50Mg X 10 Comprimidos Efervescentes
 4031571065156,Panto-Denk 40Mg Pantoprazol X Comprimido
+4031571067266,Voricona Denk Voriconazol 200Mg X Comprimido
 4031571069079,Anastrozol Denk 1Mg X Comprimido Recubierto
 4031571069482,Letrozol Denk 2.5 Mg Letrozol X Comprimido
 4031571069765,Amlo-Denk 5Mg Amlodipino X Comprimido
 4031571069789,Amlo-Denk 10Mg X 50 Comp Amlodipino
 4031571070693,Zoledro-Denk 4Mg/5Ml Zoledronico X 1 Ampolla
 4031571073847,Immun Active Denk X Sobre
+4031571074080,Paraco Denk Paracetamol 500 Mg Codeína 30Mg X Comprimido
 4031571077883,Axaban-Denk 2.5Mg Apixaban X Comprimido
 4031571077906,Axaban-Denk 5Mg Apixaban X Comprimido
 4031571080821,Grani-Denk 1Mg/Ml Granisetron X Ampolla
@@ -2696,6 +2698,8 @@
 4046964668869,Askina Calgitrol Pasta X 15G
 40469648129654,Diacan Ag. Fistula Pro 17G A 1.5X20x300
 40469648130094,Diacan Ag. Fistula Pro 17G V 1.5X20x300
+4052622077942,Alsavin Hialuronato Sodio 20Mg X Jeringa Prellenada 2Ml
+4052622077959,Alsavin Hialuronato Sodio 32Mg X Jeringa Prellenada 2Ml
 4052700006505,Kruger Multi-Vitamin X 90G
 4052700660745,Iron Kruger X Tubo
 4052700662206,Kruger 10 Multivitamins+5 Multimenerals X 20 Tabletas
@@ -3936,6 +3940,7 @@
 6221076124689,Bactroflox Ciprofloxacina 500Mg X Tableta
 6221151015680,Clamoxilin 875 Amoxicilina 125Mg Ácido Clavulánico X Tableta
 6222012210053,Bactrocefic 100Mg 5Ml Cefixima Susp X 60Ml
+6225180038207,Tensiometro Digital Gimed De Brazo
 628165723215,Arena De Colores Crayola Silly Scents 3+ X 454G
 630509359080,Playdoh-Minipack De 4 Unidades
 630509399659,Hasbro Play Doh Juguete Masa En 4 Potes Edad 2+ X 448G
@@ -4054,6 +4059,7 @@
 67238891190,Jabón Dove Blanco X 135G
 673859029609,Xtralife Omega 369 X 90 Cap
 673859029616,Xtralife Omega 3 1000Mg X 100 Cap Blandas
+673859029623,Omega 3 Xtralife 1000Mg X 200 Cápsulas
 673859034856,Xtralife Colageno Y Vitamina C X 120 Cap
 673859034917,Hgh Releasing Xtralife X 120 Capsulas
 673859035938,Shark Cartilage 1500Mg Xtralife X 100 Capsulas
@@ -4064,6 +4070,8 @@
 673859073855,Complejo B Xtralife Balanced B Complex X 100 Cápsulas
 673859080006,Cerebrín Xtralife Suplemento X 120 Cápsulas
 673859083007,Xtralife Echinacea 1500 Mg X 100 Cap
+673859084004,Colageno Xtralife Fresa X 402G
+673859085001,Colageno Xtralife Arandano X 402G
 673859090227,Extracto De Ajo Xtralife 1500Mg X 100 Capsulas
 673859090241,Isoflavonas Xtralife De Soya 700Mg X 60 Capsulas
 673859090258,Xtralife L-Arginina 700 Mg X 60 Cap
@@ -4081,6 +4089,7 @@
 673859090456,Glicinato De Magnesio 2500Mg Xtralife X 90 Capsulas
 673859090463,5 Htp + Melatonina Xtralife X 30 Capsulas
 673859090470,Aceite De Primula Xtralife 1000Mg X 60 Capsulas
+673859090487,Cerebrin Xtralife X 60 Cápsulas
 673859100032,Vitamina E Xtralife 1000Ui X 100 Capsulas Blandas
 689466605006,Doctor Cure Venditas Color Piel X Unidad
 689466608267,Doctor Cure Venditas Boys X 50 Unidades
@@ -5009,6 +5018,7 @@
 737186592585,Alemtra 25Mg Quetiapina X Comprimido
 737186592592,Sycarex 0.025G Tretinoina Gel X 30G
 737186592608,Yezer 100Mg Sertralina X Comprimido
+737186592615,Conkal Risperidona 3Mg Antipsicótico X Comprimido
 737186971090,C Curcuma Magnesio Zinc Jengibre X 90 Capsulas
 737186971106,C Curcuma Magnesio Zinc Moringa X 90 Capsulas
 73796380120,Omron Nebulizador De Compresor Infantil X Unidad
@@ -5019,6 +5029,7 @@
 740043,Clopidogrel 75Mg Genérico X Comprimido
 740044,Cefepima 1Gr Genérico Im-Iv X Ampolla
 740045,Protamina 1000Ui Iv-Sc Genérico X Ampolla
+740050,Butilbromuro Hioscina 20Mg Im-Iv Genérico X Ampolla
 7401036100505,Trental Pentoxifilina 400Mg X Tableta
 7401156601128,Reversal Glucosamina Sulfato 1500Mg Y Meloxicam 15Mg X Sobre
 7401156601319,Reversal Flex Meloxicam 15Mg Y Pridinol Mesilato 4Mg X Tableta
@@ -8634,6 +8645,7 @@
 7770101009525,Dextroton Frasco X 500G
 7770101009556,Melius 15Mg X 20 Tab Meloxicam
 7770101009617,Pirantelina 250 Mg 5Ml Suspension X 30Ml
+7770101009624,Dypiretic Metamizol 500Mg/Ml Gotas X 20Ml
 7770101009792,Amplibiotic 100Mg 5Ml Suspencion Cefixima X 90Ml
 7770101009815,Amplibiotic 400 Mg Cefixima X Cápsula
 7770101009822,Troxolina 500Mg X 16 Cap Cefalexina
@@ -11659,6 +11671,7 @@
 7791290792807,Líquido Para Lavar Ropa Skip Bio-Enzimas X 3 L
 7791293004976,Dove Acond X 400Ml Reconstruccion Completa Nf
 7791293005010,Shampoo Dove Reconstrucción Completa + Keratina X 400Ml
+7791293020280,Desodorante Axe Ice Apollo Spray 48Hr X 150Ml
 7791293030845,Shampoo Sedal Liso Perfecto X 340Ml
 7791293030883,Shampoo Sedal Rizos Definidos X 340Ml
 7791293030890,Shampoo Sedal Caspa Control 2 En 1 X 340Ml
@@ -11714,6 +11727,7 @@
 7791293050102,Acondicionador Tresemme Liso Efecto Botoxx 500Ml
 7791293050133,Shampoo Tresemme Liso Efecto Botox Nueva Formula X 880Ml
 7791293050140,Tresemme Acond X 880Ml Liso Efecto Botox Nf
+7791293050607,Desodorante Axe Musk Spray Xl 48Hr X 230Ml
 7791293050799,Jabón Lux Botanicals Flor De Vainilla Paquete X 3 Unidades
 7791293050805,Jabón Lux Botanicals Jazmin Cremoso Paquete X 3 Unidades
 7791293050812,Jabón Lux Botanicals Lirio Azul Paquete X 3 Unidades
@@ -13658,6 +13672,7 @@
 7891317025953,Etalpram 15Mg Escitalopram X 30 Comprimidos
 7891317027896,Dexmedetomidina 200Mcg  Iv Eurofarma 2Ml X 5 Frascos
 7891317032722,Destrel 0.075Mg X 28 Comp Desogestrel
+7891317032760,Atip Quetiapina 50Mg Liberación Prolongada X Comprimido
 7891317032821,Ventus 50Mcg  Mometasona Spray Nasal X Frasco
 7891317033019,Forfig 300Mg Silybum Marianum / Silimarina X Capsulas
 7891317033118,Carbolitium 300Mg Carbonato De Litio X Comprimido
@@ -14169,6 +14184,7 @@
 7899674027481,Antitranspirante Above Men Elements Ocean X 150Ml
 7899674027504,Antitranspirante Above Men Elements Hurricane X 150Ml
 7899674028341,Above Desodorante Aerosol Teen Be Sweet X 150Ml
+7899674030559,Desodorante Above Zero Men X 150Ml
 7899674035196,Desodorante Above Aerosol Elements Carbon Active X 150Ml
 7899674035295,Above Desodorante Aerosol Neymar Jr Teen Boy X 150Ml
 7899674035318,Above Desodorante Aerosol Neymar Jr Teen Girl X 150Ml
