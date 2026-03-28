@@ -1205,6 +1205,7 @@
 252092,Degraler 2.5Mg 5Ml Evocetirizina Jarabe X 100Ml
 252093,Flucomix 50Mcg Susp Nasal X 60 Dosis Fluticasona
 252502,Rigevidon 21+7 Levonorgestrel 0.15Mg Y Etinil Estradiol 0.03Mg X 28 Comprimidos
+252510,Fibryga Fibrinogeno 1Gr X Ampolla
 252705,Mitotie Mitomicina 20Mg X Ampolla
 252717,Filgen 300Mcg X 1 Jer Prell Filgrastim
 252729,Albunorm 20 Albumina Humana 0.20 Y 50Ml X Ampolla
@@ -1773,6 +1774,7 @@
 3499320008341,Cetaphil Jabon Barra Limpieza Profunda X 127G
 350006,Aceite Oliva Carbonell X 200Ml
 350051,Alcohol Yodado 1% Frasco X 125Ml
+350101,Flamiten Premix 400Mg Sol P/Infusion Iv X 100Ml Ibuprofeno
 350103,Venda Crepe 10Cm Cisne X Pieza
 350105,Venda Crepe Cisne X 12Cm
 350107,Venda Crepe Cisne X 20Cm
@@ -2263,6 +2265,7 @@
 3661434000522,Uriage Eau Thermale Aerosol Agua Termal X 300Ml
 3661434000539,Agua Termal Uriage Eau Thermale Spray X 50Ml
 3661434000973,Uriage Eau Thermale Hyseac Gel De Limpieza X 150Ml
+3661434001499,Uriage Bareisun Bruma Termal X 100Ml
 3661434001932,Uriage Hyseac Fluido Spf50+ X 50Ml
 3661434002960,Uriage Gel Surgras Dermatologico X 1L
 3661434003394,Uriage Roseliane Crema X 40Ml
@@ -2271,15 +2274,19 @@
 3661434004735,Uriage Bariéderm Cica-Crema Reparadora 40Ml
 3661434004858,Uriage Xémose Crema Relipidizante Anti-Irritaciones 400Ml
 3661434005008,Uriage Eau Thermale Crema De Agua X 40Ml
+3661434005596,Uriage Bariesun Fluido Matificante Spf50+ X 50Ml
 3661434005916,Uriage Xemose Syndent X 500Ml
 3661434006234,Crema Uriage Exfoliante Corporal X 200Ml
+3661434006500,Uriage Bariesun Bruma Seca Spf50+ X 200Ml
 3661434007910,Bruma Sos Anti Picor Uriage Xemose X 200Ml
 3661434008290,Uriage Hyseac Serum X 40Ml
 3661434008689,Crema Lavante Uriage Eau Thermale Bebe X 1 L
 3661434008962,Uriage Eau Thermale Bariderm-Cica Gel Nettoyant X 200Ml
+3661434009495,Uriage Bariesun Fluido Ultraligero Spf50+ X 30Ml
 3661434009525,Uriage Agua Termal Serum Booster Hyaluronic Acid X 30Ml
 3661434011924,Uriage Bariederm Cica Daily Gel Crema X 40Ml
 3661434011931,Uriage Bariederm Cica Daily Serum X 30Ml
+3661434011979,Uriage Bariesun 100 Fluide Spf50+ X 50Ml
 3661434012020,Uriage Agua Termal Esencia De Agua Brillo 100Ml
 3662361000364,Svr Sebiaclear Serum Facial X 30Ml
 3662361000920,Svr A Ampoule Lift Facial X 30Ml
@@ -2287,18 +2294,26 @@
 3662361000975,Mascarilla Svr Anti Ox C Spray X 50Ml
 3662361001187,Svr C20 Biotic Crema Regeneradora Radiante X 50Ml
 3662361001262,Svr Cera Biotic Balsamo Regenerador Rellenador X 50Ml
+3662361001330,Svr Sun Secure Easy Stick Spf50+ X 10G
 3662361001590,Svr Sebiaclear Micro Peel Limpieza Facial X 150Ml
 3662361001729,Protector Solar Svr Sun Secure Fluide Spf50+ Crema X 50Ml
 3662361001835,Svr Sebiaclear Active Gel Corrector Intensif X 40Ml
 3662361001866,Svr Topialyse Gel Lavant Limpiador X 1 L
+3662361001880,Svr Topialyse Gel Lavante X 200Ml
 3662361002382,Svr Sebiaclear Spf 50+ Crema X 40Ml
+3662361002436,Svr Topialyse Creme X 200Ml
 3662361002542,Svr Sensifine Ar Crema Spf50 X 40Ml
+3662361002559,Svr Sun Secure Lait Crepitant Spf50+ X 200Ml
 3662361002597,Crema Protectora Svr Sun Secure Blur Spf50+ X 50Ml
 3662361002603,Protector Solar Svr Sun Secure Extreme Spf50+ Gel X 50Ml
 3662361002726,Svr Sebiaclear Mat + Pores Matific Hidratante X 40Ml
 3662361003037,Svr Clairial Crema Antimanchas Spf50 X 40Ml
+3662361003167,Svr Sun Secure Blur Teinte Spf50+ X 50Ml
+3662361003365,Svr Sebiaclear Creme Lavante X 200Ml
+3662361003372,Svr Sebiaclear Creme Lavante X 400Ml
 3662361003396,Gel Svr Sebiaclear Moussant Nouveau X 200Ml
 3662361003402,Gel Svr Sebiaclear Moussant X 400Ml
+3662361003884,Svr Sebiaclear Creme Lavante Refill X 400Ml
 3666057002298,Gel Limpiador Facial Re-Move Purifying My Clarins X 125 Ml
 3666057015816,Crema De Manos Hands Cream My Clarins Hidratante X 30 Ml
 370001,Aceite Almendra Frasco X 30Ml
@@ -2399,6 +2414,7 @@
 3760095252872,Acm Rosakalm Agua Micelar X 250Ml
 3760095254074,Acm Duolys A Serum Antiage X 30Ml
 3760095254272,Acm Depiwhite Mousse Nettoyante Espuma Limpiadora X 200Ml
+3760095254616,Acm Azeane Crema Ácido Azelaico 15% X 30Ml
 3760100173215,Evoluderm Locion Matificante Anti Imperfecciones X 50Ml
 3760100173239,Evoluderm Limpiador Anti Imperfecciones 2 En 1 X 150Ml
 3760100183290,Evoluderm Mascara Iluminadora Arcilla Blanca X 100Ml
@@ -2416,6 +2432,7 @@
 3760100682779,Evoluderm Mascara Hidratante De Pepino X 150G
 3760100682830,Evoluderm Toallitas Desmaquillantes Con Agua Micelar X 25 Unidades
 3760100682915,Evoluderm Agua Micelar Piel Seca Sensible X 250Ml
+3760269770010,Limpiador Exfoliante Isispharma Neotone Gel X 150Ml
 3760269770041,Isispharma Neotone Aqua Solucion Micelar Desmaquillante X 250Ml
 3760269770225,Isispharma Metroruboril Az Antienrojecimiento Crema X 30Ml
 3760269770362,Isispharma Neotone Serum Manchas Oscuras X 30Ml
@@ -2423,12 +2440,15 @@
 3760269770386,Isispharma Neotone Body Leche Corporal X 100Ml
 3760269770393,Isispharma Neotone Eyes Contorno De Ojos X 15Ml
 3760269770409,Isispharma Neotone Protector Prevent Spf50+ X 30Ml
+3760269770508,Isispharma Uveblock Spf 50+ Dry Touch X 40Ml
+3760269770522,Isispharma Uveblock Spf 50+ Dry Touch X 40Ml
 3760269770539,Isispharma Glyco A Post Peeling X 40Ml
 3760269770546,Isispharma Glyco A Intense Peeling X 30Ml
 3760269770553,Isispharma Glyco A Body Peeling X 200Ml
 3760269770560,Limpiador Espumoso Isispharma Glyco Ax 100Ml
 3760269770867,Isispharma Glyco A Medium Peeling X 30Ml
 3760269770942,Isispharma Teen Derm Az Crema Anti Imperfecciones X 30Ml
+3760269771482,Isispharma Ruboril Cleansing Balm X 100Ml
 38000184932,Papas Fritas Pringles Original X 124 Gr
 38000846731,Pringles Papas Fritas Sabor Original X 37G
 382900121031,Aguja Para Lapicero Insulina 31G Ultra Fina X Unidad
@@ -2785,6 +2805,7 @@
 4059729349040,Esmalte Para Uñas Essence Gel Nail Colour 33
 4059729349194,Esmalte Essence Gel Nail Colour 44 Grape
 4059729349217,Esmalte Para Uñas Essence Gel Nail Colour 46
+4059729355553,Bálsamo Labial Catrice Dark Ruby Glow 010
 4059729356239,Delineador Catrice Kohl Kajal Waterproof 010
 4059729356277,Delineador Catrice Kohl Kajal Waterproof 020
 4059729356314,Delineador Catrice Kohl Kajal Waterproof 030
@@ -2867,6 +2888,7 @@
 4059729418838,Mascara Gel Cejas Catrice Color And Fix 030
 4059729418876,Máscara Catrice Curl It Volumen And Curl 010
 4059729419002,Máscara Catrice Pure Volumen Magic Brown 010
+4059729419095,Crema Iluminadora Catrice Unidader Eye 020
 4059729419101,Rubor E Iluminador  Paleta Catrice Cheek Affair 010
 4059729419200,Contorneador E Iluminador Catrice Magic Shaper 010
 4059729419224,Contorneador E Iluminador Catrice Magic Shaper 040
@@ -2896,6 +2918,8 @@
 4059729421852,Essence Base Magic Filter Glow Booster Tono 20
 4059729421876,Base De Maquillaje Essence I Love Flawless Skin Tono 60
 4059729421913,Base De Maquillaje Essence I Love Flawless Skin Tono 70
+4059729421937,Essence Labial Hydra Kiss Lip Oil 03 Pink Champagne
+4059729422064,Essence Labial Hydra Kiss Lip Oil 01 Kiss From
 4059729422354,Esmalte Gel Essence Nail Colour 64 You Rock
 4059729435170,Base Essence Magic Filter Glow Booster Tono 40
 4059729441973,Máscara  Essence Call Me Queen Dramatic Lash
@@ -2907,6 +2931,8 @@
 4059729444660,Paleta De Sombras Catrice Bloom Slim 020
 4059729444677,Sombra De Ojos Catrice Liquido Deep Matte 030
 4059729444738,Delineador De Ojos Catrice Kohl Kajal Waterproof 150
+4059729444745,Base Instant Perfecting Catrice Soft Mousse 010
+4059729444769,Base Instant Perfecting Catrice Soft Mousse 020
 4059729444882,Primer Catrice Serum Skin Glaze Hydrating
 4059729444905,Rubor Liquido Catrice Blush Affair 010
 4059729444929,Rubor Liquido Catrice Blush Affair 040
@@ -3012,6 +3038,15 @@
 4059729491671,Esmalte Gel Essence Nail Colour 71  Faux Pearl
 4059729491688,Esmalte Gel Essence Nail Colour 72 Left Me On Red
 4059729491756,Esmalte Essence Extreme Last Top Coat Perfect Stay
+4059729513373,Rubor En Barra Catrice Kiss Y Glow C01
+4059729513410,Rubor En Barra Catrice Kiss Y Glow C02
+4059729513458,Iluminador En Barra Catrice Kiss Y Glow C02
+4059729513496,Catrice Kiss Y Glow Tinte Labial Con Peptidos C01
+4059729513533,Catrice Kiss Y Glow Tinte Labial Con Peptidos C02
+4059729513571,Catrice Kiss Y Glow Tinte Labial Con Peptidos C03
+4059729513618,Delineador Labios Catrice Kiss Y Glow Voluminizador C01
+4059729513656,Delineador Labios Catrice Kiss Y Glow Voluminizador C02
+4059729513694,Delineador Labios Catrice Kiss Y Glow Voluminizador C03
 4059729513731,Catrice Kiss Y Glow Balsamo Labial Shimmer C01
 4059729514554,Polvo Iluminador Catrice Under Eye 010
 4059729514769,Máscara De Pestañas Catrice Allround Waterproof Brown Nro. 020
@@ -3020,6 +3055,9 @@
 4059729515711,Brillo Labial Catrice Diamond Glaze 010
 4059729515735,Brillo Labial Catrice Diamond Glaze 020
 4059729515759,Brillo Labial Catrice Diamond Glaze 030
+4059729515797,Tinta Labial Catrice Glass Like 020
+4059729515810,Tinta Labial Catrice Glass Like 030
+4059729515834,Tinta Labial Catrice Glass Like 040
 4059729515896,Labial Volumizador Catrice Plump It Up Nro. 120
 4059729516060,Brillo Labial Catrice Diamond Glaze 040
 4059729516565,Sombra De Ojos Con Brillo Essence Jelly Lewels Topper 01 Golden Glam X 4.2G
@@ -3066,6 +3104,7 @@
 4059729533685,Brillo Labial Catrice Wonder Woman Lip Glaze 010
 4059729533760,Balsamo Labial Catrice Wonder Woman Magic 010
 4059729533807,Balsamo Labial Catrice Wonder Woman Magic 020 Proud
+4059729539755,Peine Essence Polly Pocket 01
 4059729539779,Brillo Labial Essence Polly Pocket Lip Glaze 01
 4059729539830,Máscara De Pestañas Catrice Stay In Place Volume Nro. 010
 4059729539847,Máscara De Pestañas Catrice Hyper Lash Waterproof N.010
@@ -3740,6 +3779,7 @@
 5060351549738,Gel De Baño Corporal I Love Naturals Rose Y Argan X 500Ml
 5060351549851,Jabon Liquido De Manos I Love Rose Y Argan X 500Ml
 5060351549905,Jabon Liquido De Manos I Love Tonka Bean Myrrh X 500Ml
+5060542841368,Gnc Porta Pastillas Organizador 3 Divisiones
 5060565101340,Revox Just Caffeine 5% Serum Contorno Ojos X 30Ml
 5060565101357,Revox Just Hyaluronic Acid 5% Hidra Facial X 30Ml
 5060565101364,Revox Just Niacinamide 10% Hidrat Diario X 30Ml
@@ -3898,6 +3938,7 @@
 608147,Protector Solar Sundown Fps 50 X 120Ml
 608875003609,Colado De Mango Heinz Creciditos X 113 G
 608908,Hilo Dental Reach Menta X Unidad
+610075032600,Placa Plana Recortable Con Aro 44Mm Verde
 610075032624,Placa Plana Recortable C Aro 57Mm Rojo (14603Q)
 610075032648,Placa Plana Recortable C Aro 70Mm Azul (14604Q)
 610075034864,Bolsa Colostomia Con Aro 44Mm Abierta Verde
@@ -4504,7 +4545,9 @@
 701877,Demetech Demecryl Poly Vicryl#2-0 26Mm
 701878,Demetech Demecryl Poly Vicryl #3-0 C/Ag 26Mm
 701881,Demetech Demecryl Poly Vicryl#4-0 C/Ag 17Mm
+701882,Demetech Demelene Prolene #1 C/Ag 36Mm
 701883,Demetech Demelene Prolene #2-0 C/Ag 26Mm
+701884,Demetech Demelene Prolene #3-0 C/Ag 26Mm
 701885,Demetech Demelene Prolene #4-0 2/C/Ags 17Mm
 701886,Demelene Prolene #5-0 Con Aguja 17Mm
 701887,Demetech Demelene Prolene #6-0 2/C/Ags 13Mm
@@ -4513,6 +4556,7 @@
 701891,Demetech Demesilk Seda Negra #3-0 C/Ag 26Mm
 701892,Demetech Demegut Catgut Simple#1 C/Ag 36Mm
 701893,Demetech Demelon Mononylon #4-0 C/Ag 24Mm
+701894,Demetech Demelon Mononylon #5-0 C/Ag 19Mm
 701895,Demetech Demelene Prolene #7-0 2/C/Ags 9Mm
 701896,Histoacryl Adhesivo Tisular
 701897,Electrodo Neutro Dividido Adulto X Sobre
@@ -4544,6 +4588,7 @@
 701936,Seda Negra Silkam # 0 C/Ag 75Cm
 701937,Seda Negra Silkam # 0 C/Ag 75Cm
 701938,Silkam (Seda Negra) # 1 Con Ag 75Cm B0264695(B Braun)
+701939,Seda Negra Silkam # 2-0 C/Ag 75Cm
 701940,Silkam (Seda Negra) # 3-0 Con Ag 75Cm Hr26(B Braun)
 701941,Liga Clip De Titanio Medio/Largo Verde Doble Rama X 6 Clips<Hp>
 701942,Sobre Térmico Para Vacunas 21 X 30Cm Farmacorp X Unidad
@@ -5032,11 +5077,18 @@
 73796380120,Omron Nebulizador De Compresor Infantil X Unidad
 73796612429,Omron Tensiometro Digital De Muneca X Unidad
 73796714222,Monitor De Presión Arterial Omron Automático De Brazo Hem-7142
+740002,Rosuvastatina 10 Mg Genérico X Tableta Recubierta
+740006,Sildenafil 50Mg Genérico X Tableta Masticable
+740008,Flavoxato 200Mg Genérico X Tableta Recubierta
 740041,Diclofenaco 50Mg Y Paracetamol 500Mg Generico X Tableta
 740042,Linagliptina 5Mg Genérico X Comprimido
 740043,Clopidogrel 75Mg Genérico X Comprimido
 740044,Cefepima 1Gr Genérico Im-Iv X Ampolla
 740045,Protamina 1000Ui Iv-Sc Genérico X Ampolla
+740046,Fluoxetina 20Mg Genérico X Cápsula
+740047,Betametasona 4Mg Im-Iv Genérico X Ampolla 1Ml
+740048,Butilbromuro Hioscina 10Mg Genérico X Comprimido
+740049,Gluconato De Calcio 10% Iv Genérico X Ampolla 10Ml
 740050,Butilbromuro Hioscina 20Mg Im-Iv Genérico X Ampolla
 7401036100505,Trental Pentoxifilina 400Mg X Tableta
 7401156601128,Reversal Glucosamina Sulfato 1500Mg Y Meloxicam 15Mg X Sobre
@@ -5667,6 +5719,8 @@
 747975,Pregabalina 150Mg Genérico X Comprimido
 747976,Antiacido Acdx Suspensión X 120Ml
 747977,Heparina 5000Ui Iv-Sc X Ampolla 5Ml
+747978,Hierro Elemental 100Mg Iv  X Amp/5Ml Generico
+747979,Clindamicina 600Mg Iv-Im X 1 Amp/4Ml Generico
 747980,Mesalazina 500Mg Genérico X Comprimido
 747981,Ciprofloxacina 0.3% Colirio Genérico X 5Ml
 747982,Valproato De Sodio 200Mg/Ml Solución Oral Genérico X 40Ml
@@ -6788,6 +6842,7 @@
 7613200217753,Formula Infantil Primalac Ultimate 1 X 400G
 7613200217906,Formula Infantil Primalac Ultimate Comfort X 400G
 7613287649263,Nan Comfort Expert Pro X 800G
+7613326002561,Alecensa Alectinib 150Mg X Cápsula
 7613326003858,Tecentriq Atezolizumab 1200Mg Y 20Ml X Ampolla
 7613326004879,Ocrevus Ocrelizumab 300Mg Y 10Ml X Ampolla
 7613326036993,Phesgo 600/600Mg Sc X 1 Fco/Amp Pertuzumab/Trastuzumab (Frio)
@@ -6823,6 +6878,7 @@
 7640149615432,Herceptin Trastuzumabe 440Mg X Ampolla
 7640149616002,Gazyva Obinutuzumab 1000Mg X Ampolla
 7640149616231,Mabthera 1400Mg Rituximab X Ampolla
+7640149619669,Cotellic Cobimetinib 20Mg X Comprimido
 764451232129,Gel Lubricante Intimo Kiss Efecto Retardante X 100Ml
 764600245123,Carbum 20Mg Esomeprazol X Tableta
 764600245147,Carbum 40Mg Esomeprazol X Tableta
@@ -7700,6 +7756,7 @@
 77308,Broxilin Duo Fuerte Amoxicilina 800Mg X 70Ml
 77309,Diprofen Flu Susp X 100Ml Ibuprof Pseudoefed
 7730900993548,Saponic Persea Gratissima Y Glicine Max X Capsula
+7730925510829,Cisplatino Farmaco Uruguayo 50Mg Iv X Ampolla
 7730953020192,Crema Repelente Replex Familia 7.5% X 200Ml
 7730953020208,Crema Repelente Replex Niños 7.5% X 75Ml
 7730953020215,Repelente Aerosol Replex Deporte 15% X 165Ml
@@ -9606,6 +9663,7 @@
 7770108830382,Calenta 10% Pomada Salicilato De Metilo X 250G
 7770108830405,Repelente Telchi Repelitel X 200Ml
 7770108830870,Micotel Acido Salicilico 2% Solucion X 100Ml
+7770108831006,Bidón Alcohol Etilico 70 X 5 L
 7770108831129,Minoxitel Minoxidil 5% Solucion X 100Ml
 7770108831198,Ungutel Solucion X 30Ml
 7770108831303,Bronceador Telchi De Urucú Spray X 200Ml
@@ -10036,7 +10094,9 @@
 7771260681416,Infusión De Te Negro Bongo Limon Twist X 500Ml
 7771260681423,Infusión De Te Negro Bongo Durazno Twist X 500Ml
 7771260681614,Bebida Láctea Delizia Kefir Sin Azúcar X 1000G
+7771260710079,Cuñapecitos Abizcochados Dulcy Gourmet X180g
 7771260710086,Dulcy Gourmet Cunapecitos Abizcochados X 100Gr
+7771260710093,Dulcy Gourmet Rosquitas Abizcochadas De Maiz X180g
 7771260710109,Dulcy Gourmet Rosquitas De Maiz Abizcochadas X 100Gr
 7771501000044,Azúcar Guabirá Extra Fina X 5Kg
 7771501000051,Azúcar Guabirá Morena X 1Kg
@@ -10169,6 +10229,8 @@
 7771621380460,Té Frío Life Tea Negro Durazno X 500Ml
 7771621380477,Té Frío Life Tea Verde Limón X 500Ml
 7771621380637,Energizante Ciclón Blood Orange Botella X 350Ml
+7771621380675,Bebida Hidratante Zero Boost Mango X 600Ml
+7771621380682,Bebida Hidratante Zero Fusion Sandia X 600Ml
 7771621380699,Gaseosa Salvietti Papaya X 2 Lt
 7771621380705,Bebida Hidratante Activade Mora X 1 L
 7771621380712,Activade Zero Bebida Hidratante X 1Lt Boost Mango
@@ -11762,6 +11824,7 @@
 7791909104632,Factor Dermico Crema X 20G
 7791909105202,Factor A-G Antiespasmodico Gotas X 30Ml
 7791909110800,Nomicon 1% Econazol Nitrato Crema X 30G
+7791909110862,Nomicon Econazol Nitrato 1% Polvo X 20G
 7791909111609,Oleofin Orlistat 120Mg X Capsula
 7791909111692,Remexal Rivaroxaban 15Mg X Comprimido
 7791909111708,Remexal Rivaroxaban 20Mg X Comprimido
@@ -11979,13 +12042,17 @@
 7795367001373,Hidroxiurea Lkm 500Mg X Cápsula
 7795367001755,Olvestran 250Mg Im X2 Jeg Prell Fulvestrant
 7795367003704,Oxitinol Pirfenidona 267Mg X Cápsula
+7795367005463,Bleocris Bleomicina 15Ui Im-Iv-Sc X Ampolla
 7795367005722,Mielozitidina Azacitidina 100Mg Iv-Sc X Ampolla
 7795367053969,Tuberbut Tobramicina 300Mg/5Ml Solución Para Nebulizar X Sobre
 7795367547888,Zyvalix Abiraterona 250Mg X Comprimido
 7795367548397,Cresemba Isavuconazol 100 Mg X Cápsula
 7795367548403,Cresemba 200Mg Isavuconazol Intravenosa X Ampolla
+7795367549066,Ladevina Lenalidomida 10Mg X Cápsula
+7795367549073,Ladevina Lenalidomida 25Mg X Cápsula
 7795367549301,Tirleb Erlotinib 150Mg X Comprimido
 7795367550130,Ambisome Amfotericina B 50Mg Iv X Ampolla
+7795367550604,Rembre Dasatinib 100Mg X Comprimido
 7795368000245,Poenbiotic Ungüento Oftálmico Ciprofloxacino Y Dexametasona X 3.5G
 7795368000573,Gatidex Colirio X 5Ml Gatifloxacina Dexametasona
 7795368001136,Poentobral Plus Colirio X 5Ml Tobramicina Dexameta
@@ -12116,6 +12183,8 @@
 7798035310197,Maximitom Mitomicina20mg Iv X Ampolla
 7798035310241,Varimer 50Mg X 25 Comp Mercaptopurina <Onc>
 7798035310357,Maxidauno 20Mg Iv X 1 Fco/Amp Daunorubicina
+7798035314003,Dacarbazina Varifarma 200Mg Iv X Ampolla
+7798035314409,Unitiob Sunitinib 50Mg X Cápsula
 7798050061401,Densulin R 100Ui Insulina Sc (Frio) X 1 Ampolla
 7798050061418,Densulin N 100Ui Insulina Sc (Frio) X 1 Ampolla
 7798050064297,Densulent 100Ui 3Ml Insulina Glargina (Frio) X Lapicera Prellenada
@@ -14581,10 +14650,13 @@
 830259,Fludarabina 50Mg Iv X 1 Frasco Amp
 830262,Paclitaxel 150Mg X Ampolla
 830263,Cabazitaxel 60Mg X Ampolla
+830264,Daunorubicina 20Mg Iv X Ampolla
 830266,Enzalutamida 40Mg X 112 Capsulas
+830270,Ciclofosfamida Lkm 100Omg Iv X Ampolla
 830276,Enzalutamida 40Mg X 28 Capsulas
 830277,Enzalutamida 40Mg X 56 Capsulas
 830278,Abiraterona 250Mg Fco X 10 Comp <Onc>
+830279,Pazopanib 200Mg X Comprimido
 830280,Asparabil-P Pegaspargasa 3750Ui Im-Iv Frio X Ampolla 5Ml
 830281,Enzalutamida 40Mg X Cápsula
 830282,Imabil 400Mg Imatinib Onc X Comprimido
@@ -15649,6 +15721,7 @@
 8906000523797,Hycid 20Mg Omeprazol X Capsula
 8906000524091,Medox 15Mg Meloxicam X Tableta
 8906000526408,Corilex Ambroxol Clorhidrato 30Mg Y Carbocisteina 200Mg X Tableta
+8906003870164,Pregabalina Suiphar 75Mg X Cápsula
 8906003879587,Cetirizina 10Mg X Tableta
 8906003879600,Suilamer 800Mg Sevelamer X Tableta
 8906003879617,Loratadina 10Mg X Tableta
@@ -15748,6 +15821,7 @@
 8906148530800,Bucosin-Dol Mp Miel Limon Benzocaína / Mentol X Pastilla
 8906148530817,Bucosin-Dol Mp Naranja Benzocaína / Mentol X Pastilla
 8906148530862,Antigripal Mp X Capsula
+8906150831742,Flugal 125/25Mcg Inh Oral X 120 Dosis
 8906158070952,Lobamidol 300Mg Ivs X 1 Amp/50Ml Iopamidol
 8906176183009,Lipotrol E Ácido Bempedoico/Ezetimibe X Comprimido
 8906193890966,Merovish Meropenem 500Mg Iv X Ampolla
