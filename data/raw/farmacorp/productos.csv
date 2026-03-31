@@ -1646,6 +1646,7 @@
 329466,Mascarilla Kn95 Ffp2 5 Capas  Blunding X Unidad
 329467,Durapore 2 Pulgadas
 329468,Difem 28 Levonorgestrel Etinilestrad X Tableta
+329470,Faja Abdominal  Xxl
 329471,Alca Bol Granulado X Sobre
 330026,Elixine 80Mg 15Ml Jbe.X250ml Teofilina
 330027,Antiax Anti Ácido Magaldrato Simeticona X 180Ml
@@ -1904,6 +1905,7 @@
 3510689,Hamsyl 3750Ui Im-Iv X1 Amp 5Ml Pegaspargasa (Frio)
 3510700,Mi Abejita Propomenta Spray X 40Ml Propoleo C Miel
 3510701,Mi Abejita Propoleo Gotas X 35Ml
+3510703,Miel De Abeja Mi Abejita X 500G
 3511000,Gobbifol Propofol 200Mg Y 20Ml X Ampolla
 3511001,Uribeta Interferon Beta 9.6 Millon Ui X Ampolla
 3511002,Bioyetin Eritropoyetina Humana 4000Ui X Ampolla
@@ -2163,6 +2165,7 @@
 3590741,Gift Card Tengo Navidena
 35907410,Pelota De Fútbol Adidas
 35907411,Camiseta Centenario Marathon Versión Jugador Talla 2Xl
+35907412,Camiseta Alterna Centenario Marathon Versión Jugador Talla 2Xl
 3590742,Gift Card Tengo Navidena
 3590743,Gift Card Tengo Navidena
 3590744,Vertixe 10 Mg Vortioxetina X Comprimido
@@ -2225,6 +2228,7 @@
 3599995,Miel Silvestre En Sachet Aceite De Mandarina X 140Gr
 3599996,Miel Silvestre En Sachet Aceite De Naranja X 140Gr
 3599997,Miel Silvestre En Sachet Aceite De Limon X 140Gr
+3600000,Bilergen Od Bilastina 10Mg X Comprimido
 3600001,Gadoclear 604.72Mg/Ml Gadobutrol Intravenosa X 1 Ampolla
 3600064230,Mascarilla N95 X 20 Unidad 3M
 360019,Lavavajillas Mr Flash Rayo Desengrasante 2 Unidades X 500Ml
@@ -2638,6 +2642,7 @@
 4015630067077,Cinta Accu-Chek Instant Gluco X 25 Unidades
 4015630067084,Cinta Accu-Chek Instant Gluco X 50 Tiras
 4015630067145,Glucometro Accu-Chek Instant Kit(Lapiz+Lanc+Tiras)
+4015672113602,Omron Termometro Digital  Flexible Mc-343F
 4016007,Skittles Chocolate X 61.5G
 401620,Skittles Wild Berry X 61.5G
 4019042000059,Preservativo Masculan Sensitive Caja X 3 Unidades
@@ -3049,9 +3054,13 @@
 4059729513694,Delineador Labios Catrice Kiss Y Glow Voluminizador C03
 4059729513731,Catrice Kiss Y Glow Balsamo Labial Shimmer C01
 4059729514554,Polvo Iluminador Catrice Under Eye 010
+4059729514684,Catrice Paleta Sombra Tiny Treasures 010
+4059729514721,Catrice Paleta Sombra Tiny Treasures 030
 4059729514769,Máscara De Pestañas Catrice Allround Waterproof Brown Nro. 020
 4059729514790,Delineador De Ojos Catrice Kohl Kajal Waterproof Nro. 190
+4059729515070,Bronceador Liquido Catrice Melted Sun 015
 4059729515117,Catrice Serum Lazy Day All In One X 28Ml
+4059729515599,Bálsamo Labial Catrice Butter Drippin 030
 4059729515711,Brillo Labial Catrice Diamond Glaze 010
 4059729515735,Brillo Labial Catrice Diamond Glaze 020
 4059729515759,Brillo Labial Catrice Diamond Glaze 030
@@ -3059,6 +3068,8 @@
 4059729515810,Tinta Labial Catrice Glass Like 030
 4059729515834,Tinta Labial Catrice Glass Like 040
 4059729515896,Labial Volumizador Catrice Plump It Up Nro. 120
+4059729515940,Barra Y Delineador Labios Catrice Artist Mate 010
+4059729516008,Barra Y Delineador Catrice Labios Artist Mate 040
 4059729516060,Brillo Labial Catrice Diamond Glaze 040
 4059729516565,Sombra De Ojos Con Brillo Essence Jelly Lewels Topper 01 Golden Glam X 4.2G
 4059729516572,Sombra De Ojos Con Brillo Essence Jelly Lewels Topper 02 X 4.2G
@@ -3138,6 +3149,7 @@
 4059729541529,Bálsamo Labial Catrice Pillow Plush Peptide Nro. 010
 4059729543271,Polvo Facial Essence Superman Beautifying Face
 4059729543349,Mascara De Pestaña Catrice Wonder Woman Glam Y Doll Volume
+4059729545060,Essence Polly Pocket Scented Nail Stickers Uñas 01
 4059729547279,Iluminador Catrice Aura Glam Nro. 010
 4064666040936,Wella Prof Mascarilla X 150Ml Color Motion
 4064666102634,Shampoo Wella Professional Luxeoil Keratin Protect X 200Ml
@@ -3156,6 +3168,7 @@
 4064666579924,Shampoo Wella Profesional Ultimate Repair X 250Ml
 4064666580098,Crema Protectora Wella Profesional Ultimate Repair X 140Ml
 4064666599533,Mascarilla Wella Profesional Ultimate Repair X 150Ml
+4065269015529,Erbitux Cetuximab 5Mg/Ml Iv Frio X Ampolla
 4065406000104,Delineador De Ojos Extreme Black Zeena 010
 4065406000159,Mascara De Pestañas Volumen Extreme Black Zeena 010
 4065406004225,Delineador De Ojos Precisión Waterproof Zeena 010
@@ -3619,6 +3632,7 @@
 48526002429,Set Corta Uñas + Tijeras + Lima De Uñas Nuby 0 Meses Para Adelante
 48526006205,Mordillo Masajeador Nuby 3M+ 620
 48526007448,Set Peine Y Cepillo Nuby 0 Meses Para Adelante
+48526011612,Mamadera De Alimentación Nuby Modelo. 1161 X 120Ml
 48526012978,Vaso Toma Todo Nuby X 360Ml 18M+ Nro. 1297
 48526053056,Dispensador De Leche Nuby 0M+
 48526053124,Set Plato Cucharilla Para Microondas Nuby
@@ -3741,6 +3755,7 @@
 5010993776887,Figura Marvel Surtido 4+ X 24 Cm
 5010993791835,Play Doh Dentista Bromista
 5010993954469,Play Doh Kit Veterinario
+5010996226563,Playdoh-Set Brillante
 5011417549247,Veet Crema Depiladora Para Ducha Piel Sensible X 150Ml
 50116,Novolin N Insulina Humana 100Ui X Caja
 501504,Trazidex Tobramicina 0.003 Y Dexametasona 0.001 Ungüento X 3.5G
@@ -4084,6 +4099,7 @@
 650240070037,Jabón Asepxia Mas Esponja Integrada X 80G
 650240070495,Bebida Hidratante Suerox Coco X 630Ml
 650240072215,Cicatricure Crema Neuro Zen X 50Gr Antiarrugas
+650240073151,Bálsamo Humectante Cicatricure Regene-Plast X 30G
 650240076992,Qg5 Psidium Guajava X Tableta
 653569148746,Playdoh-Set 2 Plastilinas
 653569440888,Hasbro Pet Shop-Con Accesorios
@@ -4295,6 +4311,7 @@
 6941447504307,Miniso Tomatodo Osos Escandalosos X 550Ml
 6941447518106,Miniso Estuche Donald D Collect Caja Organizadora Con Tapa
 6941447591925,Miniso Pequeña Calabaza De Peluche
+6941447592809,Toy Story Collection Round Mouse Pad Hamm
 6941501514235,Miniso Almohada De Cuello Osos Escandalosos
 6941501559090,Miniso Bolso Shoulder Bag Blue
 6941856986985,Paragua Miniso Minimalist Trifold Automatic Sun
@@ -4410,6 +4427,7 @@
 700534,Flextube D/10Mm Circuito Respiratorio Neonatal
 700535,Demelon Nylon Monofilamento #2-0 Con Aguja
 700536,Kit De Nefrostomia Percutannea Snef-08
+700537,Kit De Nefrostomia Percutanea Snef-14
 700538,Demediox Polidioxanon #3-0 Aguj 17Mm 1/2 Circ 30Cm
 700539,Lyostypt X1 Hemostatico De Colageno 3X5 Cm
 700541,Lyostypt X1 Hemostatico De Colageno 10X12 Cm
@@ -4471,6 +4489,7 @@
 701745,Filtro Dializador De Alto Flujo Elisio 170Hr
 701746,Filtro Dializador De Alto Flujo Elisio 150Hr
 701747,Canula Orofaringea # 1 D/70Mm
+701748,Canula Orofaringea # 4 D/40Mm
 701749,Canula Orofaringea # 5 D/50Mm
 701750,Canula Orofaringea # 6 D/60Mm
 701751,Sonda Rectal  18
@@ -4508,6 +4527,7 @@
 701835,Dafilon (Mononylon) # 3-0 C/Ag 75Cm Ds24 (B Braun)
 701836,Monoplus (Hilo Pds) # 4-0 C/Ag 70Cm Hr22 (B Braun)
 701837,Demegut Catgut Crom#4-0 C/Ag 20Mm 224020(Demetech)
+701838,Demegut Catgut Crom#3-0 C/Ag 26Mm 223026(Demetech)
 701839,Demetech Demegut Catgut Crom#2-0 C/Ag 26Mm
 701840,Demetech Demegut Catgut Crom #1 C/Ag 30Mm
 701841,Demetech Demegut Catgut Crom #1 C/Ag 50Mm
@@ -4539,6 +4559,7 @@
 701868,Demegut Catgut Simple2-0 C A 40Mm 232040(Demetech
 701869,Demetech Demegut Catgut Simple#3-0 C/A 26Mm
 701870,Demetech Demelon Mononylon #3-0 C/Ag 19Mm
+701873,Demetech Demelon Mononylon #4-0 20Mm
 701874,Demetech Demecryl Poly Vicryl#3-0 19Mm
 701875,Demetech Demecryl Poly Vicryl#0 40Mm
 701876,Demetech Demecryl Poly Vicryl#1 36Mm
@@ -4571,6 +4592,7 @@
 701906,Novosyn (Poly Vicryl)  0 C Ag 70Cm Hr40s(B Braun)
 701907,Novosyn (Poly Vicryl) #2-0 C/Ag 70Cm Hr37s(B Braun
 701908,Novosyn (Poly Vicryl) # 2 C/Ag 90Cm Hr37s(B Braun)
+701909,Novosyn (Poly Vicryl) # 2 C/Ag 90Cm Hr40s(B Braun)
 701910,Poly Vicryl Novosyn #4-0 C/Ag 70Cm
 701911,Novosyn Poly Vicryl #4-0 Con Aguja 70Cm Hr22
 701912,Poly Vicryl Novosyn #5-0 C/Ag 70Cm
@@ -4611,6 +4633,7 @@
 701962,Bolsa Colectora De Orina Para Pierna
 701963,Silla De Rueda Premium
 701964,Silla De Rueda Standard
+7019645,Muleta Talla S X 1 Par
 701965,Tubo De Aspiracion De Pvc 6Mm X 3Mt-Polymed
 7020125,Solquifar Alcohol Gel X 250Ml
 702180,Tubo Sonda Endotraqueal #5.0 C Balon Oft
@@ -4668,6 +4691,7 @@
 70686,Tussinol Jbe Frasco X 100Ml
 707000,Canula Traqueotomia # 7.5 C Balon
 707387444402,Ioban Pelicula Protectora Adesiva Para Cirugia 3M
+707387789688,Estetoscopio Clasico Iii Ad. Ciruelo Littman
 708033,Gorro Femenino Descartable X Unidad
 70847028406,Monster Energy X 473Ml
 70847037033,Monster Energy Ultra Lata X 473Ml
@@ -4991,6 +5015,9 @@
 722776002735,Endulzante Splenda Stevia En Polvo X 50 Sobres
 722776020012,Endulzante Splenda En Polvo Original X 50 Sobres
 722776020029,Endulzante En Polvo Splenda Original X 100 Sobres
+728370497250,Alfajor Mrs Taste Cookie Wich Chocolate X 50G
+728370497267,Alfajor Mrs Taste Cookie Wich Cookies And Cream X 50G
+728370497274,Alfajor Mrs Taste Cookie Wich Peanut X 50G
 729513104004,Gasa Le Roy Estéril Mediana Compresión 7.5Cm X Unidad
 729513104011,Le Roy Gasa Estéril 10Cm X 10Cm X Unidad
 729513130027,Le Roy Venda Elastica X 5Cm
@@ -5854,6 +5881,7 @@
 7500435213417,Secret Antitranspirante Gel Coconut X 45G
 7500435214773,Shampoo Anti-Frizz Herbal Lavanda X 600Ml
 7500435214797,Shampoo Herbal Pelo Largo Granada X 600Ml
+7500435225373,Afeitadora Gillette Mach3 Carbono
 7500435226073,Acondicionador Herbal Essences Pequi Y Aguacate X 250Ml
 7500435231237,Shampoo Head And Shoulders Anti-Comezon Menta Xtra X 375Ml
 7500435231244,Shampoo Head And Shoulders Anti-Comezon Menta Xtra X 180Ml
@@ -5989,6 +6017,7 @@
 7501299307380,Paramix Nitazoxanida 500Mg X Tableta
 7501299307663,Evocs Iv Levofloxacina 750Mg Y 150Ml X Caja
 7501299307670,Evocs Iii Levofloxacino 750Mg X Tableta
+7501299307687,Evocs Iii Levofloxacino 500Mg X Tableta
 7501299307694,Seltaferon Oseltamivir 75 Mg X Cápsula
 7501299307717,Evocs Iv Levofloxacina 500Mg Y 100Ml X Frasco
 7501299308332,Macrozit Azitromicina 500Mg Iv X Ampolla+Diluyente
@@ -6057,6 +6086,7 @@
 7506339321777,Crema Para Peinar Herbal Detox Hidra Ligera X 300Ml
 7506339323078,Gillette Sport Antitranspirante Spray Training Day X 150Ml
 7506339337525,Maquina De Afeitar Gillette Prestobarba 3 Sensitive X 2 Piezas
+7506339337532,Gillette Prestobarba 3 Blt X 4 Unid Sensitive
 7506339349047,Old Spice Desodorante Body Spray Fresh X 150Ml
 7506339390230,Desodorante Old Spice Leña En Barra X 50G
 7506339390254,Antitranspirante Old Spice Leña Spray X 150 Ml
@@ -7683,6 +7713,8 @@
 7730188270935,Pack Espuma De Afeitar + Bálsamo Lavender Dr. Selby
 7730188270959,Pack De Afeitar Espuma + Bálsamo Sensitive Dr. Selby
 7730188271024,Crema De Afeitar Dr Selby Luxury X 100Gr
+7730188370154,Crema Para Manos Y Cuticulas Dr Selby Avena X 75G
+7730188370239,Crema Para Manos Y Cuticulas Dr Selby Aloe Vera X 75G
 7730188379256,Protector Labial Dr Selby Fps15 X 5.7Ml
 7730188379263,Bálsamo Dr Selby Labial Hidratante X 5.7Ml
 7730188379270,Bálsamo Labial Dr Selby Nutritivo X 5.5Ml
@@ -7866,6 +7898,8 @@
 7730969308949,Nyvem Doxilamina / Piridoxina X Comprimido
 7730969309144,Gliciron Plus 1000 Metformina / Vildagliptina X Comprimido Recubierto
 7730969309151,Gliciron Plus 850 Metformina / Vildagliptina X Comprimido
+7730969309328,Dapaglicin Plus Dapagliflozina 5 Mg Metformina 1000 Mg X Comprimido
+7730969309335,Dapaglicin Plus Dapagliflozina 10 Mg Metformina 1000 Mg X Comprimido
 7730969309342,Sacumic 50 Mg Sacubitrilo/Valsartán X Comprimido
 7730969309359,Sacumic 100 Sacubitrilo / Valsartan X Comprimido
 7730969309366,Sacumic 200 Sacubitrilo / Valsartan X Comprimido Recubierto
@@ -7959,6 +7993,7 @@
 77323,Multigyn Crema Vaginal Miconazol Nitrato 100Mg Y Tinidazol 150Mg X 50G
 77324,Cestoden Albendazol 400Mg X Tableta
 77333,Duforax Plus Clindamicina Clorhidrato 100Mg Y Ketoconazol 400Mg X Ovulo
+7739809692019,Sutura Catgut Croma #1 Aguja 30Mm 1/2 Circ D/75Cm
 7739809692026,Sutura Catgut Croma #1 Aguja 50Mm 1/2 Circ D/90Cm
 7739809692033,Sutura Nylon #3-0 Aguja 19Mm 3/8 Circ D/45Cm
 7739809692040,Sutura Nylon #3-0 Aguja 24Mm 3/8 Circ D/45Cm
@@ -7975,6 +8010,7 @@
 7739809692156,Sutura Nylon #2-0 Aguja 19Mm 3/8 Circ D/75Cm
 7739809692163,Sutura Nylon  #2-0 Aguja 30Mm 3/8 Circulo D/45Cm
 7739809692170,Sutura Nylon #3-0 Aguja 24Mm 3/8 Circ D/75Cm
+7739809692187,Sutura Nylon #3-0 Aguja 30Mm 3/8 Circ D/45Cm
 7739809692194,Sutura Nylon #3-0 Aguja 30Mm 3/8 Circ D/75Cm
 7739809692200,Sutura Nylon #4-0 Aguja 20Mm 3/8 Circ D/45Cm
 7739809692217,Sutura Nylon #4-0 Aguja 24Mm 3/8 Circ D/45Cm
@@ -10072,6 +10108,7 @@
 7771260011336,Sante Plus+ Vitaminas Naranja Limon X 1 Lt
 7771260011343,Sante Plus+ Colágeno Limon X 1 Lt
 7771260011350,Sante Plus+ Biotina Fresa Limon X 1 Lt
+7771260011824,Sante Sport Oriente Petrolero Sabor Frambuesa Limón X 500Ml
 7771260089656,Mi Abejita Propomiel Ad Jarabe X 200Ml
 7771260089854,Mi Abejita Propomiel Junior Jarabe X 200Ml
 7771260110015,La Huerta Barra Chocolate Amargo 100% X 60G
@@ -10400,6 +10437,11 @@
 7771802001078,Té Windsor Canela X 130 Unidades
 7771802001283,Té Clásico Windsor X 130 Unidades
 7771802001573,Mate Ceylan Sabor Manzanilla X 20 Bolsitas
+7771802001610,Papas Fritas Papadan Sabor Original X 120G
+7771802001627,Papas Fritas Papadan Sabor Crema Y Cebolla X 120G
+7771802001634,Papas Fritas Papadan Sabor Queso Cheddar X 120G
+7771802001641,Papas Fritas Papadan Sabor Barbacoa X 120G
+7771802001658,Papas Fritas Papadan Sabor Jalapeño X 120G
 7771802001856,Café Torrado Y Molido Ceylan Tradicional Bolsa X 50G
 7771802001863,Café Torrado Y Molido Ceylan Tradicional Bolsa X 250G
 7771808000006,Café Molido Buena Vista Premium Americano X 250G
@@ -10412,19 +10454,23 @@
 7771817080112,Infusión Frutte Té Verde Con Piña X 25 Unidades
 7771817080143,Infusión Frutté De Coca Caja X 20 Sobres
 7771817080167,Infusión Frutté De Manzanilla X 20 Sobres
+7771817080174,Frutte Infusion Tres Mates X 20 Sobres
 7771817080181,Infusión Frutté De Cedrón X 20 Unidades
 7771817080198,Infusión Frutté De Menta X 20 Sobres
 7771817080235,Infusión Frutté Té Verde X 20 Unidades
 7771817080242,Infusión Frutte Té Verde X 50 Unidades
+7771817080327,Frutte Infusion Surtido De Frutas X 25 Sobres
 7771817081034,Infusión Frutté De Manzanilla X 100 Unidades
 7771817081065,Té Frutté Surtido De Mates X 100 Sobres
 7771817081072,Infusión Frutté Tres Mates Coca Anís Y Manzanilla X 100 Unidades
 7771817081287,Té Frutté Intenso Negro X 20 Sobres
 7771817081379,Infusión Frutte Multiherbal Duérmete X 20 Unidades
+7771817081386,Frutte Infusion No Stress X 20 Sobres
 7771817081423,Infusión Frutte De Piña X 20 Unidades
 7771817081430,Infusión Frutté De Manzana X 20 Unidades
 7771817081454,Infusión Frutte De Frutos Rojos X 20 Unidades
 7771817081515,Frutte Infusion Plan 21 Dias X 42 Unidades
+7771817081553,Frutte Infusion Plan 21 Dias X 42 Sobres Ciruela
 7771817640019,Té Frío Amate Te Verde Piña Jengibre Con Stevia X 500Ml
 7771817640040,Té Frío Amate Negro Menta Maracuyá Con Stevia X 500Ml
 7771817640064,Té Frío Amate Clásico Limón X 500Ml
@@ -10581,6 +10627,8 @@
 7772622211531,Suplemento Foodness Termogénico Caja X 360Gr Jengibre
 7772622212040,Batido Foodness Verde Jengibre / Espirulina X 630G
 7772622212163,Colágeno Alma Nutrients Mega Gen Frutos Rojos X 330G
+7772622212484,Suplemento Vivex Sabor Vainilla X 400G
+7772622212491,Suplemento Vivex Sabor Vainilla X 850G
 7772700000125,Cabrera Cassata Light X 1 Litro  502
 7772700000187,Cabrera Helado Bom Bon Surtido
 7772700000323,Cabrera Milenium Helado Blanco X Unidad
@@ -11262,6 +11310,7 @@
 7778608590416,Cepillo Limpiador De Mamadera / Tetina Gius Amarillo
 7778608590454,Chupete Para Frutas Gius Rosado 6M+
 7778608590478,Chupete Para Frutas Gius Verde Con Amarillo 6M+
+7778608730010,Pasankalla La Luchona X 200G
 7779970310015,Nacho Sabor Picante Nax X 50G
 7779970310107,Nacho Nax Sabor Clásico X 200G
 7779970431437,Lider Cuaderno Engrampado Pleno Medio Oficio X 50 Hojas
@@ -11689,6 +11738,8 @@
 7791130683814,Limpiador Liquido Procenex Pino X 1.8 L
 7791130683845,Limpiador Procenex Blanco Original Liquido X 1800Ml
 7791274000546,Algabo Foot Desodorante Spray Para Pies X 153Ml
+7791274000713,Algabo Jabon Liquido Coco Y Vanilla X 300Ml
+7791274000720,Algabo Jabon Liquido Frutos Del Bosque X 300Ml
 7791274001482,Crema Para Peinar Algabo Liso Keratina X 300Ml
 7791274004377,Algabo Foot Falco Desodorante Para Pies Rosa X 100G
 7791274004391,Acondicionador Algabo Kids Sandia Dulce X 350Ml
@@ -11715,6 +11766,7 @@
 7791274191930,Algabo Men After Shave Locion X 120Ml
 7791274192326,Shampoo Algabo Bebé Extra Suave X 444Ml
 7791274192883,Algabo Men Espuma De Afeitar X 400Ml
+7791274193392,Algabo Jabon Liquido Green Tea X 300Ml
 7791274196485,Algabo Enjuague Bucal Artic Menthol X 500Ml
 7791274196508,Shampoo Algabo Bebé Manzanilla X 444Ml
 7791274196546,Polvo De Fécula Algabo Baby Extra Suave X 200G
@@ -12003,6 +12055,8 @@
 7795334735911,Calcusan Bebe Pomada Dermica Cicatrizante X 50G
 7795334976918,Algicler Diclofenaco Sodico 0.01 Gel X 50G
 7795336000482,Levosimendan Richet 2.5Mg/Ml Iv X Ampolla+Solvente
+7795336291927,Colistina Richet 100Mg Im-Iv X Ampolla
+7795336292726,Remifentanilo Richet 5Mg Iv X Ampolla
 7795336294461,Ertapenem Richet 1Gr Im-Iv X Ampolla
 7795336295031,Daptomicina Richet 500Mg Iv Frio X Ampolla
 7795337862386,Hormo Gyn Estriol 0.5Mg X Óvulos
@@ -12143,6 +12197,7 @@
 7798021295958,Butamol 5Mg Ml Solucion Para Nebulizar Salbutamol X 20Ml
 7798021295972,Adeconce Gotas Vitaminas Adc X 20Ml
 7798021297228,Lafecaina 10% Spray Lidocaina X 50Ml
+7798021299383,Vermectin Ivermectina 6Mg X Comprimido
 7798021440068,Gembio 200Mg Iv Gemcitabina X Ampolla
 7798021440150,Sukuba Pemetrexed 500Mg Iv X Ampolla
 7798021442598,Eritrogen Eritropoyetina Humana 4000Ui X Ampolla
@@ -12660,6 +12715,7 @@
 7800061000758,Tramadol Biosano 100Mg Im-Iv X Ampolla
 7800061000765,Domperidona Biosano 10Mg Im-Iv X Ampolla
 7800061001595,Dobutamina Biosano 250Mg Iv X Ampolla
+7800061020107,Aminofilina Biosano 250Mg Iv X Ampolla
 7800061025102,Amiodarona Biosano 150Mg Iv X Ampolla
 7800061160100,Dopamina Biosano 200Mg Iv X Ampolla
 7800061180108,Ergometrina Biosano 0.2Mg Im-Iv Frio X Ampolla
@@ -12667,6 +12723,7 @@
 7800063001708,Zopiclona 7.5Mg Mintlab X 30 Comprimidos
 7800063003153,Ketoconazol 2% Crema X 20G
 7800063003207,Fluoxetina 20Mg X 20 Comp (Mlab)
+7800063003535,Docivin Domperidona 10Mg X Cápsula
 7800063003542,Azitromicina 500Mg X Comprimido
 7800063003559,Tramadol 50 Mg X Cápsula
 7800063003566,Tamsulosina 0.4Mg Mlab X Comprimido De Liberacion Prolongada
@@ -14041,6 +14098,7 @@
 7896573360626,Jarabe De Yuca Mrs Taste Sabor Maple X 280G
 7896573374012,Mrs Taste Rosquitas Integral Con Coco X 150G
 7896573374029,Mrs Taste Rosquitas Integral Con Cacao X 150G
+7896573379093,Barra Mrs Taste Cookie Bar Trufa De Chocolate X 50G
 7896676400533,Compaz Diazepam 10Mg Y 2Ml X Ampolla
 7896676402087,Dimorf Morfina 10Mg Y 1Ml X Ampolla
 7896676403268,Compaz Diazepam 10Mg X Tableta
@@ -14117,6 +14175,8 @@
 7896902287907,Gel Limpiador Facial Farmax Hidraderm Vitamina C X 120G
 7896902288379,Óleo Capilar Espetacular Farmax Brillo Instantáneo X 90Ml
 7896902288393,Protector Solar Farmax Sunless Fps70 Toque Seco X 200G
+7896902289505,Aceite Corporal Perfumado Farmax Caramelo X 100Ml
+7896902289512,Aceite Corporal Perfumado Farmax Chocolate X 100Ml
 7896902322858,Pack Antimanchas Hidraderm Agua Micelar + Tonico + Sérum Vitamina C
 7896902351838,Pack Antiacne Hidraderm Agua Micelar + Tónico + Sérum Salicílico
 7896969400370,Nucita Crema Sabor A Chocolate Leche Y Avellanas X Unidad
@@ -14578,6 +14638,7 @@
 8059386534632,Astra Tester Juicy Lip Oil X 5Ml N02 Red Oasis
 8059386534649,Astra Tester Juicy Lip Oil X 5Ml N03 Forest Mint
 8059386535035,Máscara De Pestañas Astra Subliminal Waterproof Black X 11Ml
+8059386536292,Skin Stick Astra Solare Viso Spf50 X 11G
 80916642,Mentos Clearbreath Wintergreen X 17.5 Gr
 80918516,Mentos Clearbreath Peppermint X 17.5 Gr
 810028296725,Suplemento Dietético Ghost Size V2 Natty X 375G
@@ -14652,6 +14713,7 @@
 830263,Cabazitaxel 60Mg X Ampolla
 830264,Daunorubicina 20Mg Iv X Ampolla
 830266,Enzalutamida 40Mg X 112 Capsulas
+830269,Ganiset Granisetron 3Mg Iv X 5 Ampollas 3Ml
 830270,Ciclofosfamida Lkm 100Omg Iv X Ampolla
 830276,Enzalutamida 40Mg X 28 Capsulas
 830277,Enzalutamida 40Mg X 56 Capsulas
@@ -15541,6 +15603,7 @@
 8809913830610,Protector Solar Skin1004 Madagascar Centella Tea-Trica Sun Milk Spf50+ X 50Ml
 8809913830627,Serum Facial Skin1004 Tone Brightening Anti Manchas X 50Ml
 8809913830634,Sérum Anti Edad Skin1004 Probio Cica Intensive Ampoule X 30 Ml
+8809913830641,Limpiador Facial Skin1004 Set Doble Limpieza X 125 + 200Ml
 8809913832492,Serum Skin1004 Niacinamida 10 X 30Ml
 8809913832508,Serum Anti Edad Skin1004 Matrixyl 10% X 30Ml
 8809913832515,Serum Anti Edad Skin1004 Retinol 2.0 X 30Ml
@@ -15846,6 +15909,9 @@
 9000322,Belen Vasos Desechables De 250Ml X 100 Unidades
 9000332,Bolsa Para Basura Belen Blanca 35 X 65Cm Primera X 50 Unidades
 90009,Bálsamo Nivea Sensitive X 100 Ml
+9000976,Set Vincha De Conejo Ploma Con Rosado
+9000977,Set Vincha De Conejo Blanca Con Rosado
+9000978,Balde Chico De Colores Pascua Surtido
 900101284685,La Abejita Caramelos Miel Propoleo Matico X 15 Unidades
 900101284692,La Abejita Caramelos Miel Propoleo Wira Wira X 15 Unidades
 900101284708,La Abejita Caramelos Miel Propoleo Jengibre X 15 Unidades
