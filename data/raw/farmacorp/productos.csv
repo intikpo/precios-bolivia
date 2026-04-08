@@ -1862,12 +1862,15 @@
 350881,Electrodo Adulto Comun
 350926,Estetoscopio X Pieza
 350956,Faja Abdominal Talla L X Pieza
+350981,Buzo Multicalor Termoeléctrica X Pieza
+350986,Faja Multicalor Normal Termoeléctrica X Pieza
 3510015,Axn Sosten De Embarazo C Soporte Lumbar  L
 3510036,Axn Tira Protectora Para Rodilla Talla M X Pieza
 3510037,Axn Tira Protectora Para Rodilla Talla L X Pieza
 3510051,Carbogel Bls X 1 L Gel Para Ecg Azul
 3510122,Hojas De Carpeta Paquete X 500 Lider
 3510196,Mi Abejita Propóleo Spray Propomenta X 30Ml
+3510215,Faja Multicalor Vibrotherm Maxi Termoeléctrica X Pieza
 3510223,Hozart 50Mg Losartan X Tableta
 3510225,Leflox 750Mg Levofloxacino X Tableta
 3510229,Bupigobbi Bupivacaina 0.5 Y 4Ml X Ampolla
@@ -1880,6 +1883,7 @@
 3510298,Preparado 450
 3510299,Amoxidin 500Mg Susp X 100Ml Amoxicilina S Naranja
 351030,Axn Tira Protectora Para Rodilla Talla S X Pieza
+3510303,Manta Multicalor Eléctrica Pequeña X Pieza
 3510326,Botiquin Plastico Vanity 16
 3510334,Botiquin Automotriz Kit
 3510341,Encifer 100Mg Iv 5Ml Hierro X Ampolla
@@ -2025,6 +2029,9 @@
 352457,Pelikar Crema De Enjuague Especial X 500Ml
 353020,Aguja Desc #27 X 1 2
 353106,Venda Crepe Cisne X 15Cm
+353515,Faja Vibradoras Multicalor Vibro Therm X Pieza
+353533,Multicalor Vibrotherm Buzo X Pieza
+353534,Multicalor Vibrotherm Sauna
 353538,Multicalor Vibrotherm Sudadera Termoeléctrica X Pieza
 353550,Reina Obrera Propoleo Eucalipto X 60G
 353551,Reina Obrera Propoleo Wira Wira Eucalipto Miel X 60G
@@ -2064,6 +2071,7 @@
 356236,Zepatid Tirzepatida 2.5Mg/0.5Ml Frio X Jeringa Prellenada
 356237,Zepatid Tirzepatida 5Mg/0.5Ml Frio X Jeringa Prellenada
 356239,Leflox Levofloxacino 500Mg X Tableta
+356240,Densimab Denosumab 60Mg/Ml Frio X Jeringa Prellenada
 356244,Foxat Meloxicam 15Mg X Tableta
 356247,Aguja Para Cateter Celsite Aguja22x15mm Pediatrico
 356250,Prazadex  Vonoprazan 20Mg X Comprimido
@@ -2314,6 +2322,7 @@
 3599948,Dacne 7.5% Dapsona Gel X 30Gr
 3599949,Baciflora 4B Probiotico X Ampolla Bebible
 3599993,(Rcta) Dolly Empanada De Pollo
+3599994,Multicalor Triple Slim Faja Térmica X Pieza
 3599995,Miel Silvestre En Sachet Aceite De Mandarina X 140Gr
 3599996,Miel Silvestre En Sachet Aceite De Naranja X 140Gr
 3599997,Miel Silvestre En Sachet Aceite De Limon X 140Gr
@@ -2753,6 +2762,7 @@
 4019042050108,Gel Lubricante Íntimo Masculan Velvet X 50 Ml
 4019042075019,Gel Lubricante Íntimo Masculan Silk X 75Ml
 4019042075026,Gel Lubricante Íntimo Masculan Strawberry X 75Ml
+4019042702267,Preservativo Masculan Ultra Delgado X 3 Unidades
 4022495162779,Askina Transorbent Sacrum 18 X 20 Cm
 4022495258717,Askina Transorbent 10 X 10 Cm
 4022495258762,Askina Transorbent 15 X 15 Cm
@@ -3162,10 +3172,12 @@
 4059729514721,Catrice Paleta Sombra Tiny Treasures 030
 4059729514769,Máscara De Pestañas Catrice Allround Waterproof Brown Nro. 020
 4059729514790,Delineador De Ojos Catrice Kohl Kajal Waterproof Nro. 190
+4059729514950,Rubor En Barra Catrice Blushin Charm 050
 4059729514974,Rubor En Barra Catrice Blushin Charm 030
 4059729515070,Bronceador Liquido Catrice Melted Sun 015
 4059729515117,Catrice Serum Lazy Day All In One X 28Ml
 4059729515438,Aceite Labial Catrice Glossin Glow Tinted 070
+4059729515490,Labial Voluminizador Catrice Melt Y Plump 030
 4059729515575,Bálsamo Labial Catrice Butter Drippin 020
 4059729515599,Bálsamo Labial Catrice Butter Drippin 030
 4059729515612,Bálsamo Labial Catrice Butter Drippin 040
@@ -4613,6 +4625,7 @@
 700505,Set Trocar Cortante Esteril Descar X 12/100Mm
 700506,Malla Polipropileno 15X15cm Optilene (B Braun)
 700507,Sábana Impermeable Descartable 70X90cm
+700508,Sonda Foley 3 Vías Siliconada Nro.18
 700509,Aposito Film Transparente Fenestrado Para Cateter 6.5X7cm
 700510,Aposito Film Transparente Fenestrado Para Cateter 9X12cm
 700515,Aposito De Espuma Absorvente Esteril 7X11cm
@@ -4855,6 +4868,7 @@
 701964,Silla De Rueda Standard
 7019645,Muleta Talla S X 1 Par
 701965,Tubo De Aspiracion De Pvc 6Mm X 3Mt-Polymed
+701966,Sobre Térmico Para Vacunas 21X30cm X Unidad
 7020125,Solquifar Alcohol Gel X 250Ml
 7020126,Solquifar Alcohol En Gel Tapa Slip Top X 500Ml
 7020131,Solquifar Alcohol Gel X 5 L
@@ -6217,11 +6231,13 @@
 7500435242325,Antitranspirante Secret Barra Waterlily X 45G
 7500435242578,Acondicionador Pantene Pro-V 3 Min Miracle Nutricion X 170Ml
 7500435243155,Shampoo Pantene Pro-V Miracles Keratina X 175Ml
+7500435245838,Pack Gillette Prestobarba 3 Filos Carbono
 7500435245852,Pack Gillette Prestobarba 3 Filos Carbono
 7500435247603,Antitranspirante En Barra Old Spice Dragonblast X 50G
 7500435247627,Desodorante En Barra Old Spice Dragonblast X 50G
 7500435247771,Pack Shampoo Head And Shoulders Anti-Comezon Menta X 375Ml+180Ml
 7500435247955,Shampoo Pantene Pro-V Miracles Biotinamina B3 X 250Ml
+7500435248037,Shampoo Pantene Pro-V Miracles Biotinamina B3 X 300Ml
 7500435248044,Acondicionador Pantene Pro-V Miracles Biotinamina B3 X 510Ml
 7500435249331,Hys Shampoo Anti-Resequedad X 650Ml Miel Y Aceites
 7500435249416,Pack Pantene Keratina Shampoo 300Ml+Crema Para Peinar 300Ml
@@ -6273,6 +6289,7 @@
 7501037607567,Energizer Max Aaa X 6 Unidades
 7501054541172,Agua Micelar Nivea Refrescante X 400Ml
 7501056330378,Ponds Bio Hydratante Locion Limpieza Dual X 200Ml
+7501056340124,Crema Para Peinar Sedal Ceramidas X 300Ml
 7501056342999,Shampoo Anticaspa Clear Men Limpieza Diaria 2 En 1 X 400Ml
 7501056344092,Shampoo Anticaspa Clear Men Caída Control X 400Ml
 7501056344221,Shampoo Anticaspa Clear Men Ice Cool Menthol X 400Ml
@@ -9423,6 +9440,7 @@
 7770108082224,Azitromicina 500Mg X Tableta
 7770108082446,Losartan 50Mg X Tableta
 7770108082484,Paracetamol 1Gr Ifa X Comprimido
+7770108082590,Atenolol 100 Mg Ifa X Comprimido
 7770108082781,Metoclopramida 10Mg Ifa X Comprimido
 7770108083450,Frixadol Eucalipto Mentol Y Salicilato De Metilo Unguento X 50G
 7770108083542,Penicilina Ifa Benza 1200000 Ui Im X 1 Ampolla
@@ -10437,6 +10455,8 @@
 7771224003094,Helado Waferito Delizia Sabor Platano X 50Ml
 7771224003117,Delizia Yogurt Familiar Mora X 2 L
 7771224003346,Delizia Vaquita Leche Con Avena X 120Ml
+7771224003438,Delizia Yogurt Bebible Frutilla X 1000G
+7771224003445,Delizia Yogurt Bebible Durazno X 1000G
 7771224003544,Delizia Helado Tentacion Mora X 100Ml
 7771224003551,Delizia Leche Light Uht X 946Ml
 7771224003896,Delizia Yogurt Familiar Durazno X 2 L
@@ -10453,6 +10473,7 @@
 7771224005272,Delizia Yogu Mix Con Grageas De Chocolate X 130G
 7771224005616,Delizia Leche Deslactosada Uht X 946Ml
 7771224005777,Delizia Helado Familiar Granizado X 1 L
+7771224006019,Helado Ricoco Cono Crema Sabor Coco X 100Ml
 7771224006323,Jugo Delizia Ice Frut Citrus Punch X 5 L
 7771224006422,Delizia Yogurt Familiar Frutilla X 2 L
 7771224006606,Delizia Yogurt Griego Bolsa Natural X 1 L
@@ -10466,6 +10487,7 @@
 7771224008891,Delizia Batido Con Proteina Protein Shake X 200G
 7771224008921,Delizia Helado Bambino Pasas Al Ron X 500Ml
 7771224009829,Delizia Leche Deslactosada Light Uht X 800Ml
+7771224009898,Helado Rocky Cono Crema Sabor Vainilla X 100Ml
 7771224300032,Delizia Helado Familiar Frutilla X 1 L
 7771224342032,Delizia Helado Familiar Chirmoya Alegre X 1 L
 7771246000132,Mermelada Candy Frutilla X 320G
@@ -10802,6 +10824,7 @@
 7771621560596,Edulcorante De Mesa De Zero Clásico Líquido X 600Ml
 7771621560602,Endulzante De Zero Sucralosa En Polvo X 50 Sobres
 7771621560756,Leche Apego Kids Frutilla X 200Ml
+7771621560848,De Zero Stevia Edulcorante De Mesa X 600Ml
 7771704000001,Chippitas Papitas Onduladas X 34G
 7771704000056,Chippitas Papitas Picantes X 34G
 7771704000063,Chippitas Papitas Fritas X 34G
@@ -10923,9 +10946,13 @@
 7771718230340,Grageas De Galleta Cubiertas Con Chocolate Condor X 60G
 7771718230364,Grageas De Almendra Cubiertas Con Chocolate Condor X 60G
 7771718230371,Grageas De Almendra Cubiertas Con Chocolate X 260G
+7771718240080,La Reina Mielera Adulto Echinacea X 15 Unidades
+7771718240097,Reina Mielera Infantil Echinacea X 15 Unidades
+7771718240103,La Reina Mielera Spray Echinacea X 30Ml
 7771718240110,Yogumiel Chupete Con Hedera Helix Envase X 15 Unidades
 7771718240127,La Reina Mielera Chupete Con Echinacea Envase X 15 Unidades
 7771718240134,La Reina Mielera Jalea Con Propoleo Envase X 30 Sachet
+7771718240141,Jaleas Yogumiel Con Hedera Helix X 30 Unidades
 7771718240165,La Reina Mielera Miel Con Propoleo Env X 30 Sachet
 7771718300043,Ruat Chocolate Con Leche Y Trocitos De Café X 60G
 7771718300067,Ruat Chocolate Blanco Sabor A Menta X 60G
@@ -11162,6 +11189,7 @@
 7772622211531,Suplemento Foodness Termogénico Caja X 360Gr Jengibre
 7772622212040,Batido Foodness Verde Jengibre / Espirulina X 630G
 7772622212163,Colágeno Alma Nutrients Mega Gen Frutos Rojos X 330G
+7772622212460,Suplemento Alim Vivex Zero Azúcar Niños Sabor Banana X 850G
 7772622212484,Suplemento Vivex Sabor Vainilla X 400G
 7772622212491,Suplemento Vivex Sabor Vainilla X 850G
 7772700000125,Cabrera Cassata Light X 1 Litro  502
@@ -11297,6 +11325,8 @@
 7772905005727,Néctar Pura Vida Frutss Durazno X 2 L
 7772905005741,Néctar Pura Vida Frutss Manzana X 2 L
 77729052658,Pil Yogurt Light Sabor A Frutilla Botella X 1 L
+7773020562188,Miel Con Propoleo Mi Abejita X 200G
+7773020562195,Miel Con Echinacea Mi Abejita X 200G
 7773101001230,Sardina Sabrosa Lata Ovalada 425G
 7773101001247,Sardina Sabrosa Lata Clásica 425G
 7773103000002,Aceite Fino Light X 1.8L
@@ -11404,6 +11434,7 @@
 7773435490151,Jenecheru Palitos Integrales Con Queso X 8 Unidades
 7773435490168,Jenecheru Pan Molde Integral X 350G
 7773435490175,Jenecheru Pan De Leche Empaquetado X 6 Unidades
+7773435490182,Jenecheru Galletas Con Coco X 21 Unidad
 7773435490304,Jenecheru Pan Molde Integral Multicereal X 750G
 7773435530017,Crocsitos Cunapes Abizcochados X 200G
 7773435530062,Cuñapes Crocsitos Abizcochados X 100G
@@ -12305,6 +12336,7 @@
 7790580424619,Gomitas Mogul Moras Berries X 80G
 7790580430436,Oblea Rellena Bon O Bon Break X 45G
 7790580463403,Chocolate Con Leche Arcor Bon O Bon Huevo X 20G
+7790580495893,Cofler Helado Tres Placeres X 500G
 7790580509507,Mermelada Arcor Sabor Durazno X 454G
 7790580509606,Mermelada Arcor Sabor Frutilla X 454G
 7790580524104,Arcor Helado Rocklets Palito X Unidad
@@ -13326,6 +13358,7 @@
 7800060164383,Rovoxa 20Mg Rivaroxaban X Comprimido
 7800060165274,Eurofloxa 500Mg Levofloxacina X Comprimido
 7800060165359,Eurofloxa 750Mg Levofloxacina X Comprimido
+7800060166400,Blaxitec Bilastina 20Mg X Comprimido
 7800060401341,Eurovir 800Mg Aciclovir X Comprimido
 7800060402904,Eurovir 200Mg5ml Aciclovir Suspencion X 100Ml
 7800060403208,Eurovir 5 Aciclovir Crema X 15G
@@ -13458,6 +13491,7 @@
 7801001001903,Blunding Faja Espaldillera Dorso Lumbar Talla S X Pieza
 7801001001910,Blunding Faja Espaldillera Dorso Lumbar Talla M X Pieza
 7801001001927,Blunding Faja Espaldillera Dorso Lumbar Talla L X Pieza
+7801001001989,Inmovilizador De Hombro Talla L
 7801001002146,Bota Inmovilizadora Corta Talla S X Pieza
 7801001002153,Bota Inmovilizadora Corta Talla M X Pieza
 7801001002160,Blunding Bota Inmovilizadora Corta Talla L X Pieza
@@ -14255,6 +14289,21 @@
 7862117789888,Emulsion Noni Multivitamínico Sabor Naranja X 500Ml
 7868000684841,Dr Dry Aclarant Desodorante Cr X 50Ml Antimanchas
 788115394282,C Curcuma Magnesio Zinc Pimienta X 90 Capsulas
+7890541643537,Havaianas Chinela Top Max Azul 39/40
+7890541643544,Havaianas Chinela Top Max Azul 41/42
+7890541643599,Havaianas Chinela Top Max Arena 39/40
+7890541643605,Havaianas Chinela Top Max Arena 41/42
+7890541915177,Havaianas Chinela Top Rosa Nude 35/36
+7890541915184,Havaianas Chinela Top Rosa Nude 37/38
+7890732283061,Havaianas Chinela Top Amarillo 35/36
+7890732283078,Havaianas Chinela Top Amarillo 37/38
+7890732283085,Havaianas Chinela Top Amarillo 39/40
+7890732316325,Havaianas Chinela Slim Café 35/36
+7890732316332,Havaianas Chinela Slim Café 37/38
+7890732316349,Havaianas Chinela Slim Café 39/40
+7890732316479,Havaianas Chinela Slim Negro 35/36
+7890732316486,Havaianas Chinela Slim Negro 37/38
+7890732316493,Havaianas Chinela Slim Negro 39/40
 78907355,Talento Garoto Chocolate Semi Amargo X 25G
 78907461,Talento Garoto Chocolate Avellanas X 25G
 78907478,Chocolate Talento  Do Para Castaña X 25G
@@ -14395,6 +14444,9 @@
 7891079013274,Sopa Nissin Cup Noodles Vaso Pollo Picante X 68G
 7891079013335,Ramen Nissin Sabor Costilla Bolsa X 85G
 7891079013786,Ramen Nissin Sabor Camarón Bolsa X 85G
+7891109263730,Havaianas Chinela Top Rojo 35/36
+7891109263747,Havaianas Chinela Top Rojo 37/38
+7891109263754,Havaianas Chinela Top Rojo 39/40
 7891118025442,Butter Toffees Caramelos Chocolate X 500G
 7891118025503,Butter Toffees Caramelos Leche X 500G
 7891150017337,Dove Acond X 400Ml Oleo Nutricion
@@ -14461,8 +14513,14 @@
 7891187001484,Paño Para Piso Ober Ceniza 60X50cm
 7891187203291,Paño Doble De Piso Bianco Cinza 60X50cm X 1 Unid
 7891187287635,Paño Doble Bianco Para Piso Blanco X 1 Unid
+7891224641284,Havaianas Chinela Casual Blanco Ceniza 39/40
+7891224655724,Havaianas Chinela Casual Ceniza Negro 39/40
+7891224655731,Havaianas Chinela Casual Ceniza Negro 41/42
 78912359,Batón Chocolate Con Leche X 16G
 78912366,Baton Chocolate Blanco X 16G
+7891266725171,Havaianas Chinela Slim Verde Camu 35/36
+7891266725188,Havaianas Chinela Slim Verde Camu 37/38
+7891266827356,Havaianas Chinela Slim Ceniza 35/36
 7891268100648,Sutent Sunitinib 25Mg X 28 Capsulas
 7891268400014,Enjuague Bucal Listerine Cool Mint X 250Ml
 7891317001810,Doceuno 80Mg Iv Docetaxel 1 Frasco Ampolla X 4Ml
@@ -14601,6 +14659,31 @@
 78929395,Antitranspirante Rexona Xtra Cool Roll-On X 50 Ml
 78930643,Caramelos Mentos Tutti Frutti X 29.5G
 78930650,Mentos Magic Masticable Frutales X 29.5G
+7893249025995,Havaianas Chinela Flash Swet Retro Arena 35/36
+7893249026008,Havaianas Chinela Flash Swet Retro Arena 37/38
+7893249026015,Havaianas Chinela Flash Swet Retro Arena 39/40
+7893249026046,Havaianas Chinela Flash Swet Retro Coral 35/36
+7893249026053,Havaianas Chinela Flash Swet Retro Coral 37/38
+7893249026060,Havaianas Chinela Flash Swet Retro Coral 39/40
+7893249058948,Havaianas Chinela Top Athletic Marino 39/40
+7893249058955,Havaianas Chinela Top Athletic Marino 41/42
+7893249059006,Havaianas Chinela Top Athletic Negro 39/40
+7893249059013,Havaianas Chinela Top Athletic Negro 41/42
+7893249090979,Havaianas Chinela Top Vibes Turqueza 35/36
+7893249090986,Havaianas Chinela Top Vibes Turqueza 37/38
+7893249090993,Havaianas Chinela Top Vibes Turqueza 39/40
+7893249091020,Havaianas Chinela Top Vibes Rosa Porcelana 35/36
+7893249091037,Havaianas Chinela Top Vibes Rosa Porcelana 37/38
+7893249091075,Havaianas Chinela Top Vibes Verde 35/36
+7893249091082,Havaianas Chinela Top Vibes Verde 37/38
+7893249091099,Havaianas Chinela Top Vibes Verde 39/40
+7893249131078,Havaianas Chinela Slim Floral Azul 39/40
+7893249131665,Havaianas Chinela Slim Floral Negro 35/36
+7893249131689,Havaianas Chinela Slim Floral Negro 37/38
+7893249131696,Havaianas Chinela Slim Floral Negro 39/40
+7893249210414,Havaianas Chinela Top Camu Vino De Uva 39/40
+7893249211510,Havaianas Chinela Top Camu Verde Olivo 39/40
+7893249211633,Havaianas Chinela Top Camu Vino De Uva 41/42
 7893249214894,Havaianas Slim Cool Verde Talla 35-36
 7893249214900,Havaianas Slim Cool Verde Talla 37-38
 7893249221373,Havaianas Top Max Basic Color Rojo Talla 39-40
@@ -14612,8 +14695,42 @@
 7893249266145,Havaianas Top Verano Coral Tal 35-36
 7893249266152,Havaianas Top Verano Coral Tal 37-38
 7893249266169,Havaianas Top Verano Coral Tal 39-40
+7893249272320,Havaianas Chinela Fantasia Up Blanco 35/36
+7893249272337,Havaianas Chinela Fantasia Up Blanco 37/38
+7893249272344,Havaianas Chinela Fantasia Up Blanco 39/40
+7893249272375,Havaianas Chinela Fantasia Up Amarillo 35/36
+7893249272382,Havaianas Chinela Fantasia Up Amarillo 37/38
+7893249272399,Havaianas Chinela Fantasia Up Amarillo 39/40
+7893249272429,Havaianas Chinela Fantasia Up Verde 35/36
+7893249276748,Havaianas Chinela Fantasia Style Blanco 35/36
+7893249276755,Havaianas Chinela Fantasia Style Blanco 37/38
+7893249276762,Havaianas Chinela Fantasia Style Blanco 39/40
+7893249276793,Havaianas Chinela Fantasia Style Azul 35/36
+7893249276809,Havaianas Chinela Fantasia Style Azul 37/38
+7893249276816,Havaianas Chinela Fantasia Style Azul 39/40
+7893249276847,Havaianas Fantasia Style Rosa Caramelo 35/36
+7893249276854,Havaianas Fantasia Style Rosa Caramelo 37/38
+7893249276861,Havaianas Fantasia Style Rosa Caramelo 39/40
+7893249320038,Havaianas Chinela Slim Paisaje Pink 37/38
+7893249320052,Havaianas Chinela Slim Paisaje Pink 41/42
 7893249404349,Havaianas Slim Paisaje Blanco Verde Talla 37-38
 7893249404356,Havaianas Slim Paisaje Blanco Verde Talla 39-40
+7893249407920,Havaianas Chinela Aero Gaphic Marino Verde 39/40
+7893249495255,Havaianas Chinela Slim Brasil Blanco 35/36
+7893249495354,Havaianas Chinela Slim Brasil Negro 35/36
+7893249495361,Havaianas Chinela Slim Brasil Negro 37/38
+7893249495408,Havaianas Chinela Slim Brasil Marino 35/36
+7893249495415,Havaianas Chinela Slim Brasil Marino 37/38
+7893249594835,Havaianas Chinela Slim Leopard Negro 35/36
+7893249594842,Havaianas Chinela Slim Leopard Negro 37/38
+7893249594934,Havaianas Chinela Slim Leopard Negro Negro 35/36
+7893249665931,Havaianas Chinela Top Max Negro 39/40
+7893249665948,Havaianas Chinela Top Max Negro 41/42
+7893249665993,Havaianas Chinela Top Max Marino 39/40
+7893249724317,Havaianas Chinela Top Athletic Azul Acero 39/40
+7893249766898,Havaianas Chinela Slim Summer Azul 35/36
+7893249766904,Havaianas Chinela Slim Summer Azul 37/38
+7893249766911,Havaianas Chinela Slim Summer Azul 39/40
 78933354,Desodorante Dove Men Roll On Invisible Dry X 50Ml
 7893595839734,Mrs Taste Galleta Arroz Integral Cookies Cream X 22G
 7893595839741,Mrs Taste Galleta Arroz Integral Sabor Morango X 22G
@@ -14627,6 +14744,7 @@
 7895144295961,Mentos Pure Fresh Chicle Wintergreen Sin Azucar X 56G
 7895144297590,Chicle Mentos Vitamins B6-C-B13 X 48G
 7895144298047,Mentos Masticables Yogurt Frutilla X 29.5G
+7895265700344,Havaianas Chinela Brasil Negro 37/38
 7896003700657,Marilan Wafer Galleta X 115G
 7896003700978,Marilan Wafer Galleta Fresa X 115G
 7896003702538,Galleta Marilan Wafer Chocolate Brigadeiro X 115G
@@ -15975,6 +16093,7 @@
 8436097095544,Gel Byphasse Desmaquillante Purificante Fresh X 200Ml
 8436097095582,Byphasse Locion Toni Sensi Fresh Aloe Vera X 500Ml
 8436097095599,Byphasse Locion Purete Agua Y Flor De Naranja X 500Ml
+8436097095605,Byphasse Leche Corp Aceite De Almendras X 500Ml
 8436097095612,Byphasse Leche Corp Aceite De Almendras X 500Ml C/Dosif
 8436097095629,Byphasse Leche Corporal Nutritiva Jalea Real X 500Ml
 8436097095643,Byphasse Leche Desmaquillante Douceur Cara Y Ojos X 500Ml
@@ -16578,6 +16697,7 @@
 8906000526408,Corilex Ambroxol Clorhidrato 30Mg Y Carbocisteina 200Mg X Tableta
 8906000526491,Lipewin H Forte Losartan Potasico 100Mg Y Hidroclorotiazida 25Mg X Tableta
 8906003870164,Pregabalina Suiphar 75Mg X Cápsula
+8906003870171,Pregabalina 150Mg Suiphar X Cápsula
 8906003879587,Cetirizina 10Mg X Tableta
 8906003879600,Suilamer 800Mg Sevelamer X Tableta
 8906003879617,Loratadina 10Mg X Tableta
