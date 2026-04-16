@@ -1,4 +1,5 @@
 ﻿IdProducto,Descripcion
+1000000000045,Pack Colagéno Carolina Belleza X 300G+Batidor
 1000075,Agiolax Granulado X 100G
 100013303454,Paño Clin Multiuso Amarillo X 1 Unidad
 1000133803430,Paño Clin Multiuso Azul X 1 Unidad
@@ -4382,6 +4383,7 @@
 673859090470,Aceite De Primula Xtralife 1000Mg X 60 Capsulas
 673859090487,Cerebrin Xtralife X 60 Cápsulas
 673859100032,Vitamina E Xtralife 1000Ui X 100 Capsulas Blandas
+686141305428,Rompecabezas Aprendiendo Con Amigos Surtido
 686141305596,Rompecabezas Ganja Aventura 3 En 1
 689466605006,Doctor Cure Venditas Color Piel X Unidad
 689466608267,Doctor Cure Venditas Boys X 50 Unidades
@@ -6846,6 +6848,7 @@
 7509552957839,Corrector Liquido Vogue Resist 24H Porcelana 03 X 5Ml
 7509552957846,Corrector Liquido Vogue Resist 24H Avena 05 X 5Ml
 7509552957853,Corrector Liquido Vogue Resist 24H Trigo 04 X 5Ml
+7509552958270,Esmalte Vogue Efecto Gel Graffiti X 14Ml
 7509552958294,Esmalte Vogue Efecto Gel Crew X 14Ml
 7509552958317,Esmalte Vogue Efecto Gel X 14Ml Urbano
 7509552958324,Esmalte Vogue Efecto Gel Identidad X 14Ml
@@ -10094,6 +10097,7 @@
 7770108302483,Flogofen 5% Solucion Spray Etofenamato X 100Ml
 7770108302520,Sales Rehidratación Hidranest Sin Frutas X 300Ml
 7770108302575,Tranest Acido Tranexámico 500Mg X Ampolla / 5Ml
+7770108302636,Hidranest Sales Rehidratación Sabor Frutas X 350Ml
 7770108410010,Activa Levonorgestrel 0.15Mg Y Etinil Estradiol 0.03Mg X 21Gageas
 7770108410034,Eclosynt Beclometasona 50Mcg Aerosol Via Oral X 200 Dosis
 7770108410058,Eclosynt-Nas Beclometasona 50Mcg Aerosol Nasal X 200 Dosis
@@ -10586,6 +10590,7 @@
 7771258300145,Rancheritos Nachos Sabor Clasico X 330G
 7771258300152,Rancheritos Nachos Sabor Picante X 330G
 7771258640135,Pil Tarija Yogurt Aflanado Durazno X 140Ml
+7771258640432,Pil Tarija Leche Light Larga Vida X 920Ml
 7771258640630,Karpil Bebida Saborizada X 200Ml
 7771258640647,Karpil Bebida Saborizada X 900Ml
 7771258640654,Pil Tarija Yogurt Escolar X 90Ml
@@ -11055,6 +11060,7 @@
 7771805000153,Copacabana Café Instantáneo Doypack X 200G
 7771805000207,Copacabana Café Liofilizado Frasco X 200G
 7771805000214,Copacabana Café Liofilizado Doypack X 45G
+7771805000221,Copacabana Café Liofilizado Doypack X 180G
 7771808000006,Café Molido Buena Vista Premium Americano X 250G
 7771808000013,Café Molido Buena Vista Premium Europeo X 250G
 7771808000068,Café Molido Buena Vista A Toda Hora X 500G
@@ -12345,6 +12351,7 @@
 7790580111243,Helado Arcor Bon O Bon Citos X 180G
 7790580111595,Mogul Gomitas Colmillos X 30G
 7790580112400,Arcor Helado Cofler Pote Dulce De Leche X 250G
+7790580115562,Cofler Aireado Bon O Bon X 67G
 7790580116583,Rocklets Mini Chocolate Con Leche X 150G
 7790580116958,Gomitas Dinos Mogul Sin Gluten X 30G
 7790580116965,Mogul Gomitas Extreme X 35G
@@ -14176,6 +14183,7 @@
 7840653009554,T.G. 10Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
 7840653009561,T.G. 12.5Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
 7840653009578,T.G. 15Mg/0.5Ml Tirzepatida Subcutánea Frio+Jeringa X Ampolla
+78411141005461,Ludoxa 50Mg X 30 Cap Lisdexanfetamina (Psico)
 7841134000206,Citol Ciprofloxacina 0.3% Colirio X 10Ml
 7841134000343,Citol Tdt Colirio X 10Ml
 7841134000367,Citol Tobramicina 0.3% Colirio X 10Ml
@@ -14217,6 +14225,7 @@
 7841141005287,Emadian Met Empagliflozina 12.5 Mg Metformina 850Mg X Comprimido
 7841141005294,Emadian Met Empagliflozina 12.5 Mg Metformina 1000Mg X Comprimido
 7841141005324,Tialgin Paracetamol 1G X Comprimido
+7841141005454,Ludoxa 30Mg X 30 Cap Lisdexanfetamina(Psico)
 7841503000172,Galletas Mazzei Crackers Saladas Clásicas X 110G
 7841503000448,Galletas Aventura Mini Chips Dulces Sabor Vainilla X 35G
 7841503001513,Galletas Mazzei Crackers Saladas Clásicas X 330G
@@ -16849,6 +16858,8 @@
 8906085132594,Brainimage Gadopentetato 469Mg X Ampolla
 8906101924134,Zonidex 2Mg Eszopiclona X Comprimido
 8906101924141,Zonidex 3Mg Eszopiclona X Comprimido
+8906101924967,Azenil Xr 14/10Mg X Cápsula Liberación Prolongada
+8906101925018,Azenil Xr 28/10Mg X Cápsula Liberación Prolongada
 8906102570788,Doltrual X 30 Cap Blandas Paracetamol Cafeina
 8906102670719,Ae-Mina X 30 Cap Blandas Vitaminas A E
 8906102670725,Hepamina Silimarina/Complejo B X Cápsula Blanda
