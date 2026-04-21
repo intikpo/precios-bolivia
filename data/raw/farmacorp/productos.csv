@@ -538,9 +538,9 @@
 130505,Triz 5Mg 5Ml Jbe X30ml Cetirizina
 130707387007363,Transpore 3 Pulgadas
 130707387007424,Durapore 1 Pulgada
-1307508,Ketchup De Tomate Heinz Tomato Ketchup 16 14Oz X 397G
-1307605,Ketchup Heinz Tomato 12 20Z X 567G
-1321207,Mostaza Heinz Yellow Mustard 14Oz X 396G
+1307508,Ketchup De Tomate Heinz Tomato Ketchup X 397G
+1307605,Ketchup Heinz Tomato X 567G
+1321207,Mostaza Heinz Yellow Mustard X 396G
 1323LA11,Optiray Loversol 320Mg/Ml Iv X 100Ml
 1323LA87,Optiray 320Mg Ml Iv X 125Ml Jer Prell Ioversol
 1333LA87,Optiray 350Mg Iv X 125Ml Jer Prell Ioversol
@@ -4487,6 +4487,16 @@
 6936570537612,Juego De 3 Bowls Masterpro
 6936570537636,Juego De 2 Tazas Con Plato De Porcelana Masterpro
 6936570537650,Ensaladera De Porcelana Masterpro
+6936570556323,Sartén Masterpro 20X4.3Cm  Naturally
+6936570556347,Sartén Masterpro 24X4.7Cm Naturally
+6936570556361,Sartén Masterpro 28X5.4Cm Naturally
+6936570556385,Wok Masterpro 28X7.9Cm Naturally
+6936570556408,Sartén Grill Masterpro 28X28x4.2Cm Naturally
+6936570556422,Cacerola Con Tapa Masterpro 20X9cm Naturally
+6936570556446,Cacerola Con Tapa Masterpro 24X11cm Naturally
+6936570556460,Cacerola Con Tapa Masterpro 28X12cm Naturally
+6936570556484,Cazo Con Tapa Masterpro 16X7.5Cm Naturally
+6936570556507,Set 3 Pcs Utensilios De Madera Masterpro Naturally
 6936735332854,Paragua Miniso Classic Series Gradient De Mango Largo
 6936735332861,Paragua Miniso Classic Series Poe Mango Largo
 6936906759862,Bolsa De Almuerzo De Mano Miniso Chiikawa
@@ -4673,7 +4683,10 @@
 700515,Aposito De Espuma Absorvente Esteril 7X11cm
 700517,Aposito De Alginato De Calcio Esteril 15X15cm
 700518,Aposito De Alginato De Calcio Esteril 10X10cm
+700519,Compresa Gasa Esteril Algodonada 15X60cm
 700520,Uripen 29Mm P/Incontinencia Urinaria X Unid
+700521,Uripen 32Mm Para Incontinencia Urinaria X Unidad
+700523,Compresa Gasa Esteril Algodonada 15X30cm
 700532,Manipler Az-35W Grapadora P/Piel 783100 (B Braun)
 700533,Hilo Sutura V-Loc 180 # 3-0 30Cm <Hp>
 700534,Flextube D/10Mm Circuito Respiratorio Neonatal
@@ -10837,6 +10850,10 @@
 7771609005231,Jugo Del Valle Fresh Tropical Punch X 2Lt
 7771609005248,Powerade Sour Manzana Verde X 473Ml
 7771609005255,Powerade Sour Manzana Verde X 990Ml
+7771609005262,Powerade Mundial Cool Citrus X 473Ml
+7771609005279,Powerade Mundial Cool Citrus X 990Ml
+7771609005286,Powerade Mundial Citrus Kick X 473Ml
+7771609005293,Powerade Mundial Citrus Kick X 990Ml
 7771611000439,Agua De Mesa Sin Gas Villa Santa Alcalina X 1L
 7771611000446,Agua De Mesa Sin Gas Villa Santa Alcalina X 3L
 77716132,Coca-Cola Original X 1.5 L
@@ -11096,6 +11113,7 @@
 7771817080242,Infusión Frutte Té Verde X 50 Unidades
 7771817080327,Frutte Infusion Surtido De Frutas X 25 Sobres
 7771817080358,Frutté Infusión De Boldo X 20 Sobres
+7771817080365,Frutté Infusión De Moringa X 20 Sobres
 7771817080662,Frutté Infusión Té Forma Limón X 25 Sobres
 7771817081034,Infusión Frutté De Manzanilla X 100 Unidades
 7771817081065,Té Frutté Surtido De Mates X 100 Sobres
@@ -11277,6 +11295,7 @@
 7772622200047,Bio Estevia Polvo Edulcorante X 80G
 7772622210930,Suplemento Alimenticio Alma Nutrients Active +50 Arroz / Quinua X 1K
 7772622211081,Suplemento Alimenticio Foodness Fibra Forte Chía / Quinua X 750G
+7772622211159,Cereal Verde Madre Maíz Arroz Y Amaranto X 300G
 7772622211173,Cereal Verde Madre Maíz Cañahua Y Amaranto X 300G
 7772622211289,Vivex Adulto Complemento Nutricional X 400G
 7772622211302,Suplemento Foodness Fibra Forte X Sobre/20G
@@ -13100,6 +13119,7 @@
 7798216220222,Crema Facial Veganis Nocturna Nutritiva X 30Ml
 7798216220239,Shampoo Veganis Nutri Boost Sublime Palta X 400Ml
 7798216220246,Veganis Acondicionador Nutri Boost Sub X 400Ml Palta
+7798216220253,Veganis Shampoo Para Cabellos Secos Y Maltratados X 400Ml
 7798216220260,Veganis Acondicionador X 400Ml Reparador
 7798216220338,Leche Corporal Veganis Refill Palta Silvestre X 300Ml
 7798216220345,Leche Corporal Veganis Refill Neroli /Oliva X 300Ml
@@ -13122,6 +13142,7 @@
 7798216220741,Acondicionador Veganis Deep Luminous X 400Ml
 7798216220789,Jabón Liquido Veganis Exfoliante Granada Maravillosa X 400Ml
 7798216220802,Jabón Liquido Veganis Exfoliante Mora Patagónica X 400Ml
+7798216220819,Veganis Jabón Liquido Exfoliante X 400Ml
 7798216220826,Mascara Capilar Veganis Coconut Y Calendula X 250Ml
 7798216220833,Mascara Capilar Veganis Hyaluronic Y Vitamina B5 X 250Ml
 7798216222073,Aceite De Ricino Veganis Para Cejas X 10Ml
