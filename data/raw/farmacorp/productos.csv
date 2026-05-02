@@ -1,5 +1,6 @@
 ﻿IdProducto,Descripcion
 1000000000045,Pack Colagéno Carolina Belleza X 300G+Batidor
+1000000000046,Pack Colágeno Carolina Articular X 300G+Batidor
 1000075,Agiolax Granulado X 100G
 100013303454,Paño Clin Multiuso Amarillo X 1 Unidad
 1000133803430,Paño Clin Multiuso Azul X 1 Unidad
@@ -3288,8 +3289,11 @@
 4059729539724,Rubor En Barra Essence Polly Pocket Colour Changing 01
 4059729539731,Iluminador Essence Polly Pocket Tono 01
 4059729539755,Peine Essence Polly Pocket 01
+4059729539762,Fijador En Spray Essence Polly Pocket Hydro Fixing
 4059729539779,Brillo Labial Essence Polly Pocket Lip Glaze 01
 4059729539786,Brillo Labial Essence Polly Pocket Lip Glaze 02
+4059729539793,Brillo Labial Essence Polly Pocket Lip Glaze 03
+4059729539809,Mascarilla Labios Essence Polly Pocket Con Peptidosessence Polly Pocket Peptide Lip Mask Labial 01
 4059729539830,Máscara De Pestañas Catrice Stay In Place Volume Nro. 010
 4059729539847,Máscara De Pestañas Catrice Hyper Lash Waterproof N.010
 4059729539854,Catrice Under Eye Brightener Liquid Nro. 010 X 10Ml
@@ -3884,6 +3888,7 @@
 4893998886086,Volkswagen Lanzador De Auto
 4894680031821,Mini Huevo Zuru Robo Alive Dino Fossil 5+ Surtido
 4894692082743,Tasia So Beats Set 2 En 1 Joyeria Perfumada 5+
+4895115461091,Mi Primer León Sobre Ruedas
 4895115461145,Mi Primera Balanza Apilable
 4895184015416,Hot Wheels Autito Pullback Modelos Surtidos
 4895184026733,Hot Wheels Auto A Control Remoto
@@ -7506,6 +7511,7 @@
 7702026152345,Pañitos Húmedos Pequeñín Acolchamax X 80 Unidades
 7702026153618,Toalla Femenina Nosotras Larga Cur-V X 8 Unidades
 7702026154011,Toallitas Húmedas Pequeñin Avena X 80 Unidades
+7702026154431,Nosotras Invisible Clásica X 8 Unidades
 7702026155025,Pañitos Húmedos Pequeñin Con Aloe Vera X 50 Unidades
 7702026155032,Pañitos Húmedos Pequeñin Con Aloe Vera X 100 Unidades
 7702026160265,Pack Nosotras Buenas Noches X 8 Unidades + Larga X 8 Unidades
@@ -12084,6 +12090,7 @@
 7778608381939,Toallitas Húmedas Ultra Confort Huggies Toallitas Caja X 640 Unidades
 7778608381946,Pack Kotex Normal Extra Suave Con Alas 3 X 10 Unidades
 7778608381953,Pack Kotex Sport Con Alas 3 X 10 Unidades
+7778608382042,Pack Pañales Huggies Active Sec Talla M 2 X 68 Unidades
 7778608382059,Pack Huggies Pañal Active Sec G 2 X 58 Unidades
 7778608382066,Pack Huggies Pañal Active Sec Xg 2 X 48 Unidades
 7778608382073,Pack Huggies Pañal Active Sec Xxg 2 X 44 Unidades
@@ -12842,6 +12849,11 @@
 7792796000687,Valertropina Dexmedetomidina 200Mcg Y 2Ml X Ampolla
 7792796476048,Biascor Labetalol 5Mg Y 4Ml X Ampolla
 7792796476055,Biascor Labetalol 200Mg X Tableta
+7793008017929,Tintura En Shampoo Issue Express Sachet Tono Negro
+7793008017936,Tintura En Shampoo Issue Express Sachet Tono Rubio
+7793008020424,Tintura En Shampoo Issue Express Sachet Tono Rubio Natural
+7793008020431,Tintura En Shampoo Issue Express Sachet Tono Castano Claro
+7793008020448,Tintura En Shampoo Issue Express Sachet Tono Rojo
 77931764,Top Line Seven Chicle X-Plosive Mint X 14G
 7793360005084,Lomo De Atún Del Mar En Agua 170G
 7793397052075,Elopag Eltrombopag 25Mg X 28 Comprimidos
@@ -15217,6 +15229,8 @@
 7896902287907,Gel Limpiador Facial Farmax Hidraderm Vitamina C X 120G
 7896902288379,Óleo Capilar Espetacular Farmax Brillo Instantáneo X 90Ml
 7896902288393,Protector Solar Farmax Sunless Fps70 Toque Seco X 200G
+7896902288904,Farmax Sunless Kids Prot Solar Fps70 X 120Gr
+7896902288928,Protector Solar Facial Sunless Fps70 Sin Color X 60G
 7896902289505,Aceite Corporal Perfumado Farmax Caramelo X 100Ml
 7896902289512,Aceite Corporal Perfumado Farmax Chocolate X 100Ml
 7896902289611,Jabón Líquido Farmax Hidraderm Pitaya X 150Ml
@@ -15506,6 +15520,9 @@
 798190118949,Desincha Te Manzana Con Canela X 30 Unidades
 798190118956,Desincha Te Pina Con Limon X 30 Unidades
 798190118963,Desincha Te Pitahaya Con Blueberry X 30 Unidades
+799192693083,Lactoregen Lactobacillus Acidophilus 340Mg X Sobre
+799192693090,Coxifast Celecoxib 200Mg X Sobre
+799192693106,Ibuceler Ibuprofeno 600Mg X Sobre
 800046,Excellence Tinte 6 X Unidad
 800161,Excellence Tinte 6.1 X Unidad
 800171,Excellence Tinte 71 Rubio Cenizo X Unidad
