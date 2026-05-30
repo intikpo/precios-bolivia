@@ -3553,14 +3553,14 @@
 41554438161,Base De Maquillaje Maybelline Fit Me Warm Nude 128 X 30Ml
 41554438178,Base De Maquillaje Maybelline Fit Me Matte + Poreless Nro. 228 Soft Tan
 41554438185,Base De Maquillaje Maybelline Fit Me Rich 238 Mat+Po X 30Ml
-41554455601,Maybelline Contorneador Master 20 Medium
+41554455601,Contorneador Maybelline Master 20 Medium
 41554470994,Pack Shampoo + Acondicionador Elvive Caida Resist 370Ml
 41554493726,Mascara De Pestañas Maybelline Big Shot Volum Express Nro.224 Very Black
 41554493856,Mascara De Pestañas Maybelline Big Shot Volum Express Nro.226 Very Black
 41554496895,Labial Maybelline Super Stay Matte Ink  05 Loyalist
 41554496901,Labial Maybelline Super Stay Matte Ink 10 Dreamer
 41554496918,Labial Maybelline Super Stay Matte Ink 15 Lover
-41554496925,Labial  Maybelline Super Stay Matte Ink 20 Pioneer
+41554496925,Labial Maybelline Super Stay Matte Ink 20 Pioneer
 41554496949,Labial Maybelline Super Stay Matte Ink Nro.30 Romantic
 41554496987,Labial Maybelline Super Stay Matte Ink 50 Voyager
 41554499742,Maybelline Paleta De Somaybellinera The City Mini Rooftop Bronzes
@@ -3580,7 +3580,7 @@
 41554554472,Labial Maybelline Super Stay Matte Ink Nro.115 Founder
 41554554489,Labial Maybelline Super Stay Matte Ink 120 Artist
 41554554533,Labial Maybelline Super Stay Matte Ink 118 Dancer
-41554558777,Maybelline Labial Matte Ink Crayon Lead The Way 15
+41554558777,Labial Maybelline Matte Ink Crayon Lead The Way 15
 41554558791,Maybelline Labial Matte Ink Crayon Stay Exceptional 25
 41554558845,Labial Maybelline Matte Ink Crayon Own Your Empire Tono 50
 41554559415,Base Maybelline Superstay Full Coverage 118 Light Beige X 30Ml
@@ -3739,7 +3739,7 @@
 43194325092,Elásticos Para Cabello Scunci Hair 15 Piezas Moña Elástica
 43194325788,Mini Clips De Presión Scunci Para Cabello X 6 Unidades
 43194326945,Clip Piraña Scunci Para Sujetar El Cabello
-43194327225,Ligas Scunci Polybands Asst 2000
+43194327225,Ligas Scunci Polybands
 43194333455,Vinchas Para Pelo Scunci X 3 Piezas
 43194351800,Clips De Presión Para Pelo Scunci Modelo Surtido X 5 Piezas
 43194379224,Agarra Pelo Scunci Expandible Ponytailers X 2 Piezas
@@ -4470,6 +4470,8 @@
 673859090463,5 Htp + Melatonina Xtralife X 30 Capsulas
 673859090470,Aceite De Primula Xtralife 1000Mg X 60 Capsulas
 673859090487,Cerebrin Xtralife X 60 Cápsulas
+673859090494,Suplemento Dietario Xtralife Ashwagandha X 60 Cápsula
+673859090548,Suplemento Dietario Xtralife Inositol X 60 Cápsulas
 673859100032,Vitamina E Xtralife 1000Ui X 100 Capsulas Blandas
 686141305428,Rompecabezas Aprendiendo Con Amigos Surtido
 686141305435,Rompecabezas Aprendiendo Con Baby Amigos Surtido
@@ -5562,6 +5564,7 @@
 740006,Sildenafil 50Mg Genérico X Tableta Masticable
 740007,Sildenafil 100Mg Genérico X Tableta Masticable
 740008,Flavoxato 200Mg Genérico X Tableta Recubierta
+740009,Ketorolaco 60Mg Im Generico X Ampolla
 740041,Diclofenaco 50Mg Y Paracetamol 500Mg Generico X Tableta
 740042,Linagliptina 5Mg Genérico X Comprimido
 740043,Clopidogrel 75Mg Genérico X Comprimido
@@ -6587,6 +6590,7 @@
 7506306217669,Limpiador Facial Ponds Fruity Hydra Sandia X 200Ml
 7506306241152,Desodorante Dove Spray Dermoaclarant X 150Ml
 7506306241176,Desodorante Aerosol Invisible Care Dove Serum Pro Ceramidas X 150Ml
+7506306241183,Antitranspirante Dove Aerosol Original 72H X 150Ml
 7506306241206,Dove Desodorante Aerosol Antitranspirante 72H Tono Uniforme X 150Ml
 7506306247895,Agua Micelar Ponds Fruity Hydra Sandia X 300Ml
 7506306248144,Sérum Facial Ponds Vs Manchas Vitamina C X 30G
@@ -6910,7 +6914,7 @@
 7509552892277,Gel Limpiador L'oréal Retinol - Antiedad X 150Ml
 7509552898255,Crema Facial L'oréal Retinol Revitalift - Para Día X 50Ml
 7509552900491,Pack Elvive Shampoo 370Ml + Acondicionador 370Ml Dream Long
-7509552901092,Garnier Nutrisse Tinte # 4460 Borgona
+7509552901092,Tinte Garnier Nutrisse 4460 Borgoña
 7509552902082,Crema Para Peinar Elvive Anti Caida - Cabello Quebradizo X 300Ml
 7509552904819,Aceite Elvive Tratamiento Capilar Extraordinario X 100Ml
 7509552905366,Loreal Hidra-Total 5 Crema Hidratante Y Matificante X 50Ml
@@ -7011,12 +7015,14 @@
 7509552961607,Labial Vogue Labial Oh Q Brillo Imparable X 3Ml
 7509552961621,Labial Vogue Labial Oh Q Brillo Reina X 3Ml
 7509552962512,Serum Para Ojos L'oréal Acido Glicólico Anti-Ojeras X 20G
+7509552962598,Protector Solar Loreal Uv Defender Fps50+ Aquafusion X 50Ml
 7509552963366,Shampoo Elvive Glycolic Cristal X 680Ml
 7509552963373,Acondicionador Elvive Glycolic Cristal X 680Ml
 7509552963380,Acondicionador Elvive Glycolic Cristal X 370Ml
 7509552964189,Shampoo Elvive Glycolic Cristal X 370Ml
 7509552970043,Serum Capilar Elvive Dream Liso X 100Ml
 7509552970524,Crema Para Peinar Elvive Dream Liso X 300Ml
+7509552973136,Crema Garnier Express Aclara Anti Imperfecciones X50ml
 7509552975994,Esmalte Vogue Secado Rapido Baile Intenso X 12Ml
 7509552976007,Esmalte Vogue Secado Rapido Amor Latino X 12Ml
 7509552976014,Esmalte Vogue Secado Rapido Vino Argentino X 12Ml
@@ -7657,6 +7663,10 @@
 7702031318514,Baño Líquido Johnson Antes De Dormir X 200Ml
 7702031604143,Spray Para Peinar Johnson´S Gotas De Brillo Para Niños X 200Ml
 7702031604501,Acondicionador Johnson´S Gotas De Brillo Para Niños X 200Ml
+7702032253111,Colcafe Cafe Instantaneo Clasico X 170Gr Suave
+7702032553761,Colcafe Mezcla P/Preparar Cappucino X 108Gr Clasico
+7702032553778,Colcafe Mezcla P/Preparar Cappucino X 108Gr Vainilla
+7702032553785,Colcafe Mezcla P/Preparar Cappucino X 108Gr Mocca
 7702035432117,Enjuague Bucal Listerine Cool Mint X 180Ml
 7702035833846,Listerine Enj Bucal Cuidado Total X 1 Lt Menta Fresca
 7702057645960,Cure Band Premium Kids Nino Surtido X 20 Unidades
@@ -10443,6 +10453,7 @@
 7770109040490,Dehidrolit S 75 Suero Oral Rehidratante Solución X 150Ml
 7770109040582,Zetalerg Cetirizina 10Mg X Tableta
 7770109041022,Neurotrat Forte Vitamina B1 B6 B12 X Tableta
+7770109041060,C-Vimin 2000Mg Naranja X Sobre
 7770109041084,Quetorol Tram Ketorolaco Tramadol X Tableta Recubierta
 7770109041336,Batrom Azitromicina 250Mg/5Ml Suspensión X 30Ml
 7770109041343,Pentrax Ac 400/57Mg Suspensión X 90Ml
@@ -11683,8 +11694,11 @@
 7773401007635,Mabels Wafer Galleta Rellena Dulce Deleche X 100G
 7773401007642,Mabel Wafer Galleta Rellena Chocolate X 40G
 7773401007659,Mabel Wafer Galleta Rellena Frutilla X 40G
+7773401007673,Galleta Mabels Wafer Sabor Vainilla X 40G
 7773401007772,Mini Galleta Cremositas Chocolate X 24G
 7773401007796,Galleta Rosquitas Mabels Bicolor X 230G
+7773401007819,Galleta Rosquitas Mabels Sabor Coco X 230G
+7773401007833,Galleta Rosquitas Mabels Sabor Leche X 230G
 7773403000078,Victoria Galletas Champaneras X 7 Unidades
 7773403000146,Victoria Marraquete Dulce X 2 Unidades
 7773403000283,Victoria Bizcocho Blanco Bls X 4 Unidades
@@ -12802,7 +12816,9 @@
 7791290792807,Líquido Para Lavar Ropa Skip Bio-Enzimas X 3 L
 7791293004976,Dove Acond X 400Ml Reconstruccion Completa Nf
 7791293005010,Shampoo Dove Reconstrucción Completa + Keratina X 400Ml
+7791293012087,Antitranspirante Dove Men+Care Aerosol X 150Ml
 7791293020280,Desodorante Axe Ice Apollo Spray 48Hr X 150Ml
+7791293022819,Antitranspirante Dove Men+Care Aerosol X 150Ml
 7791293029436,Desodorante Axe Black Spray 48Hr X 150Ml
 7791293030845,Shampoo Sedal Liso Perfecto X 340Ml
 7791293030883,Shampoo Sedal Rizos Definidos X 340Ml
@@ -15221,7 +15237,7 @@
 7896007552214,Pañales Little Swimmers Huggies G - Xg X 10 Unidades
 7896014151141,Nutrisse Ébano Negro Nro. 10
 7896014151172,Nutrisse Nro. 30 Castaño Oscuro
-7896014169009,Loreal Pack Revitalift Antiarr Dia Fps30+Noche
+7896014169009,Pack Loreal Revitalift Antiarrugas Día Fps30 + Noche
 7896014183937,Excellence Tinte 5.1 X Unidad
 7896014184477,Loreal Casting Creme Gloss Nro. 415 Marrón Glace
 7896014184484,Loreal Casting Creme Gloss Color Castanho Claro 500 X Unidad
@@ -15603,7 +15619,7 @@
 7898960942484,Mais Fit Chocolate Semi Amargo X 180Gr
 7898960942576,Mais Fit Flan De Leche Condensada X 180Gr
 7899026462533,Tinte Garnier Nutrisse 1.0 Negro Intenso X Unidad
-7899026462540,Garnier Nutrisse Tinte # 2.0 Negro
+7899026462540,Tinte Garnier Nutrisse 2.0 Negro X Unidad
 7899026462557,Garnier Nutrisse Tinte 3.0 Castano Oscuro X Unidad
 7899026462571,Garnier Nutrisse Tinte 4.0 Castanho X Unidad
 7899026462601,Garnier Nutrisse Tinte 5.0 Castanho Claro X Unidad
@@ -15682,6 +15698,7 @@
 7899706188340,Protector Solar L'oréal Uv Defender Fluido Invisible Fps 50 X 40G
 7899706192019,Gel De Limpieza Garnier Skin Active Vitamina C X 150G
 7899706194273,Garnier Hidratante Serum Gel Vitamina C X 50Ml
+7899706197762,Protector Solar Loreal Uv Defender Fps50+ Con Color X 40G
 7899853806548,Superpel Toalla De Cocina X 2 Rollos
 7899861823704,Desodorante Intimo Tec Racco Spray X 50Ml
 7899861843207,Jabón Intimo Masculino Racco X 180Ml
