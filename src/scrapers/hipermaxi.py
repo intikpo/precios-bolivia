@@ -7,19 +7,18 @@ from pathlib import Path
 from src.config import TIMEOUT, REQUEST_DELAY
 from src.config import DATA_DIR
 from src.utils.auth import get_authenticated_session
+from src.utils.auth import get_bare_headers
 from src.utils.products import productos_unicos
 
 logger = logging.getLogger(__name__)
 
-def get_session() -> tuple:
-    """Crea sesión con headers autenticados"""
-    try:
-        session, headers = get_authenticated_session(TIMEOUT)
-        session.verify = False
-        return session, headers
-    except Exception as e:
-        logger.error(f"Autenticación falló: {e}")
-        raise
+def get_session():
+    session = requests.Session()
+    session.verify = False
+
+    headers = get_bare_headers()
+
+    return session, headers
 
 def get_sucursales(session: requests.Session, headers: dict, base_url: str, 
                    tipo_servicio_filter: list) -> List[Dict]:
