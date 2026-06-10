@@ -1872,7 +1872,10 @@
 350107,Venda Crepe Cisne X 20Cm
 350108,Venda Crepe Cisne X 25Cm
 350109,Spinocan 22G X 1 1/2
+350110,Sonda Epsa Soft Foleyplast Catheter 24 X 42Cm 3 Vias
 3501100,Firenze Finerenona 10Mg X Comprimido Recubierto
+3501101,Supragrel T Ticagrelor 90Mg X Comprimido
+3501102,Esomups Esomeprazol 40Mg X Comprimido
 3501103,Ertavanz Ertapenem 1G Iv X Ampolla
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
@@ -5597,6 +5600,7 @@
 7401156603511,Tazarol Rapid Dexketoprofeno 25Mg X Capsulas Blandas
 7401156604112,Uroberry Cranberry Y Vitamina C X 30 Tabletas
 7401156604211,Uroberry Fem X Tableta
+7401156604419,Uroberry Forte X Tableta
 7401156607113,Serecur Serenoa Repens 320Mg X Capsula Blanda
 7401156610120,Dromadol Diclofenaco 25Mg Y Tramadol 25Mg X Tableta
 7401156611110,Teglinil Silodosin 8Mg X Capsula
@@ -5614,9 +5618,11 @@
 7401156634218,Empiria Empagliflozina 25Mg X Tableta
 7401156634515,Empiria Duo 12.5/850Mg Empagliflozina /Metformina Clorhidrato X Tableta
 7401156634614,Empiria Duo 12.5/1000Mg Empagliflozina/Metformina Clorhidrato X Tableta
+7401156634713,Empiria Complex 10/5Mg X Tableta
 7401156636113,Diagliptin 5Mg Linagliptina X Tableta
 7401156636311,Diagliptin Duo 2.5/850Mg Linagliptina/Metformina Clorhidrato X Tableta
 7401156636410,Diagliptin Duo 2.5/1000Mg Linagliptina / Metformina Clorhidrato X Tableta
+740115663812,Empiria Complex 25/5Mg X Tableta
 740403,Claritromicina 500Mg Generico X Tableta
 740404,Atorvastatina 10Mg Generico X Tableta
 740405,Atorvastatina 20Mg Generico X Tableta
@@ -7507,6 +7513,7 @@
 7640149616002,Gazyva Obinutuzumab 1000Mg X Ampolla
 7640149616231,Mabthera 1400Mg Rituximab X Ampolla
 7640149619669,Cotellic Cobimetinib 20Mg X Comprimido
+7640202651117,Fórmula Infantil Primalac Ultimate Pre X 400G
 764451232129,Gel Lubricante Intimo Kiss Efecto Retardante X 100Ml
 764600245123,Carbum 20Mg Esomeprazol X Tableta
 764600245147,Carbum 40Mg Esomeprazol X Tableta
@@ -9283,6 +9290,9 @@
 7759185011310,Pañal Super Premium Softprotec Babysec Xg X 60 Unidades
 7759185011327,Pañal Super Premium Babysec Gx 66 Unidades
 7759307001755,Tri Azit 500Mg Azitromicina X Tableta
+7759307002820,Idelle Estriol 0.5Mg X Óvulo
+7759307002851,Idelle Estriol 0.1% Crema Vaginal Tubo X 15G
+7759307004121,Donamed F Loperamida 2Mg X Tableta
 7759307006378,Equalax 5Mg Bisacodilo X 100 Tabletas
 7759307007368,Medgynol X 28 Tab Levonorgestrel Etinilestradiol
 7759307008167,Solouna 5 Im 1Ml Noretisterona Estradiol X 1 Ampolla
@@ -9290,6 +9300,7 @@
 7759307008952,Evakua Perlas Picosulfato Sódico 2.5 Mg X Cápsula Blanda
 7759307010399,Metrozol 500Mg Metronidazol Iv Solución Inyectable X 100Ml
 7759307010832,Crema Vaginal Promestine Promestrieno 1% X 15 Gr
+7759307443708,Furoxona Furazolidona 100Mg X Tableta
 7759307618731,Dequazol 500Mg Metronidazol X Tableta
 7759598007313,Digravin X Tableta
 77602004095,Flents Wnc Lens Wipes 6 Ct K409
@@ -12011,6 +12022,8 @@
 7774904406949,Shampoo Revive Aceite De Cusi Sin Sal X 340Ml
 7774904406956,Acondicionador Revive Aceite De Cusi Sin Sal X 340Ml
 7774904407007,Shampoo Carissa Aceite De Cusi Doypack X 800Ml
+7774904407090,Ambientador Todo Brillo Floral X 500Ml
+7774904407113,Ambientador Todo Brillo Brisa Marina X 500Ml
 7774904407175,Reparador De Puntas Revive Con Aceite De Coco X 70Ml
 7774904407243,Revive Protector Solar Fps50+ X 120G
 7774904407250,Revive Protector Solar Fps50+ X 200G
@@ -12550,6 +12563,7 @@
 7790010002936,Aceite Puro Johnson Baby X 200Ml
 7790010002943,Aceite Puro Johnson Baby X 100Ml
 7790010003162,Shampoo Johnson Baby Glicerina Y Vitamina B5x 200Ml
+7790010003179,Shampoo Johnson Baby  Glicerina Y Vitamina B5 X 400Ml
 7790010003186,Johnson Baby Shampoo X 750Ml Glicerina Y Vit B5
 7790010003216,Acondicionador Johnson Kids Gotas De Brillo X 200Ml
 7790010570640,Shampoo Para Bebé Ph Balanceado Johnson Baby X 750Ml
@@ -15067,6 +15081,7 @@
 7891317033118,Carbolitium 300Mg Carbonato De Litio X Comprimido
 7891317033736,Molieri 30 Drospirenona / Etinilestradiol X 21 Comprimidos
 7891317037970,Etrozol 2.5Mg Eurofarma X Comprimido
+7891317040413,Dualdep Duloxetina 30Mg X Cápsula
 7891317040451,Bicerto  Ketoprofeno 150Mg X Comprimido De Liberación Prolongada
 7891317041236,Torante Hedera Helix 15Mg/Ml Jarabe X 100Ml
 7891317044589,Tercef 250Mg /5Ml Cefdinir Suspencion X 100Ml
@@ -17217,6 +17232,7 @@
 8904012415741,Thymogam Globuli Antitim 250Mg Iv Frio X Ampolla
 8904012481418,Hucog Gonadotrofina 5000Ui Im-Sc X Frasco+Ampolla
 8904012482613,Amphonex Amfotericina B 50Mg X Ampolla
+8904012483207,Bsv Humog Hp 75Ui Menotropina Frio X Ampolla
 8904045310020,Asertia Sistema Intrauterino Levonorgestre X Unidad
 8904070010506,Plan 2 Levonorgestrel 0.75Mg X 2 Tabletas
 8904070020154,Colon Fiber 3.5G Psyllium Husk X Sobre
