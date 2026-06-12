@@ -1,6 +1,7 @@
 ﻿IdProducto,Descripcion
 1000000000045,Pack Colagéno Carolina Belleza X 300G+Batidor
 1000000000046,Pack Colágeno Carolina Articular X 300G+Batidor
+1000000000500,Pack Toallitas Humedas Number 1 Baby Suave 4 X 90 Unidades
 1000075,Agiolax Granulado X 100G
 100013303454,Paño Clin Multiuso Amarillo X 1 Unidad
 1000133803430,Paño Clin Multiuso Azul X 1 Unidad
@@ -3883,7 +3884,7 @@
 48107172879,L Arginine Suplemento L Arginina X 125G
 48107172886,L-Citrulline X 91.5G
 48107176969,Vitamin E 1000Ui X 60 Capsulas Blandas
-48107177362,Iron Hierro 18Mg X 90 Cápsulas Gentlesorb Gnc
+48107177362,Iron Hierro Quelato 18Mg Gnc X 90 Cápsulas
 48107177959,Calcio Gnc Kids X 60 Tabletas Masticables
 48107178499,Fórmula Gnc Milestone Kids X 60 Tabletas
 48107178512,Prebiotic Gos X 60 Tabletas (182602) -Gnc-
@@ -8464,6 +8465,7 @@
 7730963251081,Preservativo Prudence Chocolate 3 Unidades X Envase
 7730963251098,Preservativo Prudence Mix 3 Unidades X Envase
 7730963251111,Charlize Levonorgestrel 52Mg Intrauterino Manual X Unidad
+7730963251128,Charlize Levonorgestrel 52Mg Intrauterino Automática X Unidad
 7730963251203,Yuna Desogestrel 75Mcg X 28 Comprimidos
 7730963251302,Nadine Drospirenona / Etinilestradiol X 21 Comprimidos
 7730963251395,Althea Levonorgestrel / Etinilestradiol X 28 Comprimidos
@@ -10992,6 +10994,7 @@
 7771260680945,Helado Delizia Vitamina C Paleta X 70Ml
 7771260681034,Delizia Kefir Bebida Lactea Sin Azúcar X 170G
 7771260681119,Delizia Yogurt Giego Cheesecake Amarena X 170G
+7771260681133,Delizia Yogurt Giego Achachairu X 170G
 7771260681218,Leche Fortificada Delizia Uht Bolsa X 800Ml
 7771260681416,Infusión De Te Negro Bongo Limon Twist X 500Ml
 7771260681423,Infusión De Te Negro Bongo Durazno Twist X 500Ml
@@ -13107,8 +13110,10 @@
 7793742003738,Protector Solar Niño Spray Dermaglos Spf50 X 170Ml
 7793742003776,Protector Solar Dermaglos Spf50 Invisible Aerosol X 170Ml
 7793742004018,Crema Reparadora Bushi Para Pezones X 50G
+7793742007118,Serum Facial Dermaglos Ácido Hialurónico X 30Ml
 7793742007583,Dermaglos Facial Gel De Limpieza Mixta A Grasa X 150G
 7793742007934,Dermaglos Facial Gel De Limpieza Piel Normal X 150G
+7793742108518,Crema Facial Ultra Hidratación Día Y Noche X 50G
 77939753,Top Line Seven Chicle Atomic Strong X 14G
 77940131,Arcor Turrón Y Maní X 25G
 77942432,Mini Rocklets Chocolate Confitado X 10G
@@ -15547,10 +15552,16 @@
 7896902288393,Protector Solar Farmax Sunless Fps70 Toque Seco X 200G
 7896902288904,Farmax Sunless Kids Prot Solar Fps70 X 120Gr
 7896902288928,Protector Solar Facial Sunless Fps70 Sin Color X 60G
+7896902289482,Jabón Líquido Farmax Hidraderm Sandía X 150Ml
 7896902289505,Aceite Corporal Perfumado Farmax Caramelo X 100Ml
 7896902289512,Aceite Corporal Perfumado Farmax Chocolate X 100Ml
+7896902289574,Jabón Líquido Farmax Hidraderm Pistacho X 150Ml
 7896902289611,Jabón Líquido Farmax Hidraderm Pitaya X 150Ml
 7896902289635,Jabón Líquido Farmax Hidraderm Morango X 150Ml
+7896902289680,Óleo Capilar Farmax Nutrición Milagrosa X 90Ml
+7896902289697,Óleo Capilar Farmax Verano Espectacular X 90Ml
+7896902289703,Serum Capilar Farmax Liso Espejo X 90Ml
+7896902289727,Jabón Líquido Farmax Hidraderm Ciruela X 150Ml
 7896902289758,Jabón Líquido Farmax Hidraderm Camomila X 150Ml
 7896902322858,Pack Antimanchas Hidraderm Agua Micelar + Tonico + Sérum Vitamina C
 7896902351838,Pack Antiacne Hidraderm Agua Micelar + Tónico + Sérum Salicílico
