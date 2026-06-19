@@ -1878,6 +1878,7 @@
 3501101,Supragrel T Ticagrelor 90Mg X Comprimido
 3501102,Esomups Esomeprazol 40Mg X Comprimido
 3501103,Ertavanz Ertapenem 1G Iv X Ampolla
+3501104,Tetrafol 400Mcg Folato X Cápsula
 3501105,Uvjira 100Mg Trastuzumab Emtansina Iv Frio X Ampolla
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
@@ -4581,6 +4582,7 @@
 6931562701330,Termómetro Infrarojo De Oído Farmacorp Et-100B X Unidad
 6931604391871,Botella De Plástico Miniso Kuromi Flower X 730Ml
 6933138690666,Huavi H-C74 Cargador De Auto Fm Radio Bluetooth
+6934175037292,Sinocare Glucometro Safe Aq Voice
 6934175037704,Sinocare Cinta Para Glucosa X Unidad
 6935079124910,Pañal Secos Premium M Unisex Para Adulto X 21 Unidades
 6935079124927,Pañal Secos Premium G Unisex Para Adulto X 21 Unidades
@@ -11202,6 +11204,7 @@
 7771706001525,Taboada Chocolate Caja Chocolates Rellenos X 200G
 7771706001693,Taboada Corazon De Chocolate Con Leche X 100G
 7771706001778,Taboada Tableta De Chocolate Con Leche Sin Azúcar X 100G
+7771706001792,Taboada Tableta De Chocolate Blanco Sin Azúcar X 100G
 7771711000001,Barra De Chocolate Con Leche El Ceibo X 100G
 7771711000025,Chocolate El Ceibo En Barra Con Pasas De Uva X 100G
 7771711000254,Chocolate El Ceibo Grageas De Arroz X 50G
@@ -15502,6 +15505,9 @@
 7896699023764,Aspirador Nasal Lolly 2 En 1 Azul 0+
 7896699023788,Aspirador Nasal Lolly 2 En 1 Rosado 0+
 7896699024112,Cepillo De Diente Lolly Masajeador Suave 0-6M Surtido
+7896699025829,Chupete Lolly Dreams Con Tetina De Silicona Azul 0-6M
+7896699025843,Chupete Lolly Dreams Con Tetina De Silicona Rosa 0-6M
+7896699025928,Chupete Lolly Dreams Con Tetina De Silicona Rosa 6+
 7896699029445,Biberón Lolly Boca Ancha Anti Cólicos 3+ Dino X 330Ml
 7896699029452,Biberón Lolly Boca Ancha Anti Cólicos 3+ Unicornio X 330Ml
 7896699029520,Biberón Lolly Boca Ancha Anti Cólicos 3+ Azul X 340Ml
@@ -15514,7 +15520,9 @@
 7896699032247,Chupete Lolly 100% Silicona Transparente 0-6M
 7896699032360,Aspirador Nasal Lolly Respire Bien X Succión
 7896699032568,Biberón Lolly Boca Ancha 3+ Rosa Con Diseño X 300Ml
+7896699032575,Biberón Lolly Boca Ancha 3+ Azul Con Diseño X 300Ml
 7896699032988,Biberón Lolly Boca Ancha Anti Cólicos 3+ Osito X 330Ml
+7896699035026,Biberón Lolly Boca Ancha Con Manija 3+ Rosa X 250Ml
 7896699035033,Biberón Lolly Boca Ancha Con Manija 3+ Azul X 250Ml
 7896704710702,Espuma Carnavalera Reina Mora Bicentenario Chicle X 60Ml
 7896770982560,Pañal Para Adulto Tena Confort Talla L X 20 Unidades
@@ -16572,6 +16580,8 @@
 8429420226265,Isdin Fotoprotector Fusion Water Color Light X 50Ml
 8429420226272,Isdin Fotoprotector Fusion Water Color Bronze Spf50 X 50Ml
 8429420227590,Limpiador Matificante Gel Isdin Acniben 1 X 400Ml
+8429420236769,Mascarilla Purificante Isdin Acniben X 75Ml
+8429420236912,Serum Isdin Retinal Intense X 50Ml
 8429420244191,Isdin Fusion Water Magic Repair Spf50 Color X 50Ml
 8429420248977,Isdin Fotoprotector Fusion Water Magic Spf 50 X 50Ml
 8429420251175,Isdin Fusion Water Magic Repair Spf50 X 50Ml
@@ -16838,6 +16848,7 @@
 8470001682673,Endocare Aquafoam Espuma 125Ml
 8470001724137,Heliocare 360 Protector Solar Spf 50 Gel Oil Free X 50Ml
 8470001743749,Biretix Duo Gel Exfoliante Purificante X 30Ml
+8470001806475,Body Spray Isdin Acniben X 150Ml
 8470001813800,Heliocare Advance Spray Spf 50 X 200Ml
 8470001833761,Nova Fix Ultra Fuerte X 50G
 8470001840660,Kin Oro Limpiadoras X Tableta
@@ -17206,6 +17217,7 @@
 8901120026760,Dapa 10Mg Dapagliflozina X Comprimido
 8901120027002,Serodep Od Escitalopram 10Mg X Comprimido Orodispersable
 8901120027019,Serodep Od Escitalopram 20Mg X Comprimido Orodispersable
+8901120027309,Arilip Od 10Mg Aripiprazol X Comprimido
 8901120027316,Arilip Od 15Mg Aripiprazol X Comprimido
 8901120027705,Dapamet Xr 10/1000Mg Dapagliflozina / Metformina X Comprimido Liberacion Prolongada
 8901120027712,Dapamet Xr 5/1000Mg Dapagliflozina /Metformina X Comprimido Liberación Prolongada
