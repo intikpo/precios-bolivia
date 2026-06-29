@@ -1869,6 +1869,7 @@
 350006,Aceite Oliva Carbonell X 200Ml
 350051,Alcohol Yodado 1% Frasco X 125Ml
 350101,Flamiten Premix 400Mg Sol P/Infusion Iv X 100Ml Ibuprofeno
+350102,Bolsa Para Hielo Ice Bag X 15Cm
 350103,Venda Crepe 10Cm Cisne X Pieza
 350104,Venda Crepe X 10Cm
 350105,Venda Crepe Cisne X 12Cm
@@ -3493,7 +3494,7 @@
 414572400500,Hilo Dental Encerado Dr. Dent Menta Cool Azul X 50Mts
 414572607008,Venditas Transparentes Doctor Cure X 100 Unidades
 414572608005,Doctor Cure Venditas Redondas X 100 Unidades
-414572873205,Dr Dent Cepillo Dental Cheaper Mediano
+414572873205,Cepillo Dental Dr Dent Cheaper Mediano
 41554065862,Mascara De Pestañas Maybelline The Colossal 36H Waterproof 212
 41554069556,Maybelline Mascara Colossal Curl Bounce 10Ml #355
 41554069679,Maybelline Mascara Colossal Curl Bounce 10Ml Waterproof #365
@@ -4811,8 +4812,12 @@
 700508,Sonda Foley 3 Vías Siliconada Nro.18
 700509,Aposito Film Transparente Fenestrado Para Cateter 6.5X7cm
 700510,Aposito Film Transparente Fenestrado Para Cateter 9X12cm
+700511,Aposito Film Transparente Esteril 10X12cm
+700512,Aposito Film Transparente Fenestrado Para Cateter 7X9cm
 700513,Fijador Fenestrado Para Cateter Periferico 5X7.4Cm
+700514,Aposito Film Transparente Con Compresa Absorvente 10X10cm
 700515,Aposito De Espuma Absorvente Esteril 7X11cm
+700516,Aposito Film Transparente Con Compresa Absorvente 10X15cm
 700517,Aposito De Alginato De Calcio Esteril 15X15cm
 700518,Aposito De Alginato De Calcio Esteril 10X10cm
 700519,Compresa Gasa Esteril Algodonada 15X60cm
@@ -5607,9 +5612,12 @@
 740007,Sildenafil 100Mg Genérico X Tableta Masticable
 740008,Flavoxato 200Mg Genérico X Tableta Recubierta
 740009,Ketorolaco 60Mg Im Generico X Ampolla
+740010,Enoxaparina 40Mg Sc Genérico 0.4Ml X Jeringa Prellenada
 740011,Amoxicilina+Ácido Clavulánico 250/62.5Mg Suspensión Genérico X 100Ml
+740012,Micofenolato Mofetilo 500Mg Genérico X Comprimido
 740013,Montelukast 5Mg Genérico X Comprimido Masticable
 740014,Montelukast 10Mg Genérico X Comprimido Masticable
+740015,Ertapenem 1G Im-Iv Genérico X Ampolla
 740041,Diclofenaco 50Mg Y Paracetamol 500Mg Generico X Tableta
 740042,Linagliptina 5Mg Genérico X Comprimido
 740043,Clopidogrel 75Mg Genérico X Comprimido
@@ -5665,10 +5673,12 @@
 740985222638,Calcio Magnesio Zinc + D3 21 Century X 90 Tabletas
 740985227138,Magnesio 250Mg 21 Century  X 110 Tabletas
 740985238561,Triple Omega Complex 3-6-9 21 Century  X 60 Cápsulas Blandas
+74098524447,Vitamina C 1000Mg 21 Century X 60 Tabletas
 740985244500,Acido Folico 800Mcg 21 Century X 90 Tabletas
 740985244517,Melatonina 5Mg 21 Century X 60 Tabletas
 740985244524,Biotin 5000Mcg 21 Century X 60 Cápsulas
 740985271117,Vitamina D3 2000Ui 21 Century X 110 Tabletas
+740985275290,Calcio 600+D3 21 Century X 75 Tabletas
 740985276198,Multivitaminas 21 Century Zoo Friends Multi Gummies X 60 Gomitas
 74108056085,Peine De Bolsillo Individual Conair
 74108133854,Conair Icy Pastel Shower Comb Peine 13385Z
@@ -5795,9 +5805,9 @@
 74312413834,Suplemento Dietético Natures Bounty Hierro 65Mg X 100 Tabletas
 74312516979,Suplemento Alimenticio Biotin 10000Mcg Natures Bounty X 120 Capsulas Blanda
 74312535451,Gomitas Nature's Bounty Hair Skin Nails 2500Mcg X 80 Unidades
-743431873224,Dr Dent Cepillo Regular Pack X 3 Unid Mediano
-743431873330,Dr Dent Cepillo Regular Pack X 3 Unid Duro
-743431878465,Dr Dent Cepillo Aqua Pack X 2 Unid Mediano
+743431873224,Pack Cepillo Regular Dr Dent X 3 Unidades
+743431873330,Pack Cepillo Regular Dr Dent Duro X 3 Unidades
+743431878465,Cepillo Aqua Dr Dent Mediano X 2 Unidades
 74343391149,Toallitas Húmedas Doctor Baby Pocoyo Hipoalergénico X 100 Unidades
 74343391354,Toallas Húmedas Doctor Baby Pocoyó X 100 Unidades
 74343405105,Hilo Dental Dr. Dent Encerado Chicle X 50Mts
@@ -5810,6 +5820,8 @@
 74343608742,Venditas Doctor Cure Para Ninos X Unidad
 74343706448,Dr Dent Kids Pasta 3 Anhos En Adelante Sirenita X 50G
 74343706554,Dr Dent Pasta Dental Ninos 3+ X 50Gr Frutilla
+74343881015,Cepillo Dental Dr Dent Super Max Mediano
+74343890123,Cepillo Dental Dr Dent Super Tex Mediano
 743877049535,Loreal Pack Revitalift Acido Hialuro Dia+Noche
 7441008154600,Kotex Tampones Con Aplicador Tamaño Medio X 8 Unidades
 7441008154617,Kotex Tampones Con Aplicador Tamaño Super X 8 Unidades
@@ -6292,6 +6304,8 @@
 747981,Ciprofloxacina 0.3% Colirio Genérico X 5Ml
 747982,Valproato De Sodio 200Mg/Ml Solución Oral Genérico X 40Ml
 747983,Linezolid 600Mg Generico X 10 Comprimidos
+747984,Colistina 100Mg Im-Iv Genérico X Ampolla
+747985,Fluticasona Sameterol 125/25Mcg Genérico X 120 Dosis
 748927023848,Creatina Micronized Power X 300G
 748927024111,On 100% Whey Protein French Vanilla Proteina X 907G
 7500073678371,Pack Downy Suavizantes 2 Floral / Amanecer X 700Ml
@@ -7091,6 +7105,7 @@
 751002,Cefradina 500Mg Generico X Capsula
 751003,Ibuprofeno 600Mg Generico X Tableta
 751004,Acetilcisteina 600Mg Genericox Sobre
+751005,Etilefrina 10Mg/Ml Sc-Im-Iv Genérico X Ampolla
 751006,Lagrimas Artificiales Colirio Generico X 20Ml
 751007,Azitromicina 200Mg 5Ml Susp X 30Ml Generico Li
 751008,Acetazolamida 250Mg Generico X Tableta
@@ -7525,6 +7540,7 @@
 7622201390013,Ritz Galleta Salada Sabor A Queso X 30G
 7622201390037,Galletas Saladas Rits Tubo X 52.5G
 7622201390235,Ritz Galleta Salada Sabor Queso Paquete X 216G
+7622201400729,Galletas Oreo Cookies And Cream X 36G
 7622201693138,Galleta Oreo Tubo Rellenas Sabor Vainilla X 108G
 7622201717537,Club Social Galleta Paquetee X 216G Original
 7622201717544,Club Social Galleta Original X 24G
@@ -7537,6 +7553,7 @@
 7622202317880,Galleta Oreo Selena Gomez Sabor Canela Y Leche Tubo X 108G
 7622202319761,Galletas Oreo Selena Gomez Sabor Canela Y Lechex 216G
 7622202395130,Chicle Trident X Splash Sandia Limon X 9 Unidades
+7622210110244,Galletas Oreo Rellenas Sabor Vainilla X 36G
 7622300279783,Galletas Dulces Field Sabor Vainilla X 37G
 7640107470042,Broncho Vaxon Infantil 20Mg X Sobre
 7640107470202,Dicynone 500Mg Etamsilato X Capsula
@@ -10559,6 +10576,7 @@
 7770109041756,Skorpia Semaglutida 0.25Mg Frio X Jeringa Prellenada
 7770109150014,Miel De Abeja Ecolmena X 920G
 7770109150038,Miel De Abeja Ecolmena X 460G
+7770109430017,Toallas Húmedas Problock Baby Wipes Hipoalergénicas X 100 Unidades
 7770109430024,Toallas Húmedas Problock Hipoalergénicas Baby Wipes X 50 Unidades
 7770109430048,Toallitas Húmedas Problock Wipes Aloe X 100 Unidades
 7770109430055,Toallitas Húmedas Problock Wipes Aloe X 50 Unidades
@@ -15819,6 +15837,10 @@
 7899026462656,Garnier Nutrisse Tinte # 6.6 Rojo Intenso
 7899026479395,Loreal Casting Cr Gloss # 100 Negro Rico
 7899592821017,Desincha Te Dia X 60 Unidades
+7899620665101,Pote De Vidrio Hermético Ou Fresh Lock Negro 725Ml
+7899620665125,Pote De Vidrio Hermético Ou Fresh Lock Negro 1200Ml
+7899620665149,Pote De Vidrio Hermético Ou Fresh Lock Negro 240Ml
+7899620669338,Pote Hermético Con Medidor Ou Drop Tapa Negra 1.5L
 7899620685154,Pote Hermético Ou Drop Con Medidor Negro 1L
 7899621100021,Suplemento 100% Hiper Masa Atlhetica Sabor Fresa X 2.5Kg
 7899621100540,Bebida Isotónica Atlhetica Go Sabor Lima Limón X 900G
@@ -17524,6 +17546,7 @@
 8906104084163,Rivamus 15Mg Rivaroxaban X Comprimido
 8906104084170,Rivamus 20Mg Rivaroxaban X Comprimido
 8906104084347,Relitril-V 50 Sacubitril Valsartan X Tableta Recubierta
+8906104084361,Relitril-V 100 Sacubitrilo Valsartan X Tableta
 8906104084613,Reliprofen Dexketoprofeno 25Mg X Tableta Recubierta
 8906104981035,Enzar Forte X 30 Comp
 8906104981233,Cortex 30Mg Im-Iv X 3 Amp 1Ml Ketorolaco
