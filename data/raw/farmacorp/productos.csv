@@ -4324,7 +4324,7 @@
 610985012242,Elvive Pack Shampoo+Acond 370Ml Dream Liso
 612197111119,Enterex Espesante X 227G
 612197125000,Enterex Total Vainilla Suplemento Alimenticio X 400G
-612197152006,Abintra Suplemento Alimenticio Sabor Naranja X 27G
+612197152006,Suplemento Alimenticio Abintra Sabor Naranja X Sobre
 612197160001,Suplemento Alimenticio Enterex Protical Vainilla X 420G
 612197711104,Suplemento Alimenticio Enterex Glutapak-10 Sobre X 10G
 612197877770,Suplemento Alimenticio Inmunex Plus Vainilla X 131G
@@ -5819,7 +5819,7 @@
 74343608704,Venditas Doctor Cure Para Niñas X Unidad
 74343608742,Venditas Doctor Cure Para Ninos X Unidad
 74343706448,Dr Dent Kids Pasta 3 Anhos En Adelante Sirenita X 50G
-74343706554,Dr Dent Pasta Dental Ninos 3+ X 50Gr Frutilla
+74343706554,Pasta Dental Niños Dr Dent 3+ Frutilla X 50G
 74343881015,Cepillo Dental Dr Dent Super Max Mediano
 74343890123,Cepillo Dental Dr Dent Super Tex Mediano
 743877049535,Loreal Pack Revitalift Acido Hialuro Dia+Noche
@@ -9205,7 +9205,7 @@
 7753658003512,Crema Betyderm Plus X 15G
 7754111012232,Marcador Faber Castell Fiesta X 24 Colores
 7754111012256,Faber Castell Marcador Fiesta X 36 Colores Rigido
-7754111012812,Marcador Faber Castell Colores Fiesta X 12 Unidades
+7754111012812,Marcador Fiesta Faber Castell X 12 Colores
 7754111016018,Marcador Para Pizarra Faber Castell 123 Rojo
 7754111016070,Marcador Para Pizarra Faber Castell 123 Azul
 7754111016131,Marcador Para Pizarra Faber Castell 123 Negro
@@ -17627,6 +17627,57 @@
 900113A,Combo Arrurrú Shampoo Cabello Oscuro 750Ml + Shampoo Suavidad y Humectación 400Ml
 900114A,Combo Arrurrú Shampoo Cabello Claro 750Ml + Shampoo Suavidad y Humectación 400Ml
 900115A,Combo Arrurrú Shampoo Baño Líquido 750Ml + Shampoo Suavidad y Humectación 400Ml
+900116A,Combo Máscara de Pestañas The Sky High 802 + Brillo Labial Lifter Gloss 003 Moon
+900117A,Combo Brillo Labial Lifter Gloss Silk 004 + Labial Super Stay Vinyl Ink 35 Cheeky
+900118A,Combo Labial Teddy Tint Skinny + Labial Teddy Tint Faux Freckle
+900119A,Combo Máscara de Pestañas The Sky High 802 + Agua Micelar Garnier Skin Active X 100Ml
+900120A,Combo Máscara de Pestañas The Sky High 802 + Brillo Labial Lifter Gloss 008 Stone
+900121A,Combo Labial Super Stay Vinyl Ink 35 Cheeky + Brillo Labial Lifter Gloss 011 Brass
+900122A,Combo Máscara de Pestañas The Sky High 802 + Labial Vinyl Ink Peppy 115
+900123A,Combo Máscara de Pestañas The Sky High 802 + Labial Vinyl Ink 120 Punchy
+900124A,Combo Máscara de Pestañas The Sky High 802 + Labial Vinyl Ink 55 Royal
+900125A,Combo Agua Micelar Garnier Skin Active + Máscara de Pestañas The Sky High 802
+900126A,Combo Labial Super Stay Vinyl Ink 35 Cheeky + Brillo Labial Lifter Gloss 005 Peach
+900127A,Combo Base Super Stay 30H Lumi-Mate 119 + Iluminador Sunkisser 20 Kiss Of Shimmer
+900128A,Combo Base Super Stay 30H Lumi-Mate 120 + Rubor Sunkisser 03 Sol
+900129A,Combo Base Super Stay 30H Lumi-Mate 125 + Rubor Sunkisser 31 Summer
+900130A,Combo Base Super Stay 30H Lumi-Mate 132 + Rubor Sunkisser 34 Peachy
+900131A,Combo Base Super Stay 30H Lumi-Mate 310 + Rubor Sunkisser 33 Berry
+900132A,Combo Esmalte Vogue Brillo Secado Rápido + Esmalte Vogue Brisa Tropical
+900133A,Combo Esmalte Vogue Brillo Secado Rápido + Esmalte Vogue Sol Playero
+900134A,Combo Esmalte Vogue Brillo + Esmalte Vogue Beso Picante
+900135A,Combo Esmalte Vogue Brillo Diamante + Esmalte Vogue Gel Eterna
+900136A,Combo Esmalte Vogue Brillo Diamante + Esmalte Vogue Gel Energía
+900137A,Combo Esmlate Vogue Brillo Diamante + Esmalte Vogue Gel Guayaquil
+900138A,Combo Esmalte Vogue Brillo Diamante + Esmalte Vogue Gel Armonia
+900139A,Combo Esmalte Vogue Brillo + Esmalte Vogue Gel Voluntad
+900140A,Combo Esmalte Vogue Fantastic Campari 36 + Esmalte Vogue Brillo Rápido Secado
+900141A,Combo Máscara de Pestañas Vogue Efecto Total + Delineador Líquido Vogue Colorissimo
+900142A,Combo Máscara de Pestañas Vogue Efecto Total + Labial Vogue Resist Encantadora
+900143A,Combo Máscara de Pestañas Vogue Resist + Labial Vogue Resist Poderosa
+900144A,Combo L'oreal Revitalift Retinol Noche + Serum Ácido Hialurónico
+900145A,Combo L'oreal Ácido Hialurónico + Protector Solar Uv Defender Fluido Invisible
+900146A,Combo L'oreal Ácido Hialurónico + Protector Solar Uv Defender Fps50
+900147A,Combo L'oreal Ácido Hialurónico + Crema Facial Ácido Hialurónico
+900148A,Combo L'oreal Serum Antimanchas + Crema Día Antimanchas Fps30
+900149A,Combo L'oreal Serum Antimanchas + Protector Solar Uv Defender Con Color
+900150A,Combo Garnier Serum Aclara Nocturno + Serum Skin Active
+900151A,Combo Garnier Serum Anti Acné Express Aclara + Gel Limpiador Anti Acné
+900152A,Combo Garnier Serum Anti Acné Express Aclara + Serum Protector Solar Super Uv
+900153A,Combo Garnier Serum Skin Active + Serum Protector Solar Uv Fps50
+900154A,Combo Garnier Microexfoliante Aclara Anti Acné + Serum Anti Acné Express Aclara
+900155A,Combo Garnier Serum Skin Active + Crema Express Aclara Fps30
+900156A,Combo Elvive Shampoo + Acondicionador + Serum Capilar Dream Liso
+900157A,Combo Elvive Shampoo Anticaída + Serum Capilar Anticaída
+900158A,Combo Elvive Serum Capilar Dream Liso + Aceite Capilar Extraordinario
+900159A,Combo Elvive Shampoo + Acondicionador Hialurónico Pure
+900160A,Combo Elvive Shampoo + Acondicionador Glycolic Gloss + Aceite Capilar Extraordinario
+900161A,Combo Garnier Fructis Tratamiento Capilar Coco + Shampoo Hair Food Coco
+900162A,Combo Garnier Fructis Hair Food Mascarilla Nutritiva + Shampoo + Acondicionador Aguacate
+900163A,Combo Garnier Mascarilla de Reparación Coco + Tinte Nutrisse Negro Intenso
+900164A,Combo Garnier Mascarilla de Reparación Coco + Tinte Nutrisse Castaño Claro
+900165A,Combo Garnier Mascarilla de Reparación Coco + Tinte Nutrisse Castaño Oscuro
+900166A,Combo Garnier Mascarilla de reparación Coco + Tinte Rubio Oscuro
 900214,Avena Instantánea Quaker X 300G
 900216,Champiñones Gustoso Enteros Lata X 400G
 900232,Choclo Gustoso Enlatado X 340G
