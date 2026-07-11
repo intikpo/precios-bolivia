@@ -1886,6 +1886,7 @@
 3501104,Tetrafol 400Mcg Folato X Cápsula
 3501105,Uvjira 100Mg Trastuzumab Emtansina Iv Frio X Ampolla
 3501122,Hipertal H 40/12.5Mg X Comprimido
+3501123,Aet 3% 60Mg Polidocanol Iv X 2 Ampollas/2Ml
 3501124,Reducar 1G Icosapento De Etilo X 30 Cápsulas Blandas
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
@@ -3911,7 +3912,7 @@
 48107169749,Proteína Gnc Weight Gainer Sabor Frutilla X 1098G
 48107170639,Aceite De Pescado Gnc Sabor Limón X 90 Capsulas Blandas
 48107172619,L Carnitine Suplemento Cartinina X 90G
-48107172770,L Glutamine Suplemento L Glumatina X 152G
+48107172770,Suplemento L-Glutamine L-Glutamina X 152G
 48107172879,L Arginine Suplemento L Arginina X 125G
 48107172886,L-Citrulline X 91.5G
 48107176969,Vitamin E 1000Ui X 60 Cápsulas Blandas
@@ -4479,6 +4480,7 @@
 650240074288,Jabón Asepxia 53% Serum Regenerador X 100G
 650240074295,Jabón Asepxia 53% Serum Suavizante X 100G
 650240076992,Qg5 Psidium Guajava X Tableta
+650240077531,Crema Facial Teatrical Células Madre Y Arroz Coreana X 200G
 653569148746,Playdoh-Set 2 Plastilinas
 653569440888,Hasbro Pet Shop-Con Accesorios
 653569710783,Spiderman-Transformers
@@ -5197,6 +5199,7 @@
 709576,Tubo De Oxigeno Medicinal 7M3
 709579,Tubo Sonda Endotraqueal #5.5 C Balon
 709590,Filtro Para Hemodiálisis Nro. F4 Hps Frenius
+709596,Gafas De Bioseguridad
 709598,Aguja Para Raquianestesia Nro.23 Y 3.5 X Pieza
 709616,Ambu-Kit Reanimador Con Reservorio
 709617,Caja De Acero Inoxidable 20 X 10 X 5Cm Fava
@@ -9785,6 +9788,10 @@
 7770108047520,Terbol 10Mg Zinc + 1000Mg Vitamica C X Sobre Efervescente
 7770108047544,Terbol 100Mg Magnesio + 1000Mg Vitamina C X Sobre Efervescente
 7770108047780,Suplemento Dietario Florax En Polvo X Sobre
+7770108047896,Nitazoxanida 500Mg X Comprimido Recubierto
+7770108047902,Nitazoxanida 100Mg/5Ml Suspensión Tutti Frutti X 60Ml
+7770108047926,Ketorolaco 20Mg X Comprimido
+7770108047940,Ketoprofeno 200Mg X Comprimido
 7770108048008,Fluidex Kids Hedera Helix Día Jarabe X 120Ml
 7770108048015,Fluidex Kids Noche Hedera Helix Noche Jarabe X 120Ml
 7770108048022,Fluidex Proinmune Kids Sauco Negro Día Jarabe X 120Ml
@@ -10138,7 +10145,10 @@
 7770108106982,Glimedine Tirzepatida 2.5Mg/0.5Ml Frio X Jeringa Prellenada
 7770108106999,Glimedine Tirzepatida 5Mg/0.5Ml Frio X Jeringa Prellenada
 7770108107002,Glimedine Tirzepatida 7.5Mg/0.5Ml Frio X Jeringa Prellenada
+7770108107019,Fluit Sae 600Mg Acetilcisteína X Comprimido Efervescente
 7770108107026,Penbiotic Amoxicilina 500Mg/Lactobacillus 60 M X Cápsula
+7770108107033,Loriviran 500Mg X 10 Comp Valaciclovir
+7770108107040,Loriviran 1000Mg X 5 Comp Valaciclovir
 7770108107064,Bloqueador Solar Solaris Spf50+ Roll On Kids X 30G
 7770108107071,Bloqueador Solar Solaris Spf50+ Roll On Piel Sensible X 30G
 7770108107088,Fluvent 150Mcg Indacaterol X Capsula
@@ -10800,6 +10810,7 @@
 7771011351865,Empizina Empagliflozina 25Mg X Comprimido
 7771011351902,Cinetic Digest Forte X Cápsula
 7771011351964,Maxibonagel Reflux Magaldrato / Simeticona Suspensión X 200Ml
+7771011351988,Hisperix 5Mg Levocetirizina X Cápsula
 7771011352114,Xartan A 50Mg Losartán Y 5Mg Amlodipino X Tableta
 7771011352145,Prednix 20Mg Prednisona X Comprimido
 7771011352220,Spasmox Compuesto Dipirona/Propinox Im-Iv X 2 Ampollas
@@ -10810,6 +10821,7 @@
 7771011352312,Neurix B Pregabalina 75Mg X Comprimido
 7771011352336,Neurix B Pregabalina 150Mg X Comprimido
 7771011352381,Flexicam 3B Forte X 2 Ampollas + Jeringa
+7771011352435,Artineo 300Mg X Cápsula
 7771011352459,Betaniere Betahistina 16Mg X Comprimido Recubierto
 7771011352480,Betaniere Betahistina 24Mg X Comprimido Recubierto
 7771011352527,Mucocetil C Acetilcisteina 600Mg X Sobre
@@ -14803,6 +14815,7 @@
 7841503001612,Galleta Aventura Rellena De Vainilla X 120Gr
 7841503001629,Galleta Aventura Rellena De Chocolate X 120Gr
 7841503001636,Galleta Aventura Rellena De Chococrema X 120Gr
+7841503001797,Galletas Mazzei Crackers Con Salvado X 450G
 7841503001803,Galletas Mazzei Crackers 8 Semillas X 465G
 7841503002213,Galletas Mazzei Cookies Con Chips De Chocolate X 100G
 7841503002220,Galletas Mazzei Cookies Sabor Brownie X 100G
@@ -15555,6 +15568,12 @@
 7896104998724,Mili Papel Toalla Multiuso X 2 Rollos
 7896108016172,Suplemento Alimentario Duo Condricart X 60 Comprimido
 7896108016240,Suplemento Alimentario Condricart Ultra Power X 60 Capsulas
+7896115700392,Talco Tralala Baby Suave Lavanda X 160G
+7896115700408,Talco Tralala Baby Hidrata Aloe Vera X 160G
+7896115703119,Gel Dental Tralala Baby Tutti Frutti X 70G
+7896115704314,Gel Dental Tralala Baby Manzana Y Pera X 70G
+7896115704444,Shampoo Tralala Baby Suave Lavanda X 250Ml
+7896115704475,Shampoo Tralala Baby Hidrata Aloe Vera X 250Ml
 7896116862709,Anticonceptivo Minigynon 30 Etinilestradiol / Levonorgestrel X 21 Grageas
 7896150020219,Gel Fijador Yama Fix Para Cabello Cola 2 X 300G
 7896150020226,Gel Fijador Yama Fix Para Cabello Piedra 3 X 300G
@@ -15721,6 +15740,7 @@
 7896699032988,Biberón Lolly Boca Ancha Anti Cólicos 3+ Osito X 330Ml
 7896699035026,Biberón Lolly Boca Ancha Con Manija 3+ Rosa X 250Ml
 7896699035033,Biberón Lolly Boca Ancha Con Manija 3+ Azul X 250Ml
+7896699035040,Biberón Lolly Boca Ancha Con Manija 3+ Naranja X 250Ml
 7896704710702,Espuma Carnavalera Reina Mora Bicentenario Chicle X 60Ml
 7896770982560,Pañal Para Adulto Tena Confort Talla L X 20 Unidades
 7896770982584,Pañal Adulto Tena Dermacare Slip Talla L X 20 Unidades
@@ -17629,6 +17649,7 @@
 8906046202663,Bonagermin Probiotico Bebible X Ampolla
 8906046202823,Bonaflora 250Mg Saccharomyces X Capsula
 8906046202830,Bonaflora 250Mg Saccharomyces Sobre X Unidad
+8906047364315,Colecalciferol 0.25Mcg X 100 Cap Vit D3 10 Ui (Renown)
 8906048345313,Normalex Rosuvastatina 40Mg X Comprimido
 8906053360319,Meroxell Suspension X 200Ml
 8906056570738,Celepid Mct-Lct 20% Iv Emulsion X 500Ml
