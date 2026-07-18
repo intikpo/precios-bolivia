@@ -1890,6 +1890,8 @@
 3501122,Hipertal H 40/12.5Mg X Comprimido
 3501123,Aet 3% 60Mg Polidocanol Iv X 2 Ampollas/2Ml
 3501124,Reducar 1G Icosapento De Etilo X 30 Cápsulas Blandas
+3501125,Gastromint 187Mg Aceite De Menta Piperita X Cápsula
+3501126,Baciflora 2B Probiótico X Ampolla Bebible
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
 350252,Toallitas Femeninas Nosotras Natural Buenas Noches X 10 Unidades
@@ -3863,6 +3865,7 @@
 48107067229,Calcium 1000 Calcio X 90 Tabletas
 48107067236,Suplemento Chromium Picolinate 200Mcg X 90 Tabletas
 48107068011,Suplemento L Arginine 500 X 90 Cápsulas
+48107068660,Betacaroteno 6 -10000Ui X100 Capsulas Blandas
 48107069223,Suplemento Milk Thistle Silimarina 160Mg X 90 Cápsulas
 48107069247,Suplemento Saw Palmetto 500Mg X 90 Cápsulas
 48107069360,Vitamin C 1000Mg Suplemento Vitamina C X 100 Tabletas
@@ -4929,7 +4932,7 @@
 701539,Mononylon 4-0 C Ag 2.4Cm 1129T
 701600,Mononylon 3-0 C Ag 3.0Cm 1171T
 7016021,Violeta De Genciana 1% Frasco X 40Ml
-7016630,Alcohol Etilico 70 Solución Farmacorp X 1L
+7016630,Alcohol Etílico 70% Solución Tópica Farmacorp X 1L
 7016806,Calmasec Pasta De Agua Farmacorp X 50G
 701716,Bolsa Colectora De Orina Con Desagote X 2 L
 701719,Barbijo Pediatrico Descartable X Unidad
@@ -11882,8 +11885,10 @@
 7773400000712,Galletas Integrales La Francesa Salvado X 500G
 7773400001061,Salvado Galleta Integral La Francesa Sésamo X 150G
 7773400001689,Pancrek Galletas De Agua Familiar X 500G
+7773400002709,Galletas De Agua La Francesa Cracker X 230G
 7773400004000,Paquete Galleta Integral La Francesa Salvado Sésamo X 500G
 7773400004055,Galletas La Francesa Sucrema Vainilla X 500G
+7773400004178,Galletas La Francesa Saladitas Bolsa X 220G
 7773401001497,Mabels Galleta Crackers X 250G
 7773401001862,Mabels Salvado Natural Galleta X 250G
 7773401002722,Mabels Maria Galleta Maizena X 100G
@@ -17465,6 +17470,7 @@
 887961370119,Enchantimals
 887961376777,Barbie Y Muebles Modelo Surtido
 887961383676,Brb-Ken Fashionista
+887961482898,Bloques Infantiles
 887961583823,Jurassic World Autitos Coleccionables Modelos Surtidos
 887961644869,Hot Wheels Pista Acrobatica
 887961678734,Pista Hot Wheels Basica Salto Radical Surtido Para Niño
