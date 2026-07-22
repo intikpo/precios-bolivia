@@ -1569,6 +1569,7 @@
 305368,Dermatotal Crema X 20G
 305371,Sigmaprednol 0.5% Colirio X 5Ml Loteprednol
 305372,Vorizol Vist 1% Colirio X 10Ml Voriconazol
+305375,Jabón Antiséptico Clores 2% Clorhexidina X 1 Litro
 305384,Sigmavir Favipiravir 200Mg X Comprimido
 305385,Sigma Complex B1 B6 B12 Im X 100 Amp 2Ml
 30544,Fluidimed 300Mg Acetil Cisteina X Ampolla
@@ -1892,6 +1893,7 @@
 3501124,Reducar 1G Icosapento De Etilo X 30 Cápsulas Blandas
 3501125,Gastromint 187Mg Aceite De Menta Piperita X Cápsula
 3501126,Baciflora 2B Probiótico X Ampolla Bebible
+3501127,Fluidmax 600Mg Acetilcisteína X Sobre
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
 350252,Toallitas Femeninas Nosotras Natural Buenas Noches X 10 Unidades
@@ -3876,7 +3878,7 @@
 48107070205,Iron 18 Hierro Suplemento X 100 Tabletas
 48107070236,Suplemento 99Mg Potassium Gluconate X 100 Tabletas
 48107070267,Vitamina B12 1000Mcg X 90 Tabletas
-48107072179,L-Lysine 500Mg Suplemento L Lisina X 100 Tabletas
+48107072179,Suplemento Gnc L-Lysine 500Mg X 100 Tabletas
 48107072384,Suplemento Gnc 5-Htp X 30 Cápsulas
 48107074159,Suplemento Gnc Súper Digestive Enzymes X 100 Cápsulas
 48107074579,Lean Appetrex Control Suplemento X 60 Capsulas
@@ -5665,6 +5667,8 @@
 740013,Montelukast 5Mg Genérico X Comprimido Masticable
 740014,Montelukast 10Mg Genérico X Comprimido Masticable
 740015,Ertapenem 1G Im-Iv Genérico X Ampolla
+740016,Paracetamol 120Mg/5Ml Jarabe Genérico X 60Ml
+740017,Cotrimoxazol 200/40Mg Genérico X 100Ml
 740041,Diclofenaco 50Mg Y Paracetamol 500Mg Generico X Tableta
 740042,Linagliptina 5Mg Genérico X Comprimido
 740043,Clopidogrel 75Mg Genérico X Comprimido
@@ -5871,6 +5875,7 @@
 74343613012,Cepillo Dental Dr Dent Niños Inicial Panda 3+ Suave
 74343706448,Dr Dent Kids Pasta 3 Anhos En Adelante Sirenita X 50G
 74343706554,Pasta Dental Niños Dr Dent 3+ Frutilla X 50G
+74343880445,Pack Cepillo Dental Dr Dent Super Max Medio X 3 Unidades
 74343880506,Pack Cepillo Dental Dr Dent Super Max Medio X 5 Unidades
 74343881015,Cepillo Dental Dr Dent Super Max Mediano
 74343890123,Cepillo Dental Dr Dent Super Tex Mediano
@@ -8520,6 +8525,7 @@
 7730564789389,Secufem Plus 1.5Mg Levonorgestrel X 1 Comprimido
 7730564807182,Sumetox Sulfametoxa 400/Trimetoprim 80Mg X Comprimido
 7730564823281,Remiom Ulipristal 5Mg X 28 Comprimidos
+7730564832085,Secufem Ultra 30Mg Ulipristal Acetato X Comprimido
 7730599571249,Sadetabs Forte X Ovulo
 7730607003342,Miasten Piridostigmina 60Mg X Tableta
 7730698001784,Plidan X Tableta
@@ -14619,6 +14625,7 @@
 7840213262672,Clozapin 100 Mg Clozapina X Comprimido
 7840213263174,Lipantyl Met 4 / 1000Mg Glimepirida / Metformina X Comprimido
 7840213263686,Vortiox 20Mg X 30 Comp Vortioxetina
+7840213263839,Maxivit C Vitamina C + Zinc Tubo X 20 Tabletas Efervescentes
 7840213264768,Paradona 60 Mg Lurasidona X Comprimido
 7840213264782,Lipostabil Plus 10/135Mg Rosuvastatina/Acido Fenofibrico X Capsula Liberacion Prologada
 7840213264805,Lipostabil Plus 20/135Mg Rosuvastatina/Acido Fenofibrico X Capsula Liberacion Prolongada
@@ -15314,6 +15321,7 @@
 7891317040246,Vallete 250Mg Divalproato Sodio X Comprimido
 7891317040260,Vallete 500Mg Divalproato Sodio X Comprimido
 7891317040413,Dualdep Duloxetina 30Mg X Cápsula
+7891317040437,Dualdep 60Mg Duloxetina X Cápsula
 7891317040451,Bicerto  Ketoprofeno 150Mg X Comprimido De Liberación Prolongada
 7891317041236,Torante Hedera Helix 15Mg/Ml Jarabe X 100Ml
 7891317044589,Tercef 250Mg /5Ml Cefdinir Suspencion X 100Ml
@@ -16840,6 +16848,7 @@
 8423372800429,Genove Pilopeptan Woman Serum Potenciador De Cejas Y Pestañas X 6Ml
 8423372840210,Mascarilla Capilar Reparadora Genove Pilopeptan Woman X 200Ml
 8426594008871,Colágeno Colnatur Beauty Frutos Del Bosque X Sobre
+8427030004068,Suplemento Prosure Sabor Vainilla X 380G
 8428255406781,Rubifen La Metilfenidato 10Mg Psico X Cápsula Liberación Modificada
 8428749819103,Sensilis Upgrade Ar Crema Reafirmante X 50Ml
 8428749819202,Sensilis Upgrade Fluido Reafirmante Mate X 50Ml
