@@ -3872,6 +3872,7 @@
 437724,Almoval Pomada Vaselina Solida X 20G
 437725,Pote Mentho Alcanforada X 20G
 437726,Pomada Salicilada X 20G
+437727,Vaselina Usp Solida X 500G
 4380912,Pasta Don Vittorio Fideo Codo Rayado X 400G
 44677100403,Lansinoh Hpa Crema Lanolina Para Pezones Agrietados X 40G
 44677204200,Almacenamiento De Leche Lansinoh X 25 Unidades
@@ -5690,6 +5691,7 @@
 737186592325,Febris Kid Ibuprofeno 200Mg/5Ml Suspensión X 100Ml
 737186592332,Hemopaz Ácido Tranexámico 500 Mg X Comprimido
 737186592363,Montetricina Duo Jarabe  Montelukast/Levocetirizina X 100Ml
+737186592370,Montetricina 10Mg Montelukast X Comprimido
 737186592387,Trimendazol Nitazoxanida 100Mg / 5Ml Suspensión X 60Ml
 737186592394,Febris Duo Forte Ibuprofeno/Paracetamol Suspensión X 60Ml
 737186592400,Miritan Duo Tamsulosina / Dutasterida X Capsula
@@ -5735,6 +5737,7 @@
 740016,Paracetamol 120Mg/5Ml Jarabe Genérico X 60Ml
 740017,Cotrimoxazol 200/40Mg Genérico X 100Ml
 740018,Gabapentina 300Mg Genérico X Cápsula
+740019,Cefixima 400Mg Genérico X Capsula
 740041,Diclofenaco 50Mg Y Paracetamol 500Mg Generico X Tableta
 740042,Linagliptina 5Mg Genérico X Comprimido
 740043,Clopidogrel 75Mg Genérico X Comprimido
@@ -8641,6 +8644,7 @@
 7730564807182,Sumetox Sulfametoxa 400/Trimetoprim 80Mg X Comprimido
 7730564823281,Remiom Ulipristal 5Mg X 28 Comprimidos
 7730564832085,Secufem Ultra 30Mg Ulipristal Acetato X Comprimido
+7730564862389,Sexapris 1.5Mg Levonorgestrel X 1 Comprimido
 7730599571249,Sadetabs Forte X Ovulo
 7730607003342,Miasten Piridostigmina 60Mg X Tableta
 7730698001784,Plidan X Tableta
@@ -8804,6 +8808,9 @@
 7730969308703,Dapaglicin 5Mg Dapagliflozina X Comprimido
 7730969308710,Dapaglicin 10Mg Dapagliflozina X Comprimido
 7730969308727,Crema Liquida Fisiogel Reconfortante Piel Seca / Sencible X 400Ml
+7730969308802,Cauquenor 0.5Mg Brexpiprazol X Comprimido
+7730969308819,Cauquenor 1Mg Brexpiprazol X Comprimido
+7730969308826,Cauquenor 2Mg Brexpiprazol X Comprimido
 7730969308895,Gliciron Vildagliptina 50Mg X Comprimido Recubierto
 7730969308949,Nyvem Doxilamina / Piridoxina X Comprimido
 7730969309144,Gliciron Plus 1000 Metformina / Vildagliptina X Comprimido Recubierto
@@ -9592,6 +9599,8 @@
 7762633123459,Tijera Mundo Craft Verde Punta Roma X 13Cm
 7770000020034,Confichoc Mani Con Chocolate X 50G
 7770000034277,Suplemento En Polvo Palatinosa X 400G
+7770000590049,Ters 2.5Mg/0.5Ml Tirzepatida Sc X Frasco / Ampolla
+7770000590063,Ters 15Mg/0.5Ml Tirzepatida Sc X Frasco / Ampolla
 7770016420019,Edulcorante Stevia En Polvo Dul-C X 50G
 7770016420026,Edulcorante Stevia En Polvo Dul-C X 100G
 7770016420125,Edulcorante Stevia Con Canela En Polvo Dul-C X 100G
@@ -9995,11 +10004,11 @@
 7770108081722,Cefabiotic 100Mg 5Ml Susp X 50Ml Cefixima S Frambu
 7770108081753,Fenoral Ketoprofeno 100Mg Y 2Ml X Ampolla
 7770108081937,Fluzet 20Mg Leflunomida X Capsula
-7770108082163,Albendazol 200Mg X 10 Comp Masticable (Ifa)
+7770108082163,Albendazol 200Mg X Comprimido Masticable
 7770108082217,Atorvastatina 10Mg X 30 Comp (Ifa)
 7770108082224,Azitromicina 500Mg X Tableta
 7770108082255,Ciprofloxacina 500Mg X 100 Comp (Ifa))
-7770108082279,Complejo B X 100 Comprimido Recubierto (Ifa)
+7770108082279,Complejo B X Comprimido Recubierto
 7770108082446,Losartan 50Mg X Tableta
 7770108082484,Paracetamol 1Gr Ifa X Comprimido
 7770108082521,Tinidazol 1Gr X Comprimido Recubierto
@@ -10811,6 +10820,7 @@
 7770109040469,Zetalerg Cetirizina 5Mg/5Ml Solucion X 60Ml
 7770109040490,Dehidrolit S 75 Suero Oral Rehidratante Solución X 150Ml
 7770109040582,Zetalerg Cetirizina 10Mg X Tableta
+7770109040605,Dermotrizinc 25% Oxido De Zinc Pasta X 30G
 7770109041022,Neurotrat Forte Vitamina B1 B6 B12 X Tableta
 7770109041060,C-Vimin 2000Mg Naranja X Sobre
 7770109041084,Quetorol Tram Ketorolaco Tramadol X Tableta Recubierta
@@ -11328,6 +11338,7 @@
 7771260681416,Infusión De Te Negro Bongo Limon Twist X 500Ml
 7771260681423,Infusión De Te Negro Bongo Durazno Twist X 500Ml
 7771260681614,Bebida Láctea Delizia Kefir Sin Azúcar X 1000G
+7771260681676,Helado Delizia Cono Yogurt Griego Pie De Limón X 140Ml
 7771260710079,Cuñapecitos Abizcochados Dulcy Gourmet X180g
 7771260710086,Dulcy Gourmet Cunapecitos Abizcochados X 100Gr
 7771260710093,Dulcy Gourmet Rosquitas Abizcochadas De Maiz X180g
@@ -13764,6 +13775,8 @@
 7798035310241,Varimer 50Mg X 25 Comp Mercaptopurina <Onc>
 7798035310289,Varimesna 200Mg/2Ml Mesna Iv X Ampolla
 7798035310357,Maxidauno 20Mg Iv X 1 Fco/Amp Daunorubicina
+7798035313341,Carboplatino Varifarma 150Mg Iv Onc X 1 Frasco/Ampolla
+7798035313358,Carboplatino Varifarma 450Mg Iv Onc X 1 Frasco/Ampolla
 7798035314003,Dacarbazina Varifarma 200Mg Iv X Ampolla
 7798035314362,Unitiob Sunitinib 12.5Mg X Cápsula
 7798035314393,Unitiob Sunitinib 25Mg X Cápsula
@@ -13821,6 +13834,8 @@
 7798181641497,Formula Infantil Sancor Bebe 2 Advanced X 800G
 7798181641695,Leche Sancor Bebe 3+ Advanced X 200Ml
 7798181642081,Leche En Polvo Sancor Bebe 3 Advanced X 800G
+7798181642456,Formula Infantil Sancor Bebe Advanced Comfort X 400G
+7798181642470,Formula Infantil Sancor Bebe Advanced Reducida En Lactosa X 400G
 7798186030531,Bull Dog Pastillas X 30G Tutti Frutti-Limon
 7798186030548,Bull Dog Pastillas Acidas Mix X 30G Sandia-Manzana
 7798186030555,Bull Dog Pastillas Acidas Mix X 30G Uva-Mandarina
@@ -14243,6 +14258,7 @@
 7800060148260,Valaxam 160Mg Valsartan Y 5Mg Amlodipino X Tableta
 7800060148420,Valaxam 160Mg Valsartan Y 10Mg Amlodipino X Tableta
 7800060148697,Valaxam D Valsartan 160Mg Amlodipino Besilato 10Mg Y Hidroclorotiazida 12.5Mg X Tableta
+7800060149076,Valaxam D 320Mg Valsartán 10Mg Amlodipino 25Mg Hidroclorotiazida X Comprimido
 7800060149151,Valaxam D 160Mg Valsartán 5Mg Amlodipino Y 12.5Mg Hidroclorotiazida X Tableta
 7800060149236,Ludium Tadalafilo 5Mg X Tableta
 7800060149588,Ludium Tadalafilo 20Mg X Comprimido
@@ -14833,6 +14849,7 @@
 7840213261224,Lercaten Lercanidipina 10Mg X Tableta
 7840213261248,Lercaten Lercanidipina 20Mg X Tableta
 7840213261255,Sitaglip Met 850 X 30 Comp Sitagliptina Metformina
+7840213261347,Heroxil 5Mg Tadalafilo X Comprimido
 7840213261576,Profenol Ibuprofeno 600 Mg X Cápsula Blanda
 7840213261583,Profenol Ibuprofeno 400 Mg X Cápsula Blanda
 7840213261682,Lozax D 50 X 30 Comp Losartan Hidrocloriotazida
@@ -14865,6 +14882,8 @@
 7840213301951,Tirzec Tirzepatida 10Mg/0.5Ml X Ampolla 2Ml + 4 Jeringas
 7840213303443,Tirzec Tirzepatida 12.5Mg/0.5Ml X Ampolla 2Ml + 4 Jeringas
 7840213303467,Tirzec Tirzepatida 15Mg/0.5Ml X Ampolla 2Ml + 4 Jeringas
+7840213303979,Diabefarm 25Mg Empagliflozina X Comprimido
+7840213303993,Diabefarm 10Mg Empagliflozina X Comprimido
 7840213304365,Rybeglix Pen Semaglutida 1.34Mg/Ml Sc Frio X Unidad
 7840274000091,Broncopulmin Jbe X 100Ml Clenbuterol Ambroxol
 7840274000107,Cridermol Crema X 20G
@@ -14993,6 +15012,7 @@
 7840653007086,Z Vick 35Mg 5Ml Jbe X 120Ml Hedera Helix
 7840653007123,Sulivan 2.5Mg Gotas X 20Ml Clonazepam
 7840653007130,Sulivan 2Mg Clonazepam (Psico) X 50 Comprimidos
+7840653007154,Banes Cb 600Mg Ibuprofeno X Capsula Blanda
 7840653007178,Cimafix Forte 200Mg 5Ml Cefixima Suspencion X 100Ml
 7840653007413,Grifantil Nf Paracetamol / Clorfeniramina Solución X 60Ml
 7840653007420,Enterofar 100Mg Ml Simeticona Gotas X 15Ml
@@ -15762,6 +15782,7 @@
 7896005801512,Café Tostado Molido 3 Corazones Extrafuerte Paquete X 250G
 7896006202707,Unifental Fentanilo 0.05Mg/Ml Im-Iv X Ampolla
 7896006238690,Unifedrine Sulfato Efedrina 50Mg/Ml Psico X Ampolla
+7896007547128,Plenitud Active Plus Talla P Y M Ropa Intima X 8 Unidades
 7896007547173,Plenitud Active Plus Talla G Y Xg Ropa Interior X 8 Unidades
 7896007549993,Plenitud Plus Ropa Intima Desechable Talla Pm Unisex X 24 Unidades
 7896007550005,Plenitud Plus Ropa Intima Desechable Talla G Xg Unisex X 24 Unidades
@@ -16474,6 +16495,8 @@
 8002660039705,Femoston 1/10Mg Estradiol Didrogesterona X 28 Tabletas
 8002660042453,Femoston Mini X 28 Tab Estradiol/Didrogesterona
 8002660044181,Resyniv Denosumab 60Mg/Ml Frio X 1 Jeringa Prellenada
+8002660045263,Efflusso 10Mg Empagliflozina X Comprimido
+8002660045270,Efflusso 25Mg Empagliflozina X Comprimido
 8003340096230,Lindt Lindor Bombon De Leche X 75G
 8003340096247,Bombon Surtido Lindt Lindor X 75G
 800471,Excellence Tinte 7.11 Color Rubio Ceniza Profundo X Unidad
@@ -17121,6 +17144,7 @@
 8427030009339,Ensure Advance Frutilla X 400G
 8427030009353,Ensure Advance Frutilla X 850G
 8428255406781,Rubifen La Metilfenidato 10Mg Psico X Cápsula Liberación Modificada
+8428255406798,Rubifen La 20Mg Metilfenidato X Capsula
 8428749819103,Sensilis Upgrade Ar Crema Reafirmante X 50Ml
 8428749819202,Sensilis Upgrade Fluido Reafirmante Mate X 50Ml
 8428749819400,Sensilis Upgrade Ojos Tratamiento Restaurador X 15Ml
@@ -17723,6 +17747,7 @@
 8809835061857,Protector Solar Tocobo Blur Finish Sun Cushion 01 Cotton Blue
 8809835062106,Lip Oil Tocobo Juicy Berry Plumping Tono 18 Cozy Pink X 4G
 8809835062250,Base De Maquillaje Tocobo Apple Dewy Fit Cushion Tono 27 Toast X 15G
+8809835062397,Máscara De Labios Tocobo Mint Cooling X 20Ml
 8809835062977,Base De Maquillaje Tocobo Apple Dewy Fit Cushion Tono 23 Honey X 15G
 8809835063226,Protector Solar Tocobo Cica Cooling Spf50+ Mini X 11G
 8809835063233,Protector Solar Tocobo Vita Waterproof Spf50+ Mini X 11G
@@ -18082,6 +18107,7 @@
 8906176183009,Lipotrol E Ácido Bempedoico/Ezetimibe X Comprimido
 8906185851586,Valproato De Sodio 200Mg/Ml Solución Oral X 40Ml
 8906193890966,Merovish Meropenem 500Mg Iv X Ampolla
+8906193891017,Caffivent 20Mg Citrato De Cafeína Iv X Ampolla 1Ml
 8906193891062,Clopigard 75Mg Clopidogrel X Comprimido
 8906193891079,Thromboclot 25000Ui Heparina Iv-Sc X Ampolla
 8907661016482,Trivento Inhalador Oral X 120 Dosis
@@ -18216,6 +18242,7 @@
 9009780,Cheese Crick La Exquisita Sabor Queso X 25G
 9009781,Nachitos La Exquisita Sabor Chile Picante Y Queso X 20G
 9009947,Corrector Mágico Acricolor Cinta 5Mm X 6M
+9010073,Suplemento Alimenticio Mg Digest Citrato De Magnesio X 138 Cápsulas
 9010074,Suplemento Alimenticio Mg Digest Curcumag X 138 Cápsulas
 90159150794,Autitos Maisto Surtido
 90159153252,Set Autitos Maisto Surtido
