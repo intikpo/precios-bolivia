@@ -1910,6 +1910,9 @@
 3501127,Fluidmax 600Mg Acetilcisteína X Sobre
 3501128,Metphen 10Mg Metilfenidato X Comprimido
 3501129,Firenze 20Mg Finerenona X Comprimido Recubierto
+3501130,Suero Electromax Electrolitos Multiples Usp Iv X 500Ml
+3501131,Hipertal 40Mg Telmisartan X Comprimido
+3501132,Hipertal 80Mg Telmisartan X Comprimido
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
 350252,Toallitas Femeninas Nosotras Natural Buenas Noches X 10 Unidades
@@ -5782,6 +5785,10 @@
 740017,Cotrimoxazol 200/40Mg Genérico X 100Ml
 740018,Gabapentina 300Mg Genérico X Cápsula
 740019,Cefixima 400Mg Genérico X Capsula
+740020,Deflazacort 30Mg Generico X Comprimido
+740021,Sitagliptina 50Mg Generico X Comprimido
+740022,Sitagliptina 100Mg Generico X Comprimido
+740023,Fosfomicina 3Gr Generico X 1 Sobre
 740041,Diclofenaco 50Mg Y Paracetamol 500Mg Generico X Tableta
 740042,Linagliptina 5Mg Genérico X Comprimido
 740043,Clopidogrel 75Mg Genérico X Comprimido
@@ -5997,6 +6004,7 @@
 74343891113,Cepillo Dental Dr Dent Peques Niños 3+ Extra Suave
 74343891229,Cepillo Dental Dr Dent Peques Niñas 3+ Extra Suave
 743877049535,Loreal Pack Revitalift Acido Hialuro Dia+Noche
+7441008102809,Toallas Femenina Kotex Comfort Y Protección Ultra Delgada X 10 Unidades
 7441008154600,Kotex Tampones Con Aplicador Tamaño Medio X 8 Unidades
 7441008154617,Kotex Tampones Con Aplicador Tamaño Super X 8 Unidades
 7450007405354,Fomi Educativo Merletto Abecedario
@@ -8058,6 +8066,7 @@
 7702184835982,Vical Vitamina C + Zinc Tuttifrutti X Tableta
 7702191523520,Shampoo Sedal Toque De Seda Amino-Silk X 340Ml
 7702191523537,Shampoo Sedal Toque De Seda Amino-Silk X 650Ml
+7702191523544,Crema Para Peinar Sedal Toque Seda Amino-Silk X 300Ml
 7702277109228,Crema Depiladora Depilex Vello Grueso X 100G
 7702277109235,Depilex Crema Depiladora X 100G Piel Sensible
 7702277109242,Depilex Crema Depiladora X 100G Todo Tipo De Piel
@@ -8166,6 +8175,8 @@
 7702425810860,Protectores Diarios Kotex Cuidado Puro X 50 Unidades
 7702425810976,Paño Reutilizable Scott Duramax 48 Hojas X Unidad
 7702425811072,Toallitas Húmedas Cuidado 4En1 Huggies X 184 Unidades
+7702425816442,Toallas Higiénicas Kotex Comfort & Protección Normal X 10 Unidades
+7702425862425,Toallas Higiénicas Nocturas Kotex Comfort X 8 Unidades
 7702425864221,Kotex Protect Diarios Con Indicador De Ph X 15 Unidades
 7702425918023,Toallitas Húmedas Huggies Ultraconfort X 80 Unidades
 7702425973091,Pañales Natural Care Pants Talla Xxg Unisex Huggies X 34 Unidades
@@ -8734,6 +8745,7 @@
 7730766004167,Prazinal 1.5Mg Cariprazina X Cápsula
 7730766004174,Prazinal 3Mg Cariprazina X Cápsula
 77308,Broxilin Duo Fuerte Amoxicilina 800Mg X 70Ml
+7730802000030,Neogaival 3Mg Eszopiclona X Comprimido
 77309,Diprofen Flu Susp X 100Ml Ibuprof Pseudoefed
 7730900993548,Saponic Persea Gratissima Y Glicine Max X Capsula
 7730925510829,Cisplatino Farmaco Uruguayo 50Mg Iv X Ampolla
@@ -11334,6 +11346,7 @@
 7771259758242,Leche Deslactosada Pil Monaco Con Café Bolsa X 800Ml
 7771259758303,Leche De Soya Soy Chocolate Bolsa X 900Ml
 7771259758310,Leche De Soya Soy Frutilla Bolsa X 900Ml
+7771259758327,Soy Leche De Soya Vainilla Bolsa X 900Ml
 7771260010049,Bebida Isotónica Sante Sport Fresa X 500Ml
 7771260010056,Bebida Isotónica Sante Sport Uva X 500Ml
 7771260010063,Bebida Isotónica Sante Sport Frambuesa X 500Ml
@@ -11527,6 +11540,7 @@
 7771621380187,Bebida Isotónica Activade Frutilla X 600Ml
 7771621380200,Bebida Hidratante Activade Mora X 600Ml
 7771621380224,Bebida Isotónica Activade Pack 2 X 600Ml
+7771621380279,Gaseosa Salvietti Sabor Papaya Botella X 3L
 7771621380286,Gaseosa Salvietti Sabor Papaya X 600Ml
 7771621380361,Bebida Isotónica Activade Frambuesa X 1 L
 7771621380378,Bebida Isotónica Activade Frutilla X 1 L
@@ -11800,6 +11814,7 @@
 7771901000194,Hamburguesa Fridosa Fridogrill 6 Unidades 113G
 7771901000774,Mini Hamburguesa De Res Fridosa Premium 12 Unidades
 7772001000008,Mani Frito Salado Lucana X 170G
+7772001000015,Pipocas Saladas Lucana X 135G
 7772001000022,Platano Frito Lucana X 90G
 7772001000053,Papas Fritas Lucana Super X 200G
 7772001000060,Papas Fritas Lucana Intermedia X 130G
@@ -11847,6 +11862,7 @@
 7772116031638,Pepsi X 2.5L
 7772307001105,Nuez Pelada Maya X 97G
 7772307001112,Ciruelas Maya Deshidratadas Con Semillas X 177G
+7772307001129,Uvas Pasas Negras Maya Sin Semillas X 147G
 7772307001174,Castañas De Cajú Maya X 117G
 7772307001198,Almendra Maya Española X 147G
 7772307001891,Mix De Frutos Secos Maya X 147G
@@ -12564,6 +12580,7 @@
 7775021520600,Limpia Porcelanato Mr Flash Lavanda Francesa X 900Ml
 7775021520686,Lavavajillas Mr Flash Novios 2 Unidades X 1000Ml
 7775021520693,Pack Mr Flash Mucha Dosis Limpia Pisos 900Ml + Lavandina 1 L
+7775021520709,Pack Mr Flash Mucha Dosis Lavavajillas 750Ml + Lavandina 1 L
 7775021520938,Limpia Pisos Mr Flash Floral Aromaterapia X 1800Ml
 7775021520945,Limpia Pisos Mr Flash Floral Aromaterapia X 5 L
 7775021521409,Alcohol Sanitizador Brisa Marina Farmacorp X 125Ml
@@ -13373,6 +13390,7 @@
 7791293049540,Spray Antitranspirante Rexona Women Active Emotion X 150 Ml
 7791293049564,Spray Antitranspirante Rexona Women Bamboo Y Aloe Vera X 150 Ml
 7791293049571,Desodorante Rexona Women Aerosol 72H Fifa 2026 X 150Ml
+7791293049588,Rexona Women Aerosol 72H Active Emotion Dry X 250Ml
 7791293049595,Aerosol Antitranspirante Rexona V8 72H X 250 Ml
 7791293049601,Antitranspirante Rexona Aerosol 72H Xtra Cool X 150Ml
 7791293049618,Aerosol Dove Women 96H Clinical X 150Ml
@@ -14307,6 +14325,7 @@
 7800060148260,Valaxam 160Mg Valsartan Y 5Mg Amlodipino X Tableta
 7800060148420,Valaxam 160Mg Valsartan Y 10Mg Amlodipino X Tableta
 7800060148697,Valaxam D Valsartan 160Mg Amlodipino Besilato 10Mg Y Hidroclorotiazida 12.5Mg X Tableta
+7800060148857,Valaxam 320Mg Valsartán 5Mg Amlodipino X Comprimido
 7800060149076,Valaxam D 320Mg Valsartán 10Mg Amlodipino 25Mg Hidroclorotiazida X Comprimido
 7800060149151,Valaxam D 160Mg Valsartán 5Mg Amlodipino Y 12.5Mg Hidroclorotiazida X Tableta
 7800060149236,Ludium Tadalafilo 5Mg X Tableta
@@ -15491,10 +15510,12 @@
 7891150044616,Paquete Jabón Dove 90G X 6 Unidades
 7891150046481,Paquete Jabón Dove 90G X 3 Unidades
 7891150075399,Jabón Dove Cuidado Antibacterial X 135G
+7891150081239,Antitranspirante Dove Aerosol 72H Original X 250Ml
 7891150090231,Pepsodent Pasta Dental Triple X 90G
 7891150092204,Detergente En Polvo Omo Blanco Absoluto X 720G
 7891150092211,Detergente En Polvo Omo Blanco Absoluto X 360G
 7891150095618,Dove Jabon X 90Gr Piel Sensible Hipoalergenico
+7891150095700,Dove Jabon 90Gr Pqt X 3 Unid Piel Sensible
 7891150096691,Mascara De Tratamiento Dove Capilar Reconstruccion X 300G
 7891150096714,Mascara De Tratamiento Dove Capilar Nutrición X 300G
 7891150097124,Dove Oleo + Serum Capilar Bond Intense Repair X 110Ml
@@ -16198,6 +16219,7 @@
 7896969400370,Nucita Crema Sabor A Chocolate Leche Y Avellanas X Unidad
 7897386752851,Porta Cepillos Dental Ou Up Blanco
 7897386792703,Porta Cepillos Dental Ou Up Rosa
+7897520009377,Baño En Seco Procao X 500Ml
 7897520016351,Limpia Patas Para Perros Y Gatos Procao X 150Ml
 7897653546404,Figuritas Fifa Conmebol Copa Libertadores 2025 Panini X Sobre
 7897653546503,Album Sticker Fifa Conmebol Copa Libertadores 2025 Panini
@@ -17307,6 +17329,13 @@
 8435477905282,Paw Patrol Huevo Con Sorpresa X Unidad
 8435477908276,Huevo Sorpresa Brickell Niño Surtido X Unidad
 8435477908283,Huevo Sorpresa Brickell Niña Surtido X Unidad
+8435698872349,Set 4 Copas De Vino 490Ml Masterpro Cristal
+8435698872356,Set 4 Copas De Vino 365Ml Masterpro Cristal
+8435698872363,Set 4 Copas De Champán 200Ml Masterpro Cristal
+8435698872370,Set 4 Copas De Cerveza 450Ml Masterpro Cristal
+8435698872387,Set 4 Vasos Bajos 470Ml Masterpro Cristal
+8435698872394,Set 4 Vasos Altos 390Ml Masterpro Cristal
+8435698872400,Set 4 Copas Gin Tonic 545Ml Masterpro Cristal
 8436000680164,La Justicia Colageno Con Magnesio X 75 Comprimidos
 8436000680225,La Justicia Levadura Cerveza Germen De Trigo Y Tiamina X Frasco
 8436000680348,La Justicia Colageno Con Magnesio X 180 Comprimidos
