@@ -1560,6 +1560,8 @@
 305116,Clorex Enjuague Bucal Clorhexidina X 170Ml
 305118,Clorex 5Mg Clorhexidina X Tableta
 30521,Feno Fucsina Sol Topica X 10Ml
+305210206779,Bálsamo Labial Vaseline Original Frasco X 7G
+305210231597,Bálsamo Labial Rosy Vaseline Frasco X 7G
 305240,Frixo Fort Ungüento Dérmico X 30G
 30531,Fer Alfa Nf 125Mg Gotas X 15Ml Sulfato Ferroso
 305341,Tobracol 0.3 % Colirio X 5Ml Tobramicina
@@ -3667,7 +3669,7 @@
 41554098259,Labial Maybelline Super Stay Matte Ink Tono Nro.520 Champion
 41554098297,Barra Facial Multi-Usos Maybelline Lifter Stix Nro. 05
 41554098303,Barra Facial Multi-Usos Maybelline Lifter Stix Nro. 10
-41554098341,Mb Lifter Stix Barra Facial Multi-Usos 30
+41554098341,Barra Facial Multi-Usos Maybelline Lifter Stix Nro. 30
 41554098365,Barra Facial Maybelline Lifter Stix Multi-Usos Tono 40
 41554098372,Barra Facial Maybelline Lifter Stix Multi-Usos Tono 45
 41554098389,Barra Facial Multi-Usos Maybelline Lifter Stix Nro. 50
@@ -9115,6 +9117,7 @@
 7750215020968,Agua De Colonia Portugal Lavanda 250Ml
 7750215020999,Agua De Colonia Portugal Algodón X 500Ml
 7750215021002,Agua De Colonia Portugal Algodón X 250Ml
+7750215021057,Exfoliante Corporal Portugal Quinua Y Avena X 160G
 7750215021187,Loción Tónica Portugal Facial X 210Ml
 7750215021194,Leche Limpiadora Portugal Facial Con Extracto De Pepino X 210G
 7750215021408,Crema Para Manos Portugal Antiedad Q10 X 80G
@@ -9125,7 +9128,9 @@
 7750215022344,Crema Portugal Concha De Nácar X 55G
 7750215022351,Crema Portugal Concha De Nácar X 120 Gr
 7750215022368,Crema Antiarrugas Portugal Q10 Día X 120 Gr
+7750215022375,Crema Antiarrugas Portugal Q10 X 55Gr Dia
 7750215022382,Crema Antiarrugas Portugal Q10 Noche X 120 Gr
+7750215022399,Crema Antiarrugas Portugal Q10 X 55Gr Noche
 7750215022412,Crema Facial Portugal Lechuga X 55 Gr
 7750215022436,Crema De Lechuga Gel Portugal Con Pepino X 120G
 7750215022467,Ambroxol Adulto 30Mg/5Ml X 120Ml
@@ -9249,9 +9254,11 @@
 7750215031667,Pack Portugal Bebé Sinescal Crema 120G+Jabon Avena 80G
 7750215032022,Paracetamol 100Mg/Ml X 15Ml
 7750215032121,Protector Labial Lipstick Spf30 Surtido 5.3G X Unidad
+7750215032411,Gel De Ducha Portugal Verbena X 470Ml
 7750215032428,Crema Corporal Portugal Verbena X 100G
 7750215032435,Crema Corporal Portugal Verbena X 450G
 7750215032442,Crema Corporal Portugal Verbena X 700G
+7750215032527,Gel De Ducha Portugal Leche De Almendras X 470Ml
 7750215032596,Crema Corporal Portugal Avena X 100G
 7750215032619,Crema Corporal Portugal Avena X 700G
 7750215032817,Sérum Portugal Hy-Advance Complex Ilumina X 30Ml
@@ -10073,7 +10080,7 @@
 7770108081753,Fenoral Ketoprofeno 100Mg Y 2Ml X Ampolla
 7770108081937,Fluzet 20Mg Leflunomida X Capsula
 7770108082163,Albendazol 200Mg X Comprimido Masticable
-7770108082217,Atorvastatina 10Mg X Comprimido
+7770108082217,Atorvastatina 10Mg X 30 Comp (Ifa)
 7770108082224,Azitromicina 500Mg X Tableta
 7770108082255,Ciprofloxacina 500Mg X 100 Comp (Ifa))
 7770108082279,Complejo B X Comprimido Recubierto
@@ -15293,6 +15300,17 @@
 7861202104278,Kit De Afeitado Barber Gel Limpiador / Afeitar / Hidratante
 7861202104322,Perfume Barber Men Colonia Nro.1308 X 100Ml
 7861202104704,Gel Crema Moldeadora Barber Cabello / Barba X 150Gr
+7861202108634,Limpiador Facial Beautik En Espuma X 150Ml
+7861202108641,Limpiador Facial Beautik Gel Aloe + Acido Hialuronico X 200Ml
+7861202108658,Limpiador Exfoliante Beautik Aloe + Acido Hialuronico X 175Ml
+7861202108665,Tonico Hidratante Beautik 2 En 1 Aloe + Acido Hialuronico X 385Ml
+7861202108689,Crema En Gel Beautik Aloe + Acido Hialuronico X 55Ml
+7861202108719,Serum Facial Beautik Aloe + Acido Hialuronico X 30Ml
+7861202108764,Body Mist Hydrating Beautik Sol De Ipanema 52 X 240Ml
+7861202108788,Loción Corporal Beautik Sol De Ipanema 78 X 250Ml
+7861202108795,Loción Corporal Beautik Sol De Ipanema 52 X 250Ml
+7861202109020,Body Mist Hydrating Beautik Sol De Ipanema 72 X 240Ml
+7861202109037,Loción Corporal Beautik Sol De Ipanema 72 X 250Ml
 7861225800386,Hepalive Advance Silimarina 300Mg Hepatoprotector X Cápsula
 7861225800881,Prostalex Con Extracto De Saw Palmetto X Cápsula
 7861225800898,Venoflash X Cápsula
@@ -17605,6 +17623,7 @@
 850005517559,Aloe Vera Drink Mango Alovi X 500Ml
 850005517641,Aloe Vera Drink Alovi Strawberry X 500Ml
 850005517856,Drink Aloe Vera Alovi Original X 500Ml
+850005911524,Bálsamo Labial Vaseline Rosy Lips X 4.8G
 850012181231,Barra De Cereal Picnic Choco Maní Pack X 6 Unidades
 850012181248,Barra De Cereal Picnic Choco Papaya Pack X 6 Unidades
 85013,Fentanyl Fentanil 0.05Mg/Ml Iv X Ampolla
@@ -17631,6 +17650,10 @@
 858830002271,Beauty 3 Biotina Y Acido Hialuronico X 90 Capsulas
 8595059740257,Lactovit Nutritivo Gel Bano Normal-Seca X 300Ml
 8595059740295,Lactovit Lactourea Gel Bano Reparador X 300Ml
+859581006846,Bálsamo Labial Vaseline Original X 4.8Gr
+859581006853,Bálsamo Labial Vaseline Rosy Lips Blíster X 4.8G
+859581006860,Bálsamo Labial Vaseline Aloe Vera X 4.8G
+859581006877,Bálsamo Labial Vaseline Cocoa Butter X 4.8G
 86279116390,Cuchillo Para Pan Cuisinart Model Tr 8
 8680512603344,Shampoo Bioxsine Forte Anticaída X 300Ml
 8683655809246,Toallitas Húmedas Baby Número 1 Suave X 90 Unidades
