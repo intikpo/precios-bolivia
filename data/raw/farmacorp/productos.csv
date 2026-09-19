@@ -1916,6 +1916,7 @@
 3501131,Hipertal 40Mg Telmisartan X Comprimido
 3501132,Hipertal 80Mg Telmisartan X Comprimido
 3501133,Artiviol Flex X 3 Blister 10 Comp
+3501134,Hidrocortisona 100Mg Im-Iv X 1 Fco/Amp (Northia)
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
 350252,Toallitas Femeninas Nosotras Natural Buenas Noches X 10 Unidades
@@ -10097,7 +10098,7 @@
 7770108082163,Albendazol 200Mg X Comprimido Masticable
 7770108082217,Atorvastatina 10Mg X 30 Comp (Ifa)
 7770108082224,Azitromicina 500Mg X Tableta
-7770108082255,Ciprofloxacina 500Mg X Comprimido
+7770108082255,Ciprofloxacina 500Mg X 100 Comp (Ifa))
 7770108082279,Complejo B X Comprimido Recubierto
 7770108082446,Losartan 50Mg X Tableta
 7770108082484,Paracetamol 1Gr Ifa X Comprimido
@@ -10444,6 +10445,7 @@
 7770108107088,Fluvent 150Mcg Indacaterol X Capsula
 7770108107095,Fluvent 75Mcg Indacaterol X Capsula
 7770108107101,Fluvent Duo Indacaterol Glicopirronio X Capsula
+7770108107187,Dermocutyl Jabón De Carbón Activado X 75G
 7770108107309,Pañales Babu By Pompiglos Xxxg X 40 Unidades
 7770108110095,Jugo De Sábila Aloe Valencia X 1 L
 7770108110392,Jugo De Sábila Aloe Valencia Sin Azúcar 1 L
@@ -11376,6 +11378,8 @@
 7771259757962,Bonle Alimento Lacteo En Polvo Bolsa X 2000G
 7771259757979,Leche Chicolac Sabor Crema Americana X 120Ml
 7771259757986,Pilfrut Botella Sabor Piña X 2L
+7771259758020,Jugo Pura Vida Nectar Mango Con Adición Vitamin C X 300Ml
+7771259758044,Bebida Tradicional Pura Vida Mocochinchi X 300Ml
 7771259758051,Bebida Tradicional Pura Vida Mocochinchi Botella X 2L
 7771259758112,Leche Condensada Pil Descremada Doypack X 200G
 7771259758242,Leche Deslactosada Pil Monaco Con Café Bolsa X 800Ml
@@ -11383,6 +11387,7 @@
 7771259758310,Leche De Soya Soy Frutilla Bolsa X 900Ml
 7771259758327,Soy Leche De Soya Vainilla Bolsa X 900Ml
 7771259758334,Soy Leche De Soya Bls X 900Ml Banana
+7771259758402,Pilfrut Sabor Cherry X 175Ml
 7771260010049,Bebida Isotónica Sante Sport Fresa X 500Ml
 7771260010056,Bebida Isotónica Sante Sport Uva X 500Ml
 7771260010063,Bebida Isotónica Sante Sport Frambuesa X 500Ml
@@ -11537,6 +11542,8 @@
 7771609005279,Powerade Mundial Cool Citrus X 990Ml
 7771609005286,Powerade Mundial Citrus Kick X 473Ml
 7771609005293,Powerade Mundial Citrus Kick X 990Ml
+7771609005408,Fanta Ghost Face Punch X 500Ml Sabor Frutal
+7771609005415,Fanta Ghost Face Punch X 300Ml Sabor Frutal
 7771611000002,Villa Santa Agua De Mesa S/Gas X 2Lt
 7771611000439,Agua De Mesa Sin Gas Villa Santa Alcalina X 1L
 7771611000446,Agua De Mesa Sin Gas Villa Santa Alcalina X 3L
@@ -14434,6 +14441,7 @@
 7800061180108,Ergometrina Biosano 0.2Mg Im-Iv Frio X Ampolla
 7800062004083,Ocitocina 5Ui Y 1Ml X Ampolla
 7800063001708,Zopiclona 7.5Mg Mintlab X 30 Comprimidos
+7800063002903,Aciclovir 400Mg X 35 Comp (Mlab)
 7800063003153,Ketoconazol 2% Crema X 20G
 7800063003207,Fluoxetina 20Mg X 20 Comp (Mlab)
 7800063003535,Docivin Domperidona 10Mg X Cápsula
@@ -16540,6 +16548,7 @@
 7900161000822,Contenedor Organizador Coza Rectangular X 2.7L
 7900161000877,Set De Contenedores Coza X 4 Piezas
 7900161000884,Set De Contenedores Coza X 3 Piezas
+7908103788043,Termómetro De Baño Buba Jirafa
 7908163610414,Paleta Dosificador Furacaopet Pop Azul
 7908163630412,Paleta Dosificador Furacaopet Pop Rosa
 7908163634311,Pala Higiénica Furacaopet Para Gato Joy Rosa
@@ -18062,6 +18071,7 @@
 8902319016241,Mofilet Micofenolato Mofetilo 500Mg X Tableta
 8902319017620,Pause 500Mg Ácido Tranexámico X Comprimido
 8902319018344,S-Numlo Amlodipino 5Mg X Tableta
+8902319018740,Panpure 20Mg X 14 Comp Levopantoprazol
 8902319021122,Vingraf Tacrolimus 1Mg X Capsula
 8902319024970,Movic Dexketoprofeno 25Mg X Tableta
 8902319040024,Orofer 50Mg/5Ml Hierro Jarabe X 150Ml
