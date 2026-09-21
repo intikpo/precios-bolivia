@@ -1917,6 +1917,8 @@
 3501132,Hipertal 80Mg Telmisartan X Comprimido
 3501133,Artiviol Flex X 3 Blister 10 Comp
 3501134,Hidrocortisona 100Mg Im-Iv X 1 Fco/Amp (Northia)
+35011353,Deltagel Ms Susp X 200Ml Magaldrato/Simeticona
+3501136,Deltagel Ss Susp X 200Ml Sucralfato/Simeticona
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
 350252,Toallitas Femeninas Nosotras Natural Buenas Noches X 10 Unidades
@@ -2743,6 +2745,7 @@
 3997800006202,Caramelos Miel Y Propoleo Irupana Antichaja X 100G
 3997800022899,Propoleo Irupana Gotas X 30Ml
 40000015024,Snickers Minis X 1247G
+40022903159,Nebulizador Compresor Familiar (Bc68001)
 4005800021023,Eucerin Hyaluron Filler Night X 50Ml
 4005800021930,Eucerin Hyaluron Filler Día X 50Ml
 4005800024139,Eucerin Piel Extra Seca Urea 0.1 Loción X 250Ml
@@ -4992,6 +4995,10 @@
 700523,Compresa Gasa Esteril Algodonada 15X30cm
 700524,Aguja Para Biopsia 8G X 10Cm
 700525,Sonda Para Intubación Nasogastrica Fr 8 K-30 X Unidad
+700526,Equipo D/ Infusion Ambar C/Aguja <Hp>
+700528,Equipo Cateter Venoso Central Doble 5Fr X 13Cm<Hp>
+700529,Equipo Cateter Venoso Central Triple 5Fr X 16Cm<Hp>
+700530,Equipo Cateter Venoso Central Triple 4Fr X 13Cm<Hp>
 700532,Manipler Az-35W Grapadora P/Piel 783100 (B Braun)
 700533,Hilo Sutura V-Loc 180 # 3-0 30Cm <Hp>
 700534,Flextube D/10Mm Circuito Respiratorio Neonatal
@@ -5007,6 +5014,7 @@
 700545,Lancetas 30G X Unidad
 700546,Sonda Alimentacion #8Fr X 90Cm
 700547,Sonda Alimentacion #10Fr X 90Cm
+700548,Equipo Cateter Venoso Central Triple 7Fr X 20Cm<Hp>
 700549,Equipo Cateter Venoso Central Doble 7Fr X 20Cm<Hp>
 700550,Equipo Cateter Venoso Central Doble 4Fr X 13Cm<Hp>
 700587,Poly Vicryl #4-0 70 Sc-20 J122h
@@ -10095,10 +10103,10 @@
 7770108081722,Cefabiotic 100Mg 5Ml Susp X 50Ml Cefixima S Frambu
 7770108081753,Fenoral Ketoprofeno 100Mg Y 2Ml X Ampolla
 7770108081937,Fluzet 20Mg Leflunomida X Capsula
-7770108082163,Albendazol 200Mg X Comprimido Masticable
+7770108082163,Albendazol 200Mg X 10 Comp Masticable (Ifa)
 7770108082217,Atorvastatina 10Mg X 30 Comp (Ifa)
 7770108082224,Azitromicina 500Mg X Tableta
-7770108082255,Ciprofloxacina 500Mg X 100 Comp (Ifa))
+7770108082255,Ciprofloxacina 500Mg X Comprimido
 7770108082279,Complejo B X Comprimido Recubierto
 7770108082446,Losartan 50Mg X Tableta
 7770108082484,Paracetamol 1Gr Ifa X Comprimido
@@ -10445,6 +10453,7 @@
 7770108107088,Fluvent 150Mcg Indacaterol X Capsula
 7770108107095,Fluvent 75Mcg Indacaterol X Capsula
 7770108107101,Fluvent Duo Indacaterol Glicopirronio X Capsula
+7770108107125,Prevenyl X 30 Cap Extracto Cimicif/Melat/Vitb6
 7770108107187,Dermocutyl Jabón De Carbón Activado X 75G
 7770108107309,Pañales Babu By Pompiglos Xxxg X 40 Unidades
 7770108110095,Jugo De Sábila Aloe Valencia X 1 L
@@ -10915,6 +10924,7 @@
 7770109040490,Dehidrolit S 75 Suero Oral Rehidratante Solución X 150Ml
 7770109040582,Zetalerg Cetirizina 10Mg X Tableta
 7770109040605,Dermotrizinc 25% Oxido De Zinc Pasta X 30G
+7770109040865,Paracetamol 100Mg Gotas X 15Ml Pharmandina
 7770109041022,Neurotrat Forte Vitamina B1 B6 B12 X Tableta
 7770109041060,C-Vimin 2000Mg Naranja X Sobre
 7770109041084,Quetorol Tram Ketorolaco Tramadol X Tableta Recubierta
@@ -18287,6 +18297,7 @@
 8906193891017,Caffivent 20Mg Citrato De Cafeína Iv X Ampolla 1Ml
 8906193891062,Clopigard 75Mg Clopidogrel X Comprimido
 8906193891079,Thromboclot 25000Ui Heparina Iv-Sc X Ampolla
+8906193891352,Respiflo 25/125 Aer Oral X 120 Dosis Salmet/Flutic
 8907661016482,Trivento Inhalador Oral X 120 Dosis
 8907695006039,Levinex Premix 500Mg Levetiracetam X Ampolla
 8907695031093,Aminoacidos 10% Con Electrolitos Iv Sol Iny X500ml
