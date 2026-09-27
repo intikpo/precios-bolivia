@@ -3977,7 +3977,7 @@
 48107068660,Betacaroteno 6 -10000Ui X100 Capsulas Blandas
 48107069223,Suplemento Milk Thistle Silimarina 160Mg X 90 Cápsulas
 48107069247,Suplemento Saw Palmetto 500Mg X 90 Cápsulas
-48107069360,Vitamin C 1000Mg Suplemento Vitamina C X 100 Tabletas
+48107069360,Vitamin C 1000Mg Gnc X 100 Tabletas
 48107069414,Suplemento Alimenticio Ácido Fólico Gnc 800Mcg X 100 Tabletas
 48107069599,Magnesio Gnc 250Mg X 90 Tabletas
 48107069797,Zinc 50Mg Gnc 100 Tabletas
@@ -4025,7 +4025,7 @@
 48107167165,100% Whey Protein Cookies Cream Proteina X 857.5G
 48107167172,Proteína Gnc Pro 100% Whey Protein Unflavored X 840G
 48107169039,Creatina Gnc Pro Performance Creatine 3500Mg X 120 Cápsulas
-48107169688,Weight Gainer Proteina X 1134G Chocolate
+48107169688,Weight Gainer Proteína X 1134G Chocolate
 48107169749,Proteína Gnc Weight Gainer Sabor Frutilla X 1098G
 48107170639,Aceite De Pescado Gnc Con Omega 3 Sabor Limón X 90 Cápsulas Blandas
 48107172619,Suplemento L-Carnitine Gnc X 90G
@@ -4468,6 +4468,7 @@
 610985012242,Elvive Pack Shampoo+Acond 370Ml Dream Liso
 610985012303,Pack Elvive Shampoo+Acondicionador 370Ml Glycolic Cristal
 610985012310,Pack Elvive Shampoo 370Ml+Crema Para Peinar Anticaída
+610985012327,Pack Garnier Fructis Hair Food Piña Shampoo 300Ml + Mascarilla 350Ml
 612197111119,Enterex Espesante X 227G
 612197125000,Enterex Total Vainilla Suplemento Alimenticio X 400G
 612197152006,Suplemento Alimenticio Abintra Sabor Naranja X Sobre
@@ -8622,7 +8623,14 @@
 7707275926037,Primavera Lapiz Pre-School Personajes X 6 Unidades
 7707275926563,Marcadores Primavera Permanente Solidos X 4 Colores
 7707275926587,Marcadores Primavera Permanente Solidos X 8 Colores
+7707324640013,Protector Diario Anatómico Mollis X 120 Unidades
 7707324640037,D Mujer Protectores Diario Tipo Tela X 15 Unidades
+7707324640075,Toalla Higiénica Mollis Nocturna X 8 Unidades
+7707324640082,Protector Diario Anatómico Mollis Paquete X 180 Unidades
+7707324640198,Toalla Higiénica Mollis Nocturna X 20 Unidades
+7707324640266,Toallas Higiénicas Mollis Delgadas Malla Seca Flujo Extra X 10 Unidades
+7707324640280,Toallas Higiénicas Mollis Delgadas Flujo Normal X 30 Unidades
+7707324640457,Protector Diario Anatómico Mollis X 20 Unidades
 7707324640471,Pack D'mujer Toallas Higiénicas 2 Delgadas + 1 Diario
 7707324640488,D Mujer Protectores Diarios Tipo Algodon X 60 Unidades
 7707324640556,Protectores Diarios D Mujer X 180 Unidades
@@ -10107,7 +10115,7 @@
 7770108081722,Cefabiotic 100Mg 5Ml Susp X 50Ml Cefixima S Frambu
 7770108081753,Fenoral Ketoprofeno 100Mg Y 2Ml X Ampolla
 7770108081937,Fluzet 20Mg Leflunomida X Capsula
-7770108082163,Albendazol 200Mg X 10 Comp Masticable (Ifa)
+7770108082163,Albendazol 200Mg X Comprimido Masticable
 7770108082217,Atorvastatina 10Mg X 30 Comp (Ifa)
 7770108082224,Azitromicina 500Mg X Tableta
 7770108082255,Ciprofloxacina 500Mg X 100 Comp (Ifa))
@@ -11396,6 +11404,7 @@
 7771259758044,Bebida Tradicional Pura Vida Mocochinchi X 300Ml
 7771259758051,Bebida Tradicional Pura Vida Mocochinchi Botella X 2L
 7771259758112,Leche Condensada Pil Descremada Doypack X 200G
+7771259758136,Reyna Mermelada Sachet Frutilla X 200G
 7771259758242,Leche Deslactosada Pil Monaco Con Café Bolsa X 800Ml
 7771259758303,Leche De Soya Soy Chocolate Bolsa X 900Ml
 7771259758310,Leche De Soya Soy Frutilla Bolsa X 900Ml
@@ -11613,6 +11622,11 @@
 7771621380729,Activade Zero Bebida Hidratante X 1Lt Fusion Sandia
 7771621380781,Ciclon Energy Drink Lata Original X 473Ml
 7771621380798,Energizante Ciclón Original Lata X 269Ml
+7771621380842,Té Negro Life Tea Sabor Frutos Rojos X 500Ml
+7771621380859,Bebida Carbonatada Sirius Guarana Botella X 350Ml
+7771621380866,Té Negro Life Tea Zero Sabor Durazno X 500Ml
+7771621380873,Té Verde Life Tea Zero Sabor Limon X 500Ml
+7771621380880,Té Negro Life Tea Zero Sabor Frutos Rojos X 500Ml
 7771621560060,Café Con Leche Apego To Go Sabor Vainilla Sin Azúcar X 300Ml
 7771621560077,Café Con Leche Apego To Go Sabor Caramelo Sin Azúcar X 300Ml
 7771621560084,Café Con Leche Apego To Go Sabor Almendra Sin Azúcar X 300Ml
@@ -17439,6 +17453,9 @@
 8429979490193,Pack Sesderma Antiedad C- Vit 5Serum + Mesososes Crema + Neceser
 8429979490216,Pack Sesderma Desmaquillante Sensyses + Crema Abradernol
 8429979490230,Pack Sesderma Escudo Antiedad Repaskin +Retiage
+8429979490865,Contorno De Ojos Sesderma Sescacay Rejuvenecedora X 30Ml
+8429979490872,Crema Facial Sesderma Sescacay Rejuvenecedora X 50Ml
+8429979490926,Aceite Sesderma Sescacay Biointensivo X 100Ml
 8430351066011,Cetaphil Locion Limpiadora X 237Ml
 8431166180015,Letiat4 Crema Corporal X 200Ml
 8431166180039,Letiat4 Crema Facial X 50Ml
@@ -18364,6 +18381,7 @@
 9000332,Bolsa Para Basura Belen Blanca 35 X 65Cm Primera X 50 Unidades
 90009,Bálsamo Nivea Sensitive X 100 Ml
 90009001,Panetón Basix Tradicional X 450G
+90009002,Panetón Con Chispas De Chocolate Basix X 450G
 9000926,Bolsa Navidad Farmacorp Beauty
 9000927,Bolsa Navidad Farmacorp Cuidado Personal
 9000976,Set Vincha De Conejo Ploma Con Rosado
