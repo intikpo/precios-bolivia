@@ -1920,6 +1920,7 @@
 3501134,Hidrocortisona 100Mg Im-Iv X 1 Fco/Amp (Northia)
 35011353,Deltagel Ms Susp X 200Ml Magaldrato/Simeticona
 3501136,Deltagel Ss Susp X 200Ml Sucralfato/Simeticona
+3501137,Maraden 500Mg X 5 Amp/5Ml Acido Tranexamico
 350141,Baja Lengua X 100 Uni
 350191,Botiquin Metalico Mediano
 350252,Toallitas Femeninas Nosotras Natural Buenas Noches X 10 Unidades
@@ -2951,6 +2952,7 @@
 4039239548911,Askina Silnet 10 X 18 Cm
 4039343178035,Vitamin C Injektopas 7.5G / 50Ml Iv X Ampolla
 4044518911409,Weissmoor Crema Liquida Corporal X 200Ml
+4046222401092,Contractubex Gel X 20Gr
 4046222710248,Hepa Merz L-Ornitina + L-Aspartato X Sobre
 4046963366858,Equipo Intrafix Safeset Air Il 401450S
 4046963367299,Askina Foam 10 X 10 Cm
@@ -3981,13 +3983,13 @@
 48107069414,Suplemento Alimenticio Ácido Fólico Gnc 800Mcg X 100 Tabletas
 48107069599,Magnesio Gnc 250Mg X 90 Tabletas
 48107069797,Zinc 50Mg Gnc 100 Tabletas
-48107069865,Suplemento L-Glutathione 50Mg X 50 Tabletas
+48107069865,Suplemento L-Glutathione 50Mg Gnc X 50 Tabletas
 48107070205,Iron 18 Hierro Suplemento X 100 Tabletas
 48107070236,Suplemento Potassium Gluconate 99Mg Gnc X 100 Tabletas
 48107070267,Vitamina B12 1000Mcg Gnc X 90 Tabletas
 48107072179,Suplemento L-Lysine Gnc 500Mg X 100 Tabletas
 48107072384,Suplemento 5-Htp Gnc X 30 Cápsulas
-48107074159,Suplemento Gnc Súper Digestive Enzymes X 100 Cápsulas
+48107074159,Suplemento Súper Digestive Enzymes Gnc X 100 Cápsulas
 48107074579,Lean Appetrex Control Suplemento X 60 Capsulas
 48107080419,Ácido Alpha Lipoico Gnc 600Mg X 60 Tabletas
 48107095925,Lean Shake Protein 25 Swiss Chocolate Proteína X 414Ml
@@ -10885,6 +10887,8 @@
 7770108751755,Vitapirona 500Mg Dipirona X Comprimido
 7770108751762,Digestan Sal De Frutas Berry Punch X Sobre
 7770108751809,Antigripal Vitagrip Duo X Sobre
+7770108751847,Digestan Fiesta Caja X 30 Sobres Eferv
+7770108751878,Digestan Sal De Fruta Caja X 30 Sobres
 7770108751922,Vitadril 60 Kids Sal De Rehidratación Cherry X Sobre
 7770108751946,Vitadril 60 Sport Sal De Rehidratación Energy X Sobre
 7770108751960,Paravitamol 125Mg/5Ml Paracetamol X 120Ml
@@ -10949,6 +10953,7 @@
 7770109041732,Skorpia Semaglutida 0.50Mg Frio X Jeringa Prellenada
 7770109041749,Glizinda Dapagliflozina 10Mg X Comprimido
 7770109041756,Skorpia Semaglutida 0.25Mg Frio X Jeringa Prellenada
+7770109041947,Echibucal Spray X 30Ml Extracto Echiniacea/Salvia
 7770109041954,Skorpia Semaglutida 0.50Mg Frio X Jeringa Prellenada
 7770109150014,Miel De Abeja Ecolmena X 920G
 7770109150038,Miel De Abeja Ecolmena X 460G
@@ -11316,6 +11321,8 @@
 7771258640678,Pil Tarija Yogurt Frutado X 140Ml
 7771258640692,Pil Tarija Yogurt Bebible X 2L
 7771258640746,Pil Tarija Leche Natural Larga Vida X 800Ml
+7771258680049,Papas Fritas Ta Bueno Clasicas Bolsa X 80G
+7771258680209,Papas Fritas Ta Bueno Sabor Churrasco Bolsa X 100G
 7771258880043,Vinagre Natural J.E Piña X 1000Ml
 7771258880098,Vinagre Natural J.E Manzana X 1000Ml
 7771258880104,Vinagre Natural J.E Manzana Y Cúrcuma X 1000Ml
@@ -13630,6 +13637,8 @@
 7792183489071,Eplerona 25Mg Eplerenona X Tableta
 7792183489088,Eplerona 50Mg Eplerenona X Tableta
 7792183489149,Pregabax Pregabalina 150Mg X Capsula
+7792183490046,Aturen 500 X 30 Comp Diosmina/Hesperidina
+7792183490060,Aturen 1000 X 30 Comp Diosmina/Hesperidina
 7792183490374,Fucsia Drospirenona 4Mg X 28 Comprimidos
 77922120,Cofler Block Chocolate Leche Con Mani X 110G
 7792222003794,Mentitas Sabor Menta X 23G
@@ -13810,8 +13819,10 @@
 7795368547979,Diaris Omega X Capsula Blanda
 7795373001831,Suavicort 50Mcg Spray Nasal X150 Dosis Mometasona
 7795373012288,Salbutamol 100Mcg Aerosol X250 Dosis
+7795373013087,Aerotrop 20Mcg Aerosol X 250 Dosis Ipratropio
 7795373014046,Fluticort 125Mcg Aero X120 Dosis Fluticasona Farma
 7795373015104,Ironcas 100Mg Iv X 1 Amp/5Ml Hierro Sacarato
+7795373015135,Salbutral Ac Aero X250 Dosis Salbut/Ipratropio
 7795373015159,Flutivent 125 25Mcg Aero X 120 Dosis Flutic Salmet
 7795373017627,Fluticort 50Mcg Spray Nasal X 60 Dosis Fluticasona
 7795373022126,Butocort Hfa Aero X250 Dosis Salbuta Beclome Farma
@@ -16068,6 +16079,7 @@
 7896115703560,Shampoo Tralala Kids Rizos X 480Ml
 7896115703577,Acondicionador Tralala Kids Rizos X 480Ml
 7896115704109,Desodorante Infantil Tralala Kids Sin Perfume X 65Ml
+7896115704123,Kit Shampoo+Acondicionador Tralala Kids Rizos X 480Ml
 7896115704314,Gel Dental Tralala Baby Manzana Y Pera X 70G
 7896115704444,Shampoo Tralala Baby Suave Lavanda X 250Ml
 7896115704475,Shampoo Tralala Baby Hidrata Aloe Vera X 250Ml
@@ -16711,6 +16723,8 @@
 8002660044181,Resyniv Denosumab 60Mg/Ml Frio X 1 Jeringa Prellenada
 8002660045263,Efflusso 10Mg Empagliflozina X Comprimido
 8002660045270,Efflusso 25Mg Empagliflozina X Comprimido
+8002660045454,Lperlara 10Mg X 21 Cap Lenalidomida<Onc>
+8002660045478,Perlara 25Mg X 21 Cap Lenalidomida<Onc>
 8003340096230,Lindt Lindor Bombon De Leche X 75G
 8003340096247,Bombon Surtido Lindt Lindor X 75G
 800471,Excellence Tinte 7.11 Color Rubio Ceniza Profundo X Unidad
